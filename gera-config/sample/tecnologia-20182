@@ -1,0 +1,1340 @@
+<table class="tabela" border="1" width="100%" style="font-size:8pt;">
+<tr>
+<th colspan="8" align="center" style="font-weight:bold; text-transform:uppercase; padding:10px 0px;">
+Tecnologia - DEPARTAMENTO ACADÊMICO DE LETRAS
+</th>
+<tr>
+<tr>
+<td align="center" style="font-weight:bold;">Código</td>
+<td align="center" style="font-weight:bold;">Disciplina</td>
+<td align="center" style="font-weight:bold;">Turma</td>
+<td align="center" style="font-weight:bold;">Vg. Calouros</td>
+<td align="center" style="font-weight:bold;">Vg. Veteranos</td>
+<td align="center" style="font-weight:bold;">Vg. Ocup.</td>
+<td align="center" style="font-weight:bold;">Vg. Rest.</td>
+<td align="center" style="font-weight:bold;">Horário(Sala)</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">CL21S</td>
+<td align="left" rowspan="1">Comunicação Linguística</td>
+<td align="center">1SI</td>
+<td align="center">26</td>
+<td align="center">4</td>
+<td align="center">27</td>
+<td align="center">3</td>
+<td align="right">
+4N1 (V109)
+ - 4N2 (V109)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">CO31M</td>
+<td align="left" rowspan="1">Comunicação Oral E Escrita</td>
+<td align="center">1MN</td>
+<td align="center">26</td>
+<td align="center">4</td>
+<td align="center">24</td>
+<td align="center">6</td>
+<td align="right">
+3N1 (N010)
+ - 3N2 (N010)
+ - 3N3 (N010)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">II31MTEC</td>
+<td align="left" rowspan="1">Inglês Instrumental</td>
+<td align="center">1MN</td>
+<td align="center">26</td>
+<td align="center">4</td>
+<td align="center">25</td>
+<td align="center">5</td>
+<td align="right">
+5N1 (V003)
+ - 5N2 (V003)
+</td>
+</tr>
+<tr>
+<th colspan="8" align="center" style="font-weight:bold; text-transform:uppercase; padding:10px 0px;">
+Tecnologia - DEPARTAMENTO ACADÊMICO DE ADMINISTRAÇÃO
+</th>
+<tr>
+<tr>
+<td align="center" style="font-weight:bold;">Código</td>
+<td align="center" style="font-weight:bold;">Disciplina</td>
+<td align="center" style="font-weight:bold;">Turma</td>
+<td align="center" style="font-weight:bold;">Vg. Calouros</td>
+<td align="center" style="font-weight:bold;">Vg. Veteranos</td>
+<td align="center" style="font-weight:bold;">Vg. Ocup.</td>
+<td align="center" style="font-weight:bold;">Vg. Rest.</td>
+<td align="center" style="font-weight:bold;">Horário(Sala)</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EE25S</td>
+<td align="left" rowspan="1">Empreendedorismo</td>
+<td align="center">5SI</td>
+<td align="center">0</td>
+<td align="center">17</td>
+<td align="center">17</td>
+<td align="center">0</td>
+<td align="right">
+5N1 (N105)
+ - 5N2 (N105)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EM35M</td>
+<td align="left" rowspan="1">Empreendedorismo</td>
+<td align="center">5MN</td>
+<td align="center">0</td>
+<td align="center">26</td>
+<td align="center">26</td>
+<td align="center">0</td>
+<td align="right">
+5N1 (N105)
+ - 5N2 (N105)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">GO36M</td>
+<td align="left" rowspan="1">Gestão Organizacional</td>
+<td align="center">6MN</td>
+<td align="center">0</td>
+<td align="center">26</td>
+<td align="center">11</td>
+<td align="center">15</td>
+<td align="right">
+4N1 (Q007)
+ - 5N1 (Q007)
+ - 5N2 (Q007)
+ - 5N3 (Q007)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">SG33M</td>
+<td align="left" rowspan="1">Sistemas Gerenciais</td>
+<td align="center">3MN</td>
+<td align="center">0</td>
+<td align="center">35</td>
+<td align="center">19</td>
+<td align="center">16</td>
+<td align="right">
+2N4 (M103)
+ - 2N5 (M103)
+ - 3N4 (M103)
+ - 3N5 (M103)
+</td>
+</tr>
+<tr>
+<th colspan="8" align="center" style="font-weight:bold; text-transform:uppercase; padding:10px 0px;">
+Tecnologia - DEPARTAMENTO ACADÊMICO DE CIÊNCIAS HUMANAS
+</th>
+<tr>
+<tr>
+<td align="center" style="font-weight:bold;">Código</td>
+<td align="center" style="font-weight:bold;">Disciplina</td>
+<td align="center" style="font-weight:bold;">Turma</td>
+<td align="center" style="font-weight:bold;">Vg. Calouros</td>
+<td align="center" style="font-weight:bold;">Vg. Veteranos</td>
+<td align="center" style="font-weight:bold;">Vg. Ocup.</td>
+<td align="center" style="font-weight:bold;">Vg. Rest.</td>
+<td align="center" style="font-weight:bold;">Horário(Sala)</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">MP24S</td>
+<td align="left" rowspan="1">Metodologia Da Pesquisa</td>
+<td align="center">4SI</td>
+<td align="center">0</td>
+<td align="center">20</td>
+<td align="center">19</td>
+<td align="center">1</td>
+<td align="right">
+3N1 (V008)
+ - 3N2 (V008)
+</td>
+</tr>
+<tr>
+<th colspan="8" align="center" style="font-weight:bold; text-transform:uppercase; padding:10px 0px;">
+Tecnologia - DEPARTAMENTO ACADÊMICO DE ELETRICA
+</th>
+<tr>
+<tr>
+<td align="center" style="font-weight:bold;">Código</td>
+<td align="center" style="font-weight:bold;">Disciplina</td>
+<td align="center" style="font-weight:bold;">Turma</td>
+<td align="center" style="font-weight:bold;">Vg. Calouros</td>
+<td align="center" style="font-weight:bold;">Vg. Veteranos</td>
+<td align="center" style="font-weight:bold;">Vg. Ocup.</td>
+<td align="center" style="font-weight:bold;">Vg. Rest.</td>
+<td align="center" style="font-weight:bold;">Horário(Sala)</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">AI33M</td>
+<td align="left" rowspan="1">Acionamentos Industriais</td>
+<td align="center">3MN</td>
+<td align="center">0</td>
+<td align="center">30</td>
+<td align="center">25</td>
+<td align="center">5</td>
+<td align="right">
+2N1 (I001)
+ - 2N2 (I001)
+ - 2N3 (I001)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">AI36M</td>
+<td align="left" rowspan="1">Automação Industrial</td>
+<td align="center">6MN</td>
+<td align="center">0</td>
+<td align="center">26</td>
+<td align="center">18</td>
+<td align="center">8</td>
+<td align="right">
+2N1 (I005)
+ - 2N2 (I005)
+ - 3N1 (I005)
+ - 3N2 (I005)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">CA33M</td>
+<td align="left" rowspan="1">Controle E Automaçao</td>
+<td align="center">3MN</td>
+<td align="center">0</td>
+<td align="center">30</td>
+<td align="center">27</td>
+<td align="center">3</td>
+<td align="right">
+3N3 (I005)
+ - 4N3 (I005)
+ - 4N4 (I005)
+ - 4N5 (I005)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">CE36M</td>
+<td align="left" rowspan="1">Conservação De Energia</td>
+<td align="center">6MN</td>
+<td align="center">0</td>
+<td align="center">26</td>
+<td align="center">11</td>
+<td align="center">15</td>
+<td align="right">
+2N3 (N106)
+ - 2N4 (N106)
+ - 2N5 (N106)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EI33M</td>
+<td align="left" rowspan="1">Eletrônica</td>
+<td align="center">3MN</td>
+<td align="center">0</td>
+<td align="center">30</td>
+<td align="center">30</td>
+<td align="center">0</td>
+<td align="right">
+5N1 (I010)
+ - 5N2 (I010)
+ - 6N4 (I010)
+ - 6N5 (I010)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EI34M</td>
+<td align="left" rowspan="1">Eletrônica Industrial</td>
+<td align="center">4MN</td>
+<td align="center">0</td>
+<td align="center">30</td>
+<td align="center">18</td>
+<td align="center">12</td>
+<td align="right">
+5N1 (I005)
+ - 5N2 (I005)
+ - 6N4 (I008)
+ - 6N5 (I008)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EL31M</td>
+<td align="left" rowspan="1">Eletricidade</td>
+<td align="center">1MN</td>
+<td align="center">26</td>
+<td align="center">24</td>
+<td align="center">38</td>
+<td align="center">12</td>
+<td align="right">
+4N1 (N010)
+ - 4N2 (N010)
+ - 4N3 (N010)
+ - 6N1 (N010)
+ - 6N2 (N010)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EM34M</td>
+<td align="left" rowspan="1">Ensaio E Manutenção De Transformadores</td>
+<td align="center">4MN</td>
+<td align="center">0</td>
+<td align="center">30</td>
+<td align="center">21</td>
+<td align="center">9</td>
+<td align="right">
+4N3 (I001)
+ - 4N4 (I001)
+ - 4N5 (I001)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">IA34M</td>
+<td align="left" rowspan="1">Informática Aplicada</td>
+<td align="center">4MN</td>
+<td align="center">0</td>
+<td align="center">30</td>
+<td align="center">20</td>
+<td align="center">10</td>
+<td align="right">
+6N1 (I008)
+ - 6N2 (I008)
+ - 6N3 (I008)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">IE31M</td>
+<td align="left" rowspan="1">Instalações Elétricas Prediais</td>
+<td align="center">1MN</td>
+<td align="center">26</td>
+<td align="center">4</td>
+<td align="center">26</td>
+<td align="center">4</td>
+<td align="right">
+6N3 (V105)
+ - 6N4 (V105)
+ - 6N5 (V105)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">IE32M</td>
+<td align="left" rowspan="1">Instalações Elétricas Industriais</td>
+<td align="center">2MN</td>
+<td align="center">0</td>
+<td align="center">40</td>
+<td align="center">20</td>
+<td align="center">20</td>
+<td align="right">
+4N3 (N011)
+ - 4N4 (N011)
+ - 4N5 (N011)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">IM32M</td>
+<td align="left" rowspan="1">Instrumentos E Medidas</td>
+<td align="center">2MN</td>
+<td align="center">0</td>
+<td align="center">30</td>
+<td align="center">19</td>
+<td align="center">11</td>
+<td align="right">
+3N4 (N011)
+ - 3N5 (N011)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">ME32M</td>
+<td align="left" rowspan="1">Máquinas Elétricas</td>
+<td align="center">2MN</td>
+<td align="center">0</td>
+<td align="center">40</td>
+<td align="center">23</td>
+<td align="center">17</td>
+<td align="right">
+4N1 (I001)
+ - 4N2 (I001)
+ - 6N1 (I001)
+ - 6N2 (I001)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">ME34M</td>
+<td align="left" rowspan="1">Manutenção Elétrica Predial</td>
+<td align="center">4MN</td>
+<td align="center">0</td>
+<td align="center">30</td>
+<td align="center">29</td>
+<td align="center">1</td>
+<td align="right">
+3N3 (M104)
+ - 3N4 (M104)
+ - 3N5 (M104)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">ME35M</td>
+<td align="left" rowspan="1">Manutenção Eletrônica</td>
+<td align="center">5MN</td>
+<td align="center">0</td>
+<td align="center">26</td>
+<td align="center">12</td>
+<td align="center">14</td>
+<td align="right">
+4N1 (N105)
+ - 4N2 (N105)
+ - 6N1 (I010)
+ - 6N2 (I010)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">MI35M</td>
+<td align="left" rowspan="1">Manutenção Elétrica Industrial</td>
+<td align="center">5MN</td>
+<td align="center">0</td>
+<td align="center">26</td>
+<td align="center">11</td>
+<td align="center">15</td>
+<td align="right">
+4N3 (I003)
+ - 4N4 (I003)
+ - 4N5 (I003)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">MM35M</td>
+<td align="left" rowspan="1">Ensaio E Manutenção De Máquinas Elétricas</td>
+<td align="center">5MN</td>
+<td align="center">0</td>
+<td align="center">26</td>
+<td align="center">10</td>
+<td align="center">16</td>
+<td align="right">
+3N3 (I001)
+ - 3N4 (I001)
+ - 3N5 (I001)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">ST32M</td>
+<td align="left" rowspan="1">Segurança Do Trabalho</td>
+<td align="center">2MN</td>
+<td align="center">0</td>
+<td align="center">26</td>
+<td align="center">16</td>
+<td align="center">10</td>
+<td align="right">
+5N4 (N011)
+ - 5N5 (N011)
+</td>
+</tr>
+<tr>
+<th colspan="8" align="center" style="font-weight:bold; text-transform:uppercase; padding:10px 0px;">
+Tecnologia - DEPARTAMENTO ACADÊMICO DE MATEMATICA
+</th>
+<tr>
+<tr>
+<td align="center" style="font-weight:bold;">Código</td>
+<td align="center" style="font-weight:bold;">Disciplina</td>
+<td align="center" style="font-weight:bold;">Turma</td>
+<td align="center" style="font-weight:bold;">Vg. Calouros</td>
+<td align="center" style="font-weight:bold;">Vg. Veteranos</td>
+<td align="center" style="font-weight:bold;">Vg. Ocup.</td>
+<td align="center" style="font-weight:bold;">Vg. Rest.</td>
+<td align="center" style="font-weight:bold;">Horário(Sala)</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">CA31M</td>
+<td align="left" rowspan="1">Cálculo</td>
+<td align="center">1MN</td>
+<td align="center">26</td>
+<td align="center">24</td>
+<td align="center">30</td>
+<td align="center">20</td>
+<td align="right">
+3N4 (N010)
+ - 3N5 (N010)
+ - 4N4 (N010)
+ - 4N5 (N010)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">ES34MTEC</td>
+<td align="left" rowspan="1">Estatística</td>
+<td align="center">4MN</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">26</td>
+<td align="center">18</td>
+<td align="right">
+5N3 (V104)
+ - 5N4 (V104)
+ - 5N5 (V104)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">FE22S</td>
+<td align="left" rowspan="2">Fundamentos De Estatística</td>
+<td align="center">2SISP</td>
+<td align="center">0</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">0</td>
+<td align="right">
+</td>
+</tr>
+<td align="center">2SI</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">24</td>
+<td align="center">1</td>
+<td align="right">
+2N1 (V107)
+ - 2N2 (V107)
+ - 2N3 (V107)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">LT21S</td>
+<td align="left" rowspan="1">Lógica E Teoria Dos Conjuntos</td>
+<td align="center">1SI</td>
+<td align="center">26</td>
+<td align="center">4</td>
+<td align="center">23</td>
+<td align="center">7</td>
+<td align="right">
+5N3 (M007)
+ - 5N4 (M007)
+ - 5N5 (M007)
+</td>
+</tr>
+<tr>
+<th colspan="8" align="center" style="font-weight:bold; text-transform:uppercase; padding:10px 0px;">
+Tecnologia - DEPARTAMENTO ACADÊMICO DE MECANICA
+</th>
+<tr>
+<tr>
+<td align="center" style="font-weight:bold;">Código</td>
+<td align="center" style="font-weight:bold;">Disciplina</td>
+<td align="center" style="font-weight:bold;">Turma</td>
+<td align="center" style="font-weight:bold;">Vg. Calouros</td>
+<td align="center" style="font-weight:bold;">Vg. Veteranos</td>
+<td align="center" style="font-weight:bold;">Vg. Ocup.</td>
+<td align="center" style="font-weight:bold;">Vg. Rest.</td>
+<td align="center" style="font-weight:bold;">Horário(Sala)</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">DT31M</td>
+<td align="left" rowspan="1">Desenho Técnico</td>
+<td align="center">1MN</td>
+<td align="center">26</td>
+<td align="center">2</td>
+<td align="center">23</td>
+<td align="center">5</td>
+<td align="right">
+2N1 (M108)
+ - 2N2 (M108)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">DT32M</td>
+<td align="left" rowspan="1">Desenho Técnico Assistido Por Computador</td>
+<td align="center">2MN</td>
+<td align="center">0</td>
+<td align="center">28</td>
+<td align="center">16</td>
+<td align="center">12</td>
+<td align="right">
+6N4 (V007)
+ - 6N5 (V007)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">DV35M</td>
+<td align="left" rowspan="1">Distribuição De Vapor E Ar Comprimido</td>
+<td align="center">5MN</td>
+<td align="center">0</td>
+<td align="center">26</td>
+<td align="center">20</td>
+<td align="center">6</td>
+<td align="right">
+5N3 (N105)
+ - 5N4 (N105)
+ - 5N5 (N105)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EM33M</td>
+<td align="left" rowspan="1">Elementos De Máquinas</td>
+<td align="center">3MN</td>
+<td align="center">0</td>
+<td align="center">30</td>
+<td align="center">14</td>
+<td align="center">16</td>
+<td align="right">
+5N3 (M103)
+ - 5N4 (M103)
+ - 5N5 (M103)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">FA36M</td>
+<td align="left" rowspan="1">Fabricação Automatizada</td>
+<td align="center">6MN</td>
+<td align="center">0</td>
+<td align="center">26</td>
+<td align="center">12</td>
+<td align="center">14</td>
+<td align="right">
+5N4 (H003)
+ - 5N5 (H003)
+ - 6N1 (H003)
+ - 6N2 (H003)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">GM34M</td>
+<td align="left" rowspan="1">Gerência Da Manutenção</td>
+<td align="center">4MN</td>
+<td align="center">0</td>
+<td align="center">30</td>
+<td align="center">23</td>
+<td align="center">7</td>
+<td align="right">
+3N2 (M104)
+ - 4N1 (M104)
+ - 4N2 (M104)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">GR35M</td>
+<td align="left" rowspan="1">Gestão De Recursos Da Manutenção</td>
+<td align="center">5MN</td>
+<td align="center">0</td>
+<td align="center">26</td>
+<td align="center">6</td>
+<td align="center">20</td>
+<td align="right">
+6N3 (N110)
+ - 6N4 (N110)
+ - 6N5 (N110)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">HP32M</td>
+<td align="left" rowspan="1">Hidráulica E Pneumática</td>
+<td align="center">2MN</td>
+<td align="center">0</td>
+<td align="center">28</td>
+<td align="center">18</td>
+<td align="center">10</td>
+<td align="right">
+2N4 (H003)
+ - 2N5 (H003)
+ - 3N1 (H003)
+ - 3N2 (H003)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">LU34M</td>
+<td align="left" rowspan="1">Lubrificação</td>
+<td align="center">4MN</td>
+<td align="center">0</td>
+<td align="center">30</td>
+<td align="center">23</td>
+<td align="center">7</td>
+<td align="right">
+2N1 (H002)
+ - 2N2 (H002)
+ - 3N1 (H002)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">ME33M</td>
+<td align="left" rowspan="1">Máquinas E Equipamentos</td>
+<td align="center">3MN</td>
+<td align="center">0</td>
+<td align="center">30</td>
+<td align="center">14</td>
+<td align="center">16</td>
+<td align="right">
+6N1 (M103)
+ - 6N2 (M103)
+ - 6N3 (M103)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">PC36M</td>
+<td align="left" rowspan="1">Planejamento E Controle Da Manutenção</td>
+<td align="center">6MN</td>
+<td align="center">0</td>
+<td align="center">26</td>
+<td align="center">7</td>
+<td align="center">19</td>
+<td align="right">
+3N3 (N106)
+ - 3N4 (N106)
+ - 3N5 (N106)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">PF32M</td>
+<td align="left" rowspan="1">Processo De Fabricação</td>
+<td align="center">2MN</td>
+<td align="center">0</td>
+<td align="center">30</td>
+<td align="center">21</td>
+<td align="center">9</td>
+<td align="right">
+2N1 (H003)
+ - 2N2 (H003)
+ - 2N3 (H003)
+ - 3N3 (H003)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">PU33M</td>
+<td align="left" rowspan="1">Processos E Usinagem</td>
+<td align="center">3MN</td>
+<td align="center">0</td>
+<td align="center">26</td>
+<td align="center">13</td>
+<td align="center">13</td>
+<td align="right">
+3N1 (M103)
+ - 3N2 (M103)
+ - 4N1 (M103)
+ - 4N2 (M103)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">RA36M</td>
+<td align="left" rowspan="1">Refrigeração E Ar Condicionado</td>
+<td align="center">6MN</td>
+<td align="center">0</td>
+<td align="center">26</td>
+<td align="center">10</td>
+<td align="center">16</td>
+<td align="right">
+6N3 (N106)
+ - 6N4 (N106)
+ - 6N5 (N106)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">RM32M</td>
+<td align="left" rowspan="1">Resistência Dos Materiais</td>
+<td align="center">2MN</td>
+<td align="center">0</td>
+<td align="center">50</td>
+<td align="center">18</td>
+<td align="center">32</td>
+<td align="right">
+5N1 (N011)
+ - 5N2 (N011)
+ - 5N3 (N011)
+ - 6N3 (N011)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">SO34M</td>
+<td align="left" rowspan="1">Soldagem</td>
+<td align="center">4MN</td>
+<td align="center">0</td>
+<td align="center">26</td>
+<td align="center">25</td>
+<td align="center">1</td>
+<td align="right">
+2N3 (M104)
+ - 2N4 (M104)
+ - 2N5 (M104)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">TM31MTEC</td>
+<td align="left" rowspan="1">Tecnologia Dos Materiais</td>
+<td align="center">1MN</td>
+<td align="center">26</td>
+<td align="center">24</td>
+<td align="center">30</td>
+<td align="center">20</td>
+<td align="right">
+2N3 (N010)
+ - 2N4 (N010)
+ - 2N5 (N010)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">TM35M</td>
+<td align="left" rowspan="1">Técnicas Metalúrgicas</td>
+<td align="center">5MN</td>
+<td align="center">0</td>
+<td align="center">26</td>
+<td align="center">19</td>
+<td align="center">7</td>
+<td align="right">
+2N3 (N105)
+ - 2N4 (N105)
+ - 2N5 (N105)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">TP35M</td>
+<td align="left" rowspan="1">Técnicas Preditivas</td>
+<td align="center">5MN</td>
+<td align="center">0</td>
+<td align="center">26</td>
+<td align="center">12</td>
+<td align="center">14</td>
+<td align="right">
+2N1 (N105)
+ - 2N2 (N105)
+ - 3N1 (N105)
+ - 3N2 (N105)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">TP36M</td>
+<td align="left" rowspan="1">Técnicas Preditivas Avançadas</td>
+<td align="center">6MN</td>
+<td align="center">0</td>
+<td align="center">26</td>
+<td align="center">7</td>
+<td align="center">19</td>
+<td align="right">
+4N2 (N106)
+ - 4N3 (N106)
+ - 4N4 (N106)
+ - 4N5 (N106)
+</td>
+</tr>
+<tr>
+<th colspan="8" align="center" style="font-weight:bold; text-transform:uppercase; padding:10px 0px;">
+Tecnologia - DEPARTAMENTO ACADÊMICO DE INFORMATICA
+</th>
+<tr>
+<tr>
+<td align="center" style="font-weight:bold;">Código</td>
+<td align="center" style="font-weight:bold;">Disciplina</td>
+<td align="center" style="font-weight:bold;">Turma</td>
+<td align="center" style="font-weight:bold;">Vg. Calouros</td>
+<td align="center" style="font-weight:bold;">Vg. Veteranos</td>
+<td align="center" style="font-weight:bold;">Vg. Ocup.</td>
+<td align="center" style="font-weight:bold;">Vg. Rest.</td>
+<td align="center" style="font-weight:bold;">Horário(Sala)</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">AD23S</td>
+<td align="left" rowspan="1">Desenvolvimento De Aplicações Distribuídas</td>
+<td align="center">4SI</td>
+<td align="center">0</td>
+<td align="center">20</td>
+<td align="center">15</td>
+<td align="center">5</td>
+<td align="right">
+2N3 (V008)
+ - 2N4 (V008)
+ - 3N3 (V008)
+ - 3N4 (V008)
+ - 3N5 (V008)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">BD21S</td>
+<td align="left" rowspan="1">Fundamentos De Banco De Dados</td>
+<td align="center">1SI</td>
+<td align="center">26</td>
+<td align="center">5</td>
+<td align="center">28</td>
+<td align="center">3</td>
+<td align="right">
+3N4 (V109)
+ - 3N5 (V109)
+ - 6N3 (V109)
+ - 6N4 (V109)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">BD22S</td>
+<td align="left" rowspan="3">Banco De Dados</td>
+<td align="center">2SI</td>
+<td align="center">0</td>
+<td align="center">17</td>
+<td align="center">17</td>
+<td align="center">0</td>
+<td align="right">
+5N4 (V107)
+ - 5N5 (V107)
+ - 6N4 (V107)
+ - 6N5 (V107)
+</td>
+</tr>
+<td align="center">2SIB</td>
+<td align="center">0</td>
+<td align="center">17</td>
+<td align="center">16</td>
+<td align="center">1</td>
+<td align="right">
+5N4 (V108)
+ - 5N5 (V108)
+ - 6N4 (V108)
+ - 6N5 (V108)
+</td>
+</tr>
+<td align="center">2SISP</td>
+<td align="center">0</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">0</td>
+<td align="right">
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">BD23S</td>
+<td align="left" rowspan="1">Banco De Dados Avançado</td>
+<td align="center">3SI</td>
+<td align="center">0</td>
+<td align="center">20</td>
+<td align="center">20</td>
+<td align="center">0</td>
+<td align="right">
+4N2 (V108)
+ - 4N3 (V108)
+ - 6N1 (V108)
+ - 6N2 (V108)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">ED22S</td>
+<td align="left" rowspan="1">Estruturas De Dados, Pesquisa E Ordenação</td>
+<td align="center">2SI</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">18</td>
+<td align="center">7</td>
+<td align="right">
+4N3 (V107)
+ - 4N4 (V107)
+ - 4N5 (V107)
+ - 5N1 (V107)
+ - 5N2 (V107)
+ - 5N3 (V107)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">ES22S</td>
+<td align="left" rowspan="1">Engenharia De Software</td>
+<td align="center">2SI</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">22</td>
+<td align="center">3</td>
+<td align="right">
+6N1 (V107)
+ - 6N2 (V107)
+ - 6N3 (V107)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">FP21S</td>
+<td align="left" rowspan="2">Fundamentos De Programação</td>
+<td align="center">1SI</td>
+<td align="center">26</td>
+<td align="center">11</td>
+<td align="center">32</td>
+<td align="center">5</td>
+<td align="right">
+2N3 (V109)
+ - 2N4 (V109)
+ - 2N5 (V109)
+ - 4N3 (V109)
+ - 4N4 (V109)
+ - 4N5 (V109)
+</td>
+</tr>
+<td align="center">1SISP</td>
+<td align="center">0</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">0</td>
+<td align="right">
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">GP26S</td>
+<td align="left" rowspan="1">Gestão De Projetos De Software</td>
+<td align="center">5SI</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">13</td>
+<td align="center">2</td>
+<td align="right">
+3N3 (V106)
+ - 3N4 (V106)
+ - 3N5 (V106)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">IH24S</td>
+<td align="left" rowspan="1">Interação Ser Humano Computador</td>
+<td align="center">3SI</td>
+<td align="center">0</td>
+<td align="center">30</td>
+<td align="center">30</td>
+<td align="center">0</td>
+<td align="right">
+5N3 (V109)
+ - 5N4 (V109)
+ - 5N5 (V109)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">II21S</td>
+<td align="left" rowspan="1">Introdução  À Informática</td>
+<td align="center">1SI</td>
+<td align="center">26</td>
+<td align="center">4</td>
+<td align="center">23</td>
+<td align="center">7</td>
+<td align="right">
+5N1 (V109)
+ - 5N2 (V109)
+ - 6N1 (V109)
+ - 6N2 (V109)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">IS21S</td>
+<td align="left" rowspan="1">Informática E Sociedade</td>
+<td align="center">1SI</td>
+<td align="center">26</td>
+<td align="center">4</td>
+<td align="center">22</td>
+<td align="center">8</td>
+<td align="right">
+3N2 (V109)
+ - 3N3 (V109)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">LA24S</td>
+<td align="left" rowspan="2">Linguagens De Apresentação E Estruturação De Conteúdo</td>
+<td align="center">4SISP</td>
+<td align="center">0</td>
+<td align="center">2</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="right">
+</td>
+</tr>
+<td align="center">4SI</td>
+<td align="center">0</td>
+<td align="center">20</td>
+<td align="center">20</td>
+<td align="center">0</td>
+<td align="right">
+4N3 (V008)
+ - 5N1 (V008)
+ - 5N2 (V008)
+ - 5N3 (V008)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">LP31M</td>
+<td align="left" rowspan="1">Lógica De Programação</td>
+<td align="center">1MN</td>
+<td align="center">26</td>
+<td align="center">6</td>
+<td align="center">28</td>
+<td align="center">4</td>
+<td align="right">
+5N3 (V007)
+ - 5N4 (V007)
+ - 5N5 (V007)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">LR23S</td>
+<td align="left" rowspan="1">Laboratório De Redes E Sistemas Operacionais</td>
+<td align="center">3SI</td>
+<td align="center">0</td>
+<td align="center">26</td>
+<td align="center">26</td>
+<td align="center">0</td>
+<td align="right">
+2N1 (V006)
+ - 2N2 (V006)
+ - 2N3 (V006)
+ - 3N4 (V006)
+ - 3N5 (V006)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">OD26S</td>
+<td align="left" rowspan="2">Oficina De Projeto E Desenvolvimento</td>
+<td align="center">6SI</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">10</td>
+<td align="center">5</td>
+<td align="right">
+2N1 (V105)
+ - 2N2 (V105)
+ - 4N4 (V105)
+ - 4N5 (V105)
+</td>
+</tr>
+<td align="center">6SISP</td>
+<td align="center">0</td>
+<td align="center">2</td>
+<td align="center">0</td>
+<td align="center">2</td>
+<td align="right">
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">OO22S</td>
+<td align="left" rowspan="2">Fundamentos De Orientação A Objetos</td>
+<td align="center">2SI</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">21</td>
+<td align="center">4</td>
+<td align="right">
+3N4 (V107)
+ - 3N5 (V107)
+ - 4N1 (V107)
+ - 4N2 (V107)
+</td>
+</tr>
+<td align="center">2SISP</td>
+<td align="center">0</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">0</td>
+<td align="right">
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">OO23S</td>
+<td align="left" rowspan="1">Programação Orientada A Objetos 1</td>
+<td align="center">3SI</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+3N2 (V108)
+ - 3N3 (V108)
+ - 4N4 (V108)
+ - 4N5 (V108)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">OO24S</td>
+<td align="left" rowspan="1">Programação Orientada A Objetos 2</td>
+<td align="center">4SI</td>
+<td align="center">0</td>
+<td align="center">20</td>
+<td align="center">16</td>
+<td align="center">4</td>
+<td align="right">
+2N1 (V008)
+ - 2N2 (V008)
+ - 4N1 (V008)
+ - 4N2 (V008)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">PD24S</td>
+<td align="left" rowspan="1">Programação Para Desktop</td>
+<td align="center">4SI</td>
+<td align="center">0</td>
+<td align="center">20</td>
+<td align="center">19</td>
+<td align="center">1</td>
+<td align="right">
+5N4 (V008)
+ - 5N5 (V008)
+ - 6N1 (V008)
+ - 6N2 (V008)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">PD25S</td>
+<td align="left" rowspan="1">Tópicos Avançados Em Programação Para Desktop</td>
+<td align="center">5SI</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">13</td>
+<td align="center">2</td>
+<td align="right">
+6N3 (V008)
+ - 6N4 (V008)
+ - 6N5 (V008)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">PM25S</td>
+<td align="left" rowspan="1">Programa Para Dispositivos Móveis</td>
+<td align="center">5SI</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">15</td>
+<td align="center">0</td>
+<td align="right">
+2N1 (V106)
+ - 2N2 (V106)
+ - 2N3 (V106)
+ - 2N4 (V106)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">PM26S</td>
+<td align="left" rowspan="1">Tópicos Avançados Em Programação Para Dispositivos Móveis</td>
+<td align="center">6SI</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">14</td>
+<td align="center">1</td>
+<td align="right">
+5N1 (V105)
+ - 5N2 (V105)
+ - 5N3 (V105)
+ - 5N4 (V105)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">PP24S</td>
+<td align="left" rowspan="1">Padrões De Projeto</td>
+<td align="center">4SI</td>
+<td align="center">0</td>
+<td align="center">20</td>
+<td align="center">15</td>
+<td align="center">5</td>
+<td align="right">
+4N4 (V008)
+ - 4N5 (V008)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">PW25S</td>
+<td align="left" rowspan="1">Programação Para Web</td>
+<td align="center">5SI</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">12</td>
+<td align="center">3</td>
+<td align="right">
+3N1 (V106)
+ - 3N2 (V106)
+ - 4N3 (V106)
+ - 4N4 (V106)
+ - 4N5 (V106)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">PW26S</td>
+<td align="left" rowspan="1">Tópicos Avançados Em Programação Para Web</td>
+<td align="center">6SI</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">11</td>
+<td align="center">4</td>
+<td align="right">
+2N3 (V105)
+ - 2N4 (V105)
+ - 2N5 (V105)
+ - 3N3 (V105)
+ - 3N4 (V105)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">QS24S</td>
+<td align="left" rowspan="1">Qualidade De Software</td>
+<td align="center">4SI</td>
+<td align="center">0</td>
+<td align="center">20</td>
+<td align="center">20</td>
+<td align="center">0</td>
+<td align="right">
+6N3 (V106)
+ - 6N4 (V106)
+ - 6N5 (V106)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">RC22S</td>
+<td align="left" rowspan="1">Redes De Computadores</td>
+<td align="center">2SI</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">25</td>
+<td align="center">0</td>
+<td align="right">
+2N4 (V006)
+ - 2N5 (V006)
+ - 3N1 (V006)
+ - 3N2 (V006)
+ - 3N3 (V006)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">SA25S</td>
+<td align="left" rowspan="1">Segurança Em Aplicações</td>
+<td align="center">5SI</td>
+<td align="center">0</td>
+<td align="center">16</td>
+<td align="center">16</td>
+<td align="center">0</td>
+<td align="right">
+4N1 (V106)
+ - 4N2 (V106)
+ - 6N1 (V106)
+ - 6N2 (V106)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">TC25S</td>
+<td align="left" rowspan="1">Trabalho De Conclusão De Curso 1</td>
+<td align="center">5SI</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">12</td>
+<td align="center">3</td>
+<td align="right">
+5N3 (V106)
+ - 5N4 (V106)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">TI26S</td>
+<td align="left" rowspan="1">Tópicos Em Informática</td>
+<td align="center">6SI</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">9</td>
+<td align="center">6</td>
+<td align="right">
+4N1 (V105)
+ - 4N2 (V105)
+ - 4N3 (V105)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">TS25S</td>
+<td align="left" rowspan="1">Testes De Software</td>
+<td align="center">6SI</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">15</td>
+<td align="center">0</td>
+<td align="right">
+3N1 (V105)
+ - 3N2 (V105)
+</td>
+</tr>
+<tr>
+<td colspan="8" style="font-weight:bold; font-size:8pt;">
+As vagas restantes só aparecerão nesse relatório após o encerramento do processo de matrícula. Durante o processo todas aparecerão zeradas.
+</td>
+</tr>
+</table>

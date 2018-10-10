@@ -1,0 +1,8316 @@
+<table class="tabela" border="1" width="100%" style="font-size:8pt;">
+<tr>
+<th colspan="8" align="center" style="font-weight:bold; text-transform:uppercase; padding:10px 0px;">
+Bacharelado - DEPARTAMENTO ACADÊMICO DE LETRAS
+</th>
+<tr>
+<tr>
+<td align="center" style="font-weight:bold;">Código</td>
+<td align="center" style="font-weight:bold;">Disciplina</td>
+<td align="center" style="font-weight:bold;">Turma</td>
+<td align="center" style="font-weight:bold;">Vg. Calouros</td>
+<td align="center" style="font-weight:bold;">Vg. Veteranos</td>
+<td align="center" style="font-weight:bold;">Vg. Ocup.</td>
+<td align="center" style="font-weight:bold;">Vg. Rest.</td>
+<td align="center" style="font-weight:bold;">Horário(Sala)</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">CL21NB</td>
+<td align="left" rowspan="3">Comunicação Linguística</td>
+<td align="center">1MC</td>
+<td align="center">45</td>
+<td align="center">2</td>
+<td align="center">37</td>
+<td align="center">10</td>
+<td align="right">
+4T2 (Q001)
+ - 4T3 (Q001)
+</td>
+</tr>
+<td align="center">1CP</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="center">27</td>
+<td align="center">17</td>
+<td align="right">
+6T4 (Q008)
+ - 6T5 (Q008)
+</td>
+</tr>
+<td align="center">1EL</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="center">31</td>
+<td align="center">13</td>
+<td align="right">
+2T2 (V003)
+ - 2T3 (V003)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">CL22NB</td>
+<td align="left" rowspan="1">Comunicação Linguística</td>
+<td align="center">2CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">41</td>
+<td align="center">3</td>
+<td align="right">
+6M4 (N107)
+ - 6M5 (N107)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">CO31QB</td>
+<td align="left" rowspan="1">Comunicação Oral E Escrita</td>
+<td align="center">1QB</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="center">27</td>
+<td align="center">17</td>
+<td align="right">
+4T4 (N010)
+ - 4T5 (N010)
+</td>
+</tr>
+<tr>
+<th colspan="8" align="center" style="font-weight:bold; text-transform:uppercase; padding:10px 0px;">
+Bacharelado - DEPARTAMENTO ACADÊMICO DE ADMINISTRAÇÃO
+</th>
+<tr>
+<tr>
+<td align="center" style="font-weight:bold;">Código</td>
+<td align="center" style="font-weight:bold;">Disciplina</td>
+<td align="center" style="font-weight:bold;">Turma</td>
+<td align="center" style="font-weight:bold;">Vg. Calouros</td>
+<td align="center" style="font-weight:bold;">Vg. Veteranos</td>
+<td align="center" style="font-weight:bold;">Vg. Ocup.</td>
+<td align="center" style="font-weight:bold;">Vg. Rest.</td>
+<td align="center" style="font-weight:bold;">Horário(Sala)</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EC25G</td>
+<td align="left" rowspan="1">Economia</td>
+<td align="center">3G</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">42</td>
+<td align="center">2</td>
+<td align="right">
+6T2 (O-202)
+ - 6T3 (O-202)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EC26NB</td>
+<td align="left" rowspan="1">Economia</td>
+<td align="center">6MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">17</td>
+<td align="center">27</td>
+<td align="right">
+5T4 (Q006)
+ - 5T5 (Q006)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EC27EL</td>
+<td align="left" rowspan="1">Economia</td>
+<td align="center">7EL</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+5T2 (L107)
+ - 5T3 (L107)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EC29NB</td>
+<td align="left" rowspan="1">Economia</td>
+<td align="center">9CP</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">12</td>
+<td align="center">10</td>
+<td align="right">
+3T4 (N105)
+ - 3T5 (N105)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EE27CP</td>
+<td align="left" rowspan="1">Empreendedorismo A</td>
+<td align="center">9CP</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">7</td>
+<td align="center">8</td>
+<td align="right">
+2T3 (S)
+ - 2T4 (S)
+ - 2T5 (S)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EE29EL</td>
+<td align="left" rowspan="1">Empreendedorismo A</td>
+<td align="center">9EL</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">1</td>
+<td align="center">14</td>
+<td align="right">
+2T3 (S)
+ - 2T4 (S)
+ - 2T5 (S)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EM29MC</td>
+<td align="left" rowspan="1">Empreendedorismo</td>
+<td align="center">9MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">21</td>
+<td align="center">23</td>
+<td align="right">
+4T4 (O204)
+ - 4T5 (O204)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EO37QB</td>
+<td align="left" rowspan="1">Economia E Organização Industrial</td>
+<td align="center">7QB</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">24</td>
+<td align="center">20</td>
+<td align="right">
+4T4 (N111)
+ - 4T5 (N111)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">GF24NB</td>
+<td align="left" rowspan="1">Gestão Financeira</td>
+<td align="center">4CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="right">
+6T4 (M107)
+ - 6T5 (M107)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">GF27NB</td>
+<td align="left" rowspan="1">Gestão Financeira</td>
+<td align="center">7MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">34</td>
+<td align="center">10</td>
+<td align="right">
+2T4 (O205)
+ - 2T5 (O205)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">GP28EL</td>
+<td align="left" rowspan="1">Gestão De Projetos</td>
+<td align="center">8EL</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">37</td>
+<td align="center">7</td>
+<td align="right">
+3T4 (L104)
+ - 3T5 (L104)
+ - 5T4 (L106)
+ - 5T5 (L106)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">GP28MC</td>
+<td align="left" rowspan="1">Gestão Da Produção</td>
+<td align="center">8MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">17</td>
+<td align="center">27</td>
+<td align="right">
+5T4 (O203)
+ - 5T5 (O203)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">GP28NB</td>
+<td align="left" rowspan="1">Gestão De Pessoas</td>
+<td align="center">8MC</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">21</td>
+<td align="center">1</td>
+<td align="right">
+2T4 (Q004)
+ - 2T5 (Q004)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">GP29NB</td>
+<td align="left" rowspan="1">Gestão De Pessoas</td>
+<td align="center">9CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">42</td>
+<td align="center">2</td>
+<td align="right">
+3T2 (M105)
+ - 3T3 (M105)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">GS28EL</td>
+<td align="left" rowspan="1">Gestão De Pessoas</td>
+<td align="center">8EL</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">20</td>
+<td align="center">2</td>
+<td align="right">
+2T4 (Q004)
+ - 2T5 (Q004)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">HT22HM</td>
+<td align="left" rowspan="2">Historia Da Técnica E Da Tecnologia</td>
+<td align="center">HUMA4</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">26</td>
+<td align="center">18</td>
+<td align="right">
+4M4 (L103)
+ - 4M5 (L103)
+</td>
+</tr>
+<td align="center">HUMA11</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">39</td>
+<td align="center">5</td>
+<td align="right">
+6T2 (L104)
+ - 6T3 (L104)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">IA27G</td>
+<td align="left" rowspan="1">Administração De Empresa Agrícola</td>
+<td align="center">7G</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">27</td>
+<td align="center">17</td>
+<td align="right">
+3T4 (O205)
+ - 3T5 (O205)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">OI29EL</td>
+<td align="left" rowspan="1">Organização Industrial</td>
+<td align="center">9EL</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">21</td>
+<td align="center">23</td>
+<td align="right">
+4T3 (N106)
+ - 4T4 (N106)
+ - 4T5 (N106)
+</td>
+</tr>
+<tr>
+<th colspan="8" align="center" style="font-weight:bold; text-transform:uppercase; padding:10px 0px;">
+Bacharelado - DEPARTAMENTO ACADÊMICO DE QUI­MICA
+</th>
+<tr>
+<tr>
+<td align="center" style="font-weight:bold;">Código</td>
+<td align="center" style="font-weight:bold;">Disciplina</td>
+<td align="center" style="font-weight:bold;">Turma</td>
+<td align="center" style="font-weight:bold;">Vg. Calouros</td>
+<td align="center" style="font-weight:bold;">Vg. Veteranos</td>
+<td align="center" style="font-weight:bold;">Vg. Ocup.</td>
+<td align="center" style="font-weight:bold;">Vg. Rest.</td>
+<td align="center" style="font-weight:bold;">Horário(Sala)</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">AI35QB</td>
+<td align="left" rowspan="1">Análise Instrumental I</td>
+<td align="center">5QB</td>
+<td align="center">0</td>
+<td align="center">24</td>
+<td align="center">5</td>
+<td align="center">19</td>
+<td align="right">
+3T4 (N109)
+ - 3T5 (N109)
+ - 6M3 (N109)
+ - 6M4 (N109)
+ - 6M5 (N109)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">AI36QB</td>
+<td align="left" rowspan="1">Análise Instrumental Ii</td>
+<td align="center">6QB</td>
+<td align="center">0</td>
+<td align="center">24</td>
+<td align="center">16</td>
+<td align="center">8</td>
+<td align="right">
+3M2 (N110)
+ - 3M3 (N110)
+ - 3M4 (N110)
+ - 5M4 (N110)
+ - 5M5 (N110)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">AI38QB</td>
+<td align="left" rowspan="1">Águas Industriais E Para Consumo</td>
+<td align="center">3QB</td>
+<td align="center">0</td>
+<td align="center">24</td>
+<td align="center">15</td>
+<td align="center">9</td>
+<td align="right">
+6M2 (N111)
+ - 6M3 (N111)
+ - 6M4 (N111)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">AO37QB</td>
+<td align="left" rowspan="1">Análise Orgânica</td>
+<td align="center">7QB</td>
+<td align="center">0</td>
+<td align="center">24</td>
+<td align="center">12</td>
+<td align="center">12</td>
+<td align="right">
+2M1 (N111)
+ - 2M2 (N111)
+ - 2M3 (N111)
+ - 2M4 (N111)
+ - 2M5 (N111)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">BQ35QB</td>
+<td align="left" rowspan="1">Bioquímica</td>
+<td align="center">5QB</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">7</td>
+<td align="center">37</td>
+<td align="right">
+3M2 (N109)
+ - 3M3 (N109)
+ - 4T1 (N109)
+ - 4T2 (N109)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">BR37QB</td>
+<td align="left" rowspan="1">Bromatologia</td>
+<td align="center">7QB</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">12</td>
+<td align="center">13</td>
+<td align="right">
+3T2 (N111)
+ - 3T3 (N111)
+ - 3T4 (N111)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">CR38QB</td>
+<td align="left" rowspan="1">Cromatografia Em Camada Delgada</td>
+<td align="center">8QB</td>
+<td align="center">0</td>
+<td align="center">24</td>
+<td align="center">4</td>
+<td align="center">20</td>
+<td align="right">
+3M2 (M011)
+ - 3M3 (M011)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EI38QB</td>
+<td align="left" rowspan="1">Estequiometria Industrial</td>
+<td align="center">7QB</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">10</td>
+<td align="center">34</td>
+<td align="right">
+4M2 (N011)
+ - 4M3 (N011)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">FQ32QB</td>
+<td align="left" rowspan="2">Físico-Química 1</td>
+<td align="center">2QBB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">14</td>
+<td align="center">8</td>
+<td align="right">
+4M4 (N003)
+ - 4M5 (N003)
+ - 5M3 (N011)
+ - 5M4 (N011)
+ - 5M5 (N011)
+</td>
+</tr>
+<td align="center">2QBA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+4M2 (N003)
+ - 4M3 (N003)
+ - 5M3 (N011)
+ - 5M4 (N011)
+ - 5M5 (N011)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">FQ33QB</td>
+<td align="left" rowspan="1">Físico-Química 2</td>
+<td align="center">3QB</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">32</td>
+<td align="center">12</td>
+<td align="right">
+2M4 (N107)
+ - 2M5 (N107)
+ - 4M4 (N107)
+ - 4M5 (N107)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">FQ34QB</td>
+<td align="left" rowspan="3">Físico-Química 3</td>
+<td align="center">4QBA</td>
+<td align="center">0</td>
+<td align="center">20</td>
+<td align="center">13</td>
+<td align="center">7</td>
+<td align="right">
+3M2 (N108)
+ - 3M3 (N108)
+ - 3M4 (N108)
+ - 4M4 (N108)
+ - 4M5 (N108)
+</td>
+</tr>
+<td align="center">4QBB</td>
+<td align="center">0</td>
+<td align="center">20</td>
+<td align="center">12</td>
+<td align="center">8</td>
+<td align="right">
+3M2 (N108)
+ - 3M3 (N108)
+ - 3M4 (N108)
+ - 6M2 (N108)
+ - 6M3 (N108)
+</td>
+</tr>
+<td align="center">4QBSP</td>
+<td align="center">0</td>
+<td align="center">9</td>
+<td align="center">10</td>
+<td align="center">0</td>
+<td align="right">
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">FQ35QB</td>
+<td align="left" rowspan="1">Físico-Química 4</td>
+<td align="center">5QB</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">26</td>
+<td align="center">18</td>
+<td align="right">
+4T4 (N109)
+ - 4T5 (N109)
+ - 6T2 (N109)
+ - 6T3 (N109)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">MB36QB</td>
+<td align="left" rowspan="1">Microbiologia</td>
+<td align="center">6QB</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">22</td>
+<td align="center">3</td>
+<td align="right">
+2M2 (N110)
+ - 2M3 (N110)
+ - 2M4 (N110)
+ - 2M5 (N110)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">MI35QB</td>
+<td align="left" rowspan="1">Mineralogia E Estado Sólido</td>
+<td align="center">5QB</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">1</td>
+<td align="center">43</td>
+<td align="right">
+2M4 (N109)
+ - 2M5 (N109)
+ - 3M4 (N109)
+ - 3M5 (N109)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">OU34QB</td>
+<td align="left" rowspan="1">Operações Unitárias 1</td>
+<td align="center">4QB</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">21</td>
+<td align="center">23</td>
+<td align="right">
+5T2 (N108)
+ - 5T3 (N108)
+ - 5T4 (N108)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">OU35QB</td>
+<td align="left" rowspan="1">Operações Unitárias 2</td>
+<td align="center">5QB</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">9</td>
+<td align="center">35</td>
+<td align="right">
+4M3 (N109)
+ - 4M4 (N109)
+ - 4M5 (N109)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">PA35QB</td>
+<td align="left" rowspan="1">Processos Oxidativos Avançados Aplicados Ao Tratamento De Água E Efluentes</td>
+<td align="center">8QB</td>
+<td align="center">0</td>
+<td align="center">24</td>
+<td align="center">16</td>
+<td align="center">8</td>
+<td align="right">
+5T4 (N111)
+ - 5T5 (N111)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">PI36QB</td>
+<td align="left" rowspan="1">Processos Industriais Inorgânicos</td>
+<td align="center">6QB</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">9</td>
+<td align="center">16</td>
+<td align="right">
+2T2 (N110)
+ - 2T3 (N110)
+ - 2T4 (N110)
+ - 2T5 (N110)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">PI38QB</td>
+<td align="left" rowspan="1">Processos Industriais Orgânicos</td>
+<td align="center">8QB</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">12</td>
+<td align="center">32</td>
+<td align="right">
+2T4 (N111)
+ - 2T5 (N111)
+ - 6M1 (N110)
+ - 6M2 (N110)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">QA33QB</td>
+<td align="left" rowspan="1">Química Analítica 1</td>
+<td align="center">3QBA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">2</td>
+<td align="center">20</td>
+<td align="right">
+2T4 (N107)
+ - 2T5 (N107)
+ - 3M1 (N107)
+ - 3M2 (N003)
+ - 3M3 (N003)
+ - 5M1 (N107)
+ - 5M2 (N107)
+ - 5M3 (N107)
+ - 6T2 (N003)
+ - 6T3 (N003)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">QA34QB</td>
+<td align="left" rowspan="1">Química Analítica 2</td>
+<td align="center">4QBA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">15</td>
+<td align="center">7</td>
+<td align="right">
+4M1 (N108)
+ - 4M2 (N108)
+ - 4M3 (N108)
+ - 5M2 (N004)
+ - 5M3 (N004)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">QI31QB</td>
+<td align="left" rowspan="2">Química Geral</td>
+<td align="center">1QBA</td>
+<td align="center">22</td>
+<td align="center">1</td>
+<td align="center">21</td>
+<td align="center">2</td>
+<td align="right">
+2M4 (N010)
+ - 2M5 (N010)
+ - 3M4 (N010)
+ - 3M5 (N010)
+ - 5M2 (N003)
+ - 5M3 (N003)
+ - 5T2 (N010)
+ - 5T3 (N010)
+</td>
+</tr>
+<td align="center">1QBB</td>
+<td align="center">22</td>
+<td align="center">1</td>
+<td align="center">14</td>
+<td align="center">9</td>
+<td align="right">
+2M4 (N010)
+ - 2M5 (N010)
+ - 3M4 (N010)
+ - 3M5 (N010)
+ - 5M4 (N003)
+ - 5M5 (N003)
+ - 5T2 (N010)
+ - 5T3 (N010)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">QI32QB</td>
+<td align="left" rowspan="1">Química Inorgânica 1</td>
+<td align="center">2QB</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">39</td>
+<td align="center">5</td>
+<td align="right">
+2M2 (N011)
+ - 2M3 (N011)
+ - 5M1 (N011)
+ - 5M2 (N011)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">QI33QB</td>
+<td align="left" rowspan="2">Química Inorgânica 2</td>
+<td align="center">3QBB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">6</td>
+<td align="center">16</td>
+<td align="right">
+2M2 (N107)
+ - 2M3 (N107)
+ - 3M2 (N004)
+ - 3M3 (N004)
+ - 4M2 (N107)
+ - 4M3 (N107)
+</td>
+</tr>
+<td align="center">3QBA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">10</td>
+<td align="center">12</td>
+<td align="right">
+2M2 (N107)
+ - 2M3 (N107)
+ - 3M4 (N004)
+ - 3M5 (N004)
+ - 4M2 (N107)
+ - 4M3 (N107)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">QO33QB</td>
+<td align="left" rowspan="2">Química Orgânica 1</td>
+<td align="center">3QBSP</td>
+<td align="center">0</td>
+<td align="center">10</td>
+<td align="center">0</td>
+<td align="center">10</td>
+<td align="right">
+</td>
+</tr>
+<td align="center">3QB</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">23</td>
+<td align="center">21</td>
+<td align="right">
+5T2 (N107)
+ - 5T3 (N107)
+ - 6M2 (N107)
+ - 6M3 (N107)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">QO34QB</td>
+<td align="left" rowspan="1">Química Orgânica 2</td>
+<td align="center">4QB</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">18</td>
+<td align="center">7</td>
+<td align="right">
+2M2 (N108)
+ - 2M3 (N108)
+ - 2M4 (N108)
+ - 6M4 (N003)
+ - 6M5 (N003)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="4">QU21G</td>
+<td align="left" rowspan="4">Química Analítica</td>
+<td align="center">1GA</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2T1 (O005)
+ - 2T2 (O005)
+ - 4M3 (N004)
+ - 4M4 (N004)
+ - 4M5 (N004)
+</td>
+</tr>
+<td align="center">1GEA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">8</td>
+<td align="center">14</td>
+<td align="right">
+2M3 (N004)
+ - 2M4 (N004)
+ - 2M5 (N004)
+ - 6T1 (O001)
+ - 6T2 (O001)
+</td>
+</tr>
+<td align="center">1GB</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="center">20</td>
+<td align="center">2</td>
+<td align="right">
+2T1 (O005)
+ - 2T2 (O005)
+ - 2T3 (N004)
+ - 2T4 (N004)
+ - 2T5 (N004)
+</td>
+</tr>
+<td align="center">1GEB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">16</td>
+<td align="center">6</td>
+<td align="right">
+5T1 (N004)
+ - 5T2 (N004)
+ - 5T3 (N004)
+ - 6T1 (O001)
+ - 6T2 (O001)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="8">QU22NB</td>
+<td align="left" rowspan="8">Química</td>
+<td align="center">2CPA</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">21</td>
+<td align="center">4</td>
+<td align="right">
+3T2 (M007)
+ - 3T3 (M007)
+ - 3T4 (N001)
+ - 3T5 (N001)
+ - 5T4 (M007)
+ - 5T5 (M007)
+</td>
+</tr>
+<td align="center">2CPB</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">15</td>
+<td align="center">10</td>
+<td align="right">
+3T2 (M007)
+ - 3T3 (M007)
+ - 3T4 (N002)
+ - 3T5 (N002)
+ - 5T4 (M007)
+ - 5T5 (M007)
+</td>
+</tr>
+<td align="center">2CVA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2T2 (O203)
+ - 2T3 (O203)
+ - 3T2 (N001)
+ - 3T3 (N001)
+ - 6M2 (O-202)
+ - 6M3 (O-202)
+</td>
+</tr>
+<td align="center">2ELB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">21</td>
+<td align="center">1</td>
+<td align="right">
+4T4 (L104)
+ - 4T5 (L104)
+ - 5T4 (L104)
+ - 5T5 (L104)
+ - 6M4 (N001)
+ - 6M5 (N001)
+</td>
+</tr>
+<td align="center">2ELA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+4T4 (L104)
+ - 4T5 (L104)
+ - 5T4 (L104)
+ - 5T5 (L104)
+ - 6M2 (N001)
+ - 6M3 (N001)
+</td>
+</tr>
+<td align="center">2CVB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">21</td>
+<td align="center">1</td>
+<td align="right">
+2T2 (O203)
+ - 2T3 (O203)
+ - 2T4 (N001)
+ - 2T5 (N001)
+ - 6M2 (O-202)
+ - 6M3 (O-202)
+</td>
+</tr>
+<td align="center">2MCA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">18</td>
+<td align="center">4</td>
+<td align="right">
+2T2 (N001)
+ - 2T3 (N001)
+ - 3T4 (Q002)
+ - 3T5 (Q002)
+ - 5T4 (Q002)
+ - 5T5 (Q002)
+</td>
+</tr>
+<td align="center">2MCB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">14</td>
+<td align="center">8</td>
+<td align="right">
+3T4 (Q002)
+ - 3T5 (Q002)
+ - 4T2 (N001)
+ - 4T3 (N001)
+ - 5T4 (Q002)
+ - 5T5 (Q002)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">SA38QB</td>
+<td align="left" rowspan="1">Controle Da Poluição Industrial</td>
+<td align="center">8QB</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">12</td>
+<td align="center">32</td>
+<td align="right">
+5T2 (N110)
+ - 5T3 (N110)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">TA28G</td>
+<td align="left" rowspan="2">Tecnologia De Alimentos De Origem Vegetal</td>
+<td align="center">8GA</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">15</td>
+<td align="center">0</td>
+<td align="right">
+3M4 (O201)
+ - 3M5 (O201)
+ - 4T2 (N008)
+ - 4T3 (N008)
+</td>
+</tr>
+<td align="center">8GB</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">6</td>
+<td align="center">9</td>
+<td align="right">
+3M4 (O201)
+ - 3M5 (O201)
+ - 4T4 (N008)
+ - 4T5 (N008)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">TA29G</td>
+<td align="left" rowspan="2">Tecnologia De Alimentos De Origem Animal</td>
+<td align="center">9GB</td>
+<td align="center">0</td>
+<td align="center">12</td>
+<td align="center">10</td>
+<td align="center">2</td>
+<td align="right">
+2M4 (O203)
+ - 2M5 (O203)
+ - 2T4 (N008)
+ - 2T5 (N008)
+</td>
+</tr>
+<td align="center">9GA</td>
+<td align="center">0</td>
+<td align="center">19</td>
+<td align="center">17</td>
+<td align="center">2</td>
+<td align="right">
+2M4 (O203)
+ - 2M5 (O203)
+ - 2T2 (N008)
+ - 2T3 (N008)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">TA38QB</td>
+<td align="left" rowspan="1">Tecnologia De Alimentos De Origem Vegetal</td>
+<td align="center">8QB</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">9</td>
+<td align="center">35</td>
+<td align="right">
+4M4 (N011)
+ - 4M5 (N011)
+ - 5M2 (N111)
+ - 5M3 (N111)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">TC37QB</td>
+<td align="left" rowspan="1">Trabalho De Conclusão 1</td>
+<td align="center">7QB</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">8</td>
+<td align="center">36</td>
+<td align="right">
+4M4 (M009)
+ - 4M5 (M009)
+ - 5T2 (M009)
+ - 5T3 (M009)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">TF38QB</td>
+<td align="left" rowspan="1">Tecnologia Das Fermentações</td>
+<td align="center">7QB</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">13</td>
+<td align="center">31</td>
+<td align="right">
+3M2 (N111)
+ - 3M3 (N111)
+ - 4T2 (N111)
+ - 4T3 (N111)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">TL38QB</td>
+<td align="left" rowspan="1">Tecnologia De Alimentos De Origem Animal</td>
+<td align="center">8QB</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">16</td>
+<td align="center">28</td>
+<td align="right">
+4M2 (N111)
+ - 4M3 (N111)
+ - 5M4 (N111)
+ - 5M5 (N111)
+</td>
+</tr>
+<tr>
+<th colspan="8" align="center" style="font-weight:bold; text-transform:uppercase; padding:10px 0px;">
+Bacharelado - DEPARTAMENTO ACADEMICO DE CIENCIAS AGRARIAS
+</th>
+<tr>
+<tr>
+<td align="center" style="font-weight:bold;">Código</td>
+<td align="center" style="font-weight:bold;">Disciplina</td>
+<td align="center" style="font-weight:bold;">Turma</td>
+<td align="center" style="font-weight:bold;">Vg. Calouros</td>
+<td align="center" style="font-weight:bold;">Vg. Veteranos</td>
+<td align="center" style="font-weight:bold;">Vg. Ocup.</td>
+<td align="center" style="font-weight:bold;">Vg. Rest.</td>
+<td align="center" style="font-weight:bold;">Horário(Sala)</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">AC27G</td>
+<td align="left" rowspan="1">Apicultura</td>
+<td align="center">10G</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">24</td>
+<td align="center">1</td>
+<td align="right">
+6T2 (O204)
+ - 6T3 (O204)
+ - 6T4 (O204)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">AV28G</td>
+<td align="left" rowspan="1">Avicultura A</td>
+<td align="center">8G</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">18</td>
+<td align="center">26</td>
+<td align="right">
+6T2 (O201)
+ - 6T3 (O201)
+ - 6T4 (O201)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">BA26G</td>
+<td align="left" rowspan="1">Biotecnologia Agrícola</td>
+<td align="center">6G</td>
+<td align="center">0</td>
+<td align="center">46</td>
+<td align="center">47</td>
+<td align="center">0</td>
+<td align="right">
+2M1 (O204)
+ - 2M2 (O204)
+ - 2M3 (O204)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">BC28G</td>
+<td align="left" rowspan="1">Bovinocultura De Corte A</td>
+<td align="center">8G</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">20</td>
+<td align="center">24</td>
+<td align="right">
+2M3 (O201)
+ - 2M4 (O201)
+ - 2M5 (O201)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">BL29G</td>
+<td align="left" rowspan="2">Bovinocultura Leite A</td>
+<td align="center">9GE</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">26</td>
+<td align="center">0</td>
+<td align="right">
+2T1 (O205)
+ - 2T2 (O205)
+ - 2T3 (O205)
+</td>
+</tr>
+<td align="center">9G</td>
+<td align="center">0</td>
+<td align="center">20</td>
+<td align="center">12</td>
+<td align="center">8</td>
+<td align="right">
+3T2 (O-202)
+ - 3T3 (O-202)
+ - 3T4 (O-202)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">BQ22G</td>
+<td align="left" rowspan="2">Bioquímica</td>
+<td align="center">2GB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2M2 (O001)
+ - 2M3 (O001)
+ - 5M4 (O001)
+ - 5M5 (O001)
+</td>
+</tr>
+<td align="center">2GA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">19</td>
+<td align="center">3</td>
+<td align="right">
+2M2 (O001)
+ - 2M3 (O001)
+ - 5T2 (O001)
+ - 5T3 (O001)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">CA23G</td>
+<td align="left" rowspan="1">Climatologia Agrícola</td>
+<td align="center">3G</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">41</td>
+<td align="center">3</td>
+<td align="right">
+3M3 (UAB3)
+ - 3M4 (UAB3)
+ - 3M5 (UAB3)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">CC26G</td>
+<td align="left" rowspan="1">Cooperativismo E Comercialização Agrícola</td>
+<td align="center">6G</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">31</td>
+<td align="center">13</td>
+<td align="right">
+3M1 (O-202)
+ - 3M2 (O-202)
+ - 3M3 (O-202)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">CL26G</td>
+<td align="left" rowspan="2">Culturas De Lavoura 1</td>
+<td align="center">6GB</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">15</td>
+<td align="center">0</td>
+<td align="right">
+5M2 (O203)
+ - 5M3 (O203)
+ - 5M4 (O203)
+ - 5T4 (UAB3)
+ - 5T5 (UAB3)
+</td>
+</tr>
+<td align="center">6GA</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">15</td>
+<td align="center">0</td>
+<td align="right">
+5M2 (O203)
+ - 5M3 (O203)
+ - 5M4 (O203)
+ - 5T2 (UAB3)
+ - 5T3 (UAB3)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">CL27G</td>
+<td align="left" rowspan="1">Culturas De Lavoura 2</td>
+<td align="center">7G</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">32</td>
+<td align="center">12</td>
+<td align="right">
+6T1 (O205)
+ - 6T2 (O205)
+ - 6T3 (O205)
+ - 6T4 (O205)
+ - 6T5 (O205)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">CS28G</td>
+<td align="left" rowspan="1">Conservação Do Solo</td>
+<td align="center">7G</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">17</td>
+<td align="center">27</td>
+<td align="right">
+4T2 (O205)
+ - 4T3 (O205)
+ - 4T4 (O205)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">DR26G</td>
+<td align="left" rowspan="1">Desenvolvimento Rural Brasileiro</td>
+<td align="center">6G</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">34</td>
+<td align="center">10</td>
+<td align="right">
+4M2 (O-202)
+ - 4M3 (O-202)
+ - 4M4 (O-202)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EA25G</td>
+<td align="left" rowspan="1">Experimentação Agrícola</td>
+<td align="center">5G</td>
+<td align="center">0</td>
+<td align="center">46</td>
+<td align="center">42</td>
+<td align="center">4</td>
+<td align="right">
+4M3 (O204)
+ - 4M4 (O204)
+ - 4M5 (O204)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EB21G</td>
+<td align="left" rowspan="1">Ecologia Básica</td>
+<td align="center">1G</td>
+<td align="center">44</td>
+<td align="center">2</td>
+<td align="center">44</td>
+<td align="center">2</td>
+<td align="right">
+3T4 (O005)
+ - 3T5 (O005)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">EG22G</td>
+<td align="left" rowspan="2">Entomologia Geral</td>
+<td align="center">4GA</td>
+<td align="center">0</td>
+<td align="center">20</td>
+<td align="center">21</td>
+<td align="center">0</td>
+<td align="right">
+2M2 (O203)
+ - 2M3 (O203)
+ - 2M4 (O004)
+ - 2M5 (O004)
+</td>
+</tr>
+<td align="center">4GB</td>
+<td align="center">0</td>
+<td align="center">20</td>
+<td align="center">18</td>
+<td align="center">2</td>
+<td align="right">
+2M2 (O203)
+ - 2M3 (O203)
+ - 6M4 (O004)
+ - 6M5 (O004)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EG36QB</td>
+<td align="left" rowspan="1">Ecologia Geral</td>
+<td align="center">6QB</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">13</td>
+<td align="center">31</td>
+<td align="right">
+4M3 (N110)
+ - 4M4 (N110)
+ - 4M5 (N110)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">EM26G</td>
+<td align="left" rowspan="2">Entomologia Agrícola</td>
+<td align="center">5GA</td>
+<td align="center">0</td>
+<td align="center">17</td>
+<td align="center">12</td>
+<td align="center">5</td>
+<td align="right">
+3M1 (O204)
+ - 3M2 (O204)
+ - 4M1 (O204)
+ - 4M2 (O204)
+</td>
+</tr>
+<td align="center">5GB</td>
+<td align="center">0</td>
+<td align="center">17</td>
+<td align="center">18</td>
+<td align="center">0</td>
+<td align="right">
+3M1 (O204)
+ - 3M2 (O204)
+ - 5M3 (UAB3)
+ - 5M4 (UAB3)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EP27G</td>
+<td align="left" rowspan="1">Ética, Profissão E Cidadania</td>
+<td align="center">7G</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="right">
+3T2 (O205)
+ - 3T3 (O205)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">ER28G</td>
+<td align="left" rowspan="1">Extensão Rural</td>
+<td align="center">8G</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="right">
+5M1 (O201)
+ - 5M2 (O201)
+ - 5M3 (O201)
+ - 5M4 (O201)
+ - 5M5 (O201)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">FG27G</td>
+<td align="left" rowspan="2">Forragicultura I</td>
+<td align="center">7GB</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">12</td>
+<td align="center">3</td>
+<td align="right">
+4M2 (O205)
+ - 4M3 (O205)
+ - 4M5 (O205)
+</td>
+</tr>
+<td align="center">7GA</td>
+<td align="center">0</td>
+<td align="center">18</td>
+<td align="center">18</td>
+<td align="center">0</td>
+<td align="right">
+4M2 (O205)
+ - 4M3 (O205)
+ - 4M4 (O205)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">FP23G</td>
+<td align="left" rowspan="2">Fisiologia Das Plantas Cultivadas 1</td>
+<td align="center">3GA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">20</td>
+<td align="center">2</td>
+<td align="right">
+4M2 (O005)
+ - 4M3 (O005)
+ - 4M4 (O005)
+ - 4M5 (O005)
+</td>
+</tr>
+<td align="center">3GB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">14</td>
+<td align="center">8</td>
+<td align="right">
+4M2 (O005)
+ - 4M3 (O005)
+ - 4T2 (O005)
+ - 4T3 (O005)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">FP24G</td>
+<td align="left" rowspan="2">Fisiologia Das Plantas Cultivadas 2</td>
+<td align="center">4GB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+3M4 (O203)
+ - 3M5 (O203)
+ - 3T2 (O203)
+ - 3T3 (O203)
+</td>
+</tr>
+<td align="center">4GA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">10</td>
+<td align="center">12</td>
+<td align="right">
+3M4 (O203)
+ - 3M5 (O203)
+ - 3T4 (O203)
+ - 3T5 (O203)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">FP25G</td>
+<td align="left" rowspan="2">Fitopatologia Especial</td>
+<td align="center">5GA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">18</td>
+<td align="center">4</td>
+<td align="right">
+4T4 (UAB2)
+ - 4T5 (UAB2)
+ - 5M1 (UAB3)
+ - 5M2 (UAB3)
+</td>
+</tr>
+<td align="center">5GB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">21</td>
+<td align="center">1</td>
+<td align="right">
+4T2 (UAB2)
+ - 4T3 (UAB2)
+ - 5M1 (UAB3)
+ - 5M2 (UAB3)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">FS23G</td>
+<td align="left" rowspan="2">Física Do Solo   </td>
+<td align="center">3GA</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">14</td>
+<td align="center">1</td>
+<td align="right">
+5M2 (O-202)
+ - 5M3 (O-202)
+ - 5M5 (O-202)
+</td>
+</tr>
+<td align="center">3GB</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">9</td>
+<td align="center">6</td>
+<td align="right">
+5M2 (O-202)
+ - 5M3 (O-202)
+ - 5M4 (O-202)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">FS25G</td>
+<td align="left" rowspan="2">Fertilidade Do Solo</td>
+<td align="center">5GSP</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">12</td>
+<td align="center">3</td>
+<td align="right">
+</td>
+</tr>
+<td align="center">5G</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">41</td>
+<td align="center">3</td>
+<td align="right">
+3M3 (O204)
+ - 3M4 (O204)
+ - 3M5 (O204)
+ - 3T4 (O204)
+ - 3T5 (O204)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">FT24G</td>
+<td align="left" rowspan="2">Fitopatologia Geral</td>
+<td align="center">4GB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">20</td>
+<td align="center">2</td>
+<td align="right">
+3T4 (UAB2)
+ - 3T5 (UAB2)
+ - 4M1 (O201)
+ - 4M2 (O201)
+</td>
+</tr>
+<td align="center">4GA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">20</td>
+<td align="center">2</td>
+<td align="right">
+3T2 (UAB2)
+ - 3T3 (UAB2)
+ - 4M1 (O201)
+ - 4M2 (O201)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">FT28G</td>
+<td align="left" rowspan="1">Fruticultura</td>
+<td align="center">8G</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">39</td>
+<td align="center">5</td>
+<td align="right">
+3T1 (UAB3)
+ - 3T2 (UAB3)
+ - 3T3 (UAB3)
+ - 3T4 (UAB3)
+ - 3T5 (UAB3)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">GE24G</td>
+<td align="left" rowspan="2">Genética</td>
+<td align="center">4GB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">14</td>
+<td align="center">8</td>
+<td align="right">
+4M3 (UAB3)
+ - 4M4 (UAB3)
+ - 4M5 (UAB3)
+</td>
+</tr>
+<td align="center">4GA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+3M1 (O203)
+ - 3M2 (O203)
+ - 3M3 (O203)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">GH29G</td>
+<td align="left" rowspan="1">Gestão Da Qualidade Ambiental</td>
+<td align="center">9G</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">29</td>
+<td align="center">15</td>
+<td align="right">
+5M1 (O001)
+ - 5M2 (O001)
+ - 5M3 (O001)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">GS24G</td>
+<td align="left" rowspan="1">Gênese E Morfologia Do Solo A</td>
+<td align="center">4GA</td>
+<td align="center">0</td>
+<td align="center">20</td>
+<td align="center">17</td>
+<td align="center">3</td>
+<td align="right">
+5M2 (O204)
+ - 5M3 (O204)
+ - 5M4 (O204)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">HG22G</td>
+<td align="left" rowspan="1">História Da Agricultura</td>
+<td align="center">2G</td>
+<td align="center">0</td>
+<td align="center">46</td>
+<td align="center">33</td>
+<td align="center">13</td>
+<td align="right">
+3T2 (O001)
+ - 3T3 (O001)
+ - 3T4 (O001)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">HI24G</td>
+<td align="left" rowspan="1">Hidraulica Agricola</td>
+<td align="center">4G</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">20</td>
+<td align="center">24</td>
+<td align="right">
+6M1 (O203)
+ - 6M2 (O203)
+ - 6M3 (O203)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">IA23G</td>
+<td align="left" rowspan="1">Introdução A Agroecologia</td>
+<td align="center">3G</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">33</td>
+<td align="center">11</td>
+<td align="right">
+2M2 (O-202)
+ - 2M3 (O-202)
+ - 2M4 (O-202)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">ID25G</td>
+<td align="left" rowspan="1">Irrigação E Drenagem</td>
+<td align="center">5G</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">38</td>
+<td align="center">6</td>
+<td align="right">
+2T1 (O204)
+ - 2T2 (O204)
+ - 2T3 (O204)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">II21G</td>
+<td align="left" rowspan="2">Informática Aplicada</td>
+<td align="center">1GB</td>
+<td align="center">22</td>
+<td align="center">2</td>
+<td align="center">22</td>
+<td align="center">2</td>
+<td align="right">
+5T2 (V103)
+ - 5T3 (V103)
+ - 5T4 (V103)
+</td>
+</tr>
+<td align="center">1GA</td>
+<td align="center">22</td>
+<td align="center">2</td>
+<td align="center">22</td>
+<td align="center">2</td>
+<td align="right">
+4T2 (V103)
+ - 4T3 (V103)
+ - 4T4 (V103)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">LS25G</td>
+<td align="left" rowspan="2">Levantamento E Classificação Do Solo</td>
+<td align="center">5GA</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">15</td>
+<td align="center">0</td>
+<td align="right">
+6M2 (O204)
+ - 6M3 (O204)
+ - 6M4 (O204)
+</td>
+</tr>
+<td align="center">5GB</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">11</td>
+<td align="center">4</td>
+<td align="right">
+6M2 (O204)
+ - 6M3 (O204)
+ - 6M5 (O204)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">MB23G</td>
+<td align="left" rowspan="2">Microbiologia Agrícola</td>
+<td align="center">3GA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">21</td>
+<td align="center">1</td>
+<td align="right">
+3M1 (UAB3)
+ - 3M2 (UAB3)
+ - 6M1 (UAB3)
+ - 6M2 (UAB3)
+</td>
+</tr>
+<td align="center">3GB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+3M1 (UAB3)
+ - 3M2 (UAB3)
+ - 6M3 (UAB3)
+ - 6M4 (UAB3)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">MC24G</td>
+<td align="left" rowspan="2">Mecanização Agrícola</td>
+<td align="center">4GB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">5</td>
+<td align="center">17</td>
+<td align="right">
+4T2 (O201)
+ - 4T3 (O201)
+ - 4T4 (O201)
+ - 4T5 (O201)
+ - 5T4 (O204)
+ - 5T5 (O204)
+</td>
+</tr>
+<td align="center">4GA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">10</td>
+<td align="center">12</td>
+<td align="right">
+4T2 (O201)
+ - 4T3 (O201)
+ - 4T4 (O201)
+ - 4T5 (O201)
+ - 5T2 (O204)
+ - 5T3 (O204)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">MS27G</td>
+<td align="left" rowspan="1">Manejo Do Solo</td>
+<td align="center">8G</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">23</td>
+<td align="center">21</td>
+<td align="right">
+4M3 (O201)
+ - 4M4 (O201)
+ - 4M5 (O201)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">MV21G</td>
+<td align="left" rowspan="2">Morfologia Vegetal</td>
+<td align="center">1GA</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="center">21</td>
+<td align="center">1</td>
+<td align="right">
+5M2 (O005)
+ - 5M3 (O005)
+ - 5M4 (O003)
+ - 5M5 (O003)
+</td>
+</tr>
+<td align="center">1GB</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="center">21</td>
+<td align="center">1</td>
+<td align="right">
+5M2 (O005)
+ - 5M3 (O005)
+ - 6M2 (O003)
+ - 6M3 (O003)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">MV25G</td>
+<td align="left" rowspan="1">Melhoramento Vegetal</td>
+<td align="center">5G</td>
+<td align="center">0</td>
+<td align="center">46</td>
+<td align="center">30</td>
+<td align="center">16</td>
+<td align="right">
+3T2 (O204)
+ - 3T3 (O204)
+ - 5T2 (O203)
+ - 5T3 (O203)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">NA27G</td>
+<td align="left" rowspan="1">Fundamentos De Nutrição Animal</td>
+<td align="center">7G</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">20</td>
+<td align="center">24</td>
+<td align="right">
+2M2 (O205)
+ - 2M3 (O205)
+ - 2M4 (O205)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">OL27G</td>
+<td align="left" rowspan="2">Olericultura</td>
+<td align="center">7GB</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">11</td>
+<td align="center">4</td>
+<td align="right">
+3M2 (O205)
+ - 3M3 (O205)
+ - 3M4 (O205)
+ - 5T4 (O205)
+ - 5T5 (O205)
+</td>
+</tr>
+<td align="center">7GA</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">15</td>
+<td align="center">0</td>
+<td align="right">
+3M2 (O205)
+ - 3M3 (O205)
+ - 3M4 (O205)
+ - 5T2 (O205)
+ - 5T3 (O205)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">PD25G</td>
+<td align="left" rowspan="2">Plantas Daninhas</td>
+<td align="center">6GA</td>
+<td align="center">0</td>
+<td align="center">16</td>
+<td align="center">16</td>
+<td align="center">0</td>
+<td align="right">
+3M4 (O-202)
+ - 3M5 (O-202)
+ - 3T2 (O201)
+ - 3T3 (O201)
+</td>
+</tr>
+<td align="center">6GB</td>
+<td align="center">0</td>
+<td align="center">16</td>
+<td align="center">14</td>
+<td align="center">2</td>
+<td align="right">
+3M4 (O-202)
+ - 3M5 (O-202)
+ - 3T4 (O201)
+ - 3T5 (O201)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">PE22G</td>
+<td align="left" rowspan="1">Probabilidade E Estatística</td>
+<td align="center">2G</td>
+<td align="center">0</td>
+<td align="center">47</td>
+<td align="center">43</td>
+<td align="center">4</td>
+<td align="right">
+3M2 (O001)
+ - 3M3 (O001)
+ - 6M2 (O001)
+ - 6M3 (O001)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">PI29G</td>
+<td align="left" rowspan="1">Planejamento Integrado</td>
+<td align="center">9G</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">24</td>
+<td align="center">20</td>
+<td align="right">
+6M2 (O201)
+ - 6M3 (O201)
+ - 6M4 (O201)
+ - 6M5 (O201)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">PJ29G</td>
+<td align="left" rowspan="2">Parques E Jardins</td>
+<td align="center">9GB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">8</td>
+<td align="center">14</td>
+<td align="right">
+4T1 (O203)
+ - 4T4 (O203)
+ - 4T5 (O203)
+</td>
+</tr>
+<td align="center">9GA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">14</td>
+<td align="center">8</td>
+<td align="right">
+4T1 (O203)
+ - 4T2 (O203)
+ - 4T3 (O203)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">QS22G</td>
+<td align="left" rowspan="2">Química Do Solo</td>
+<td align="center">2GB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+4M4 (O001)
+ - 4M5 (O001)
+ - 5M2 (UAB2)
+ - 5M3 (UAB2)
+</td>
+</tr>
+<td align="center">2GA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">19</td>
+<td align="center">3</td>
+<td align="right">
+4M4 (O001)
+ - 4M5 (O001)
+ - 5M4 (UAB2)
+ - 5M5 (UAB2)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">SI27G</td>
+<td align="left" rowspan="1">Sistemas Integrados De Produção Agropecuària</td>
+<td align="center">10G</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">26</td>
+<td align="center">0</td>
+<td align="right">
+4T6 (O204)
+ - 4N1 (O204)
+ - 4N2 (O204)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">SN29G</td>
+<td align="left" rowspan="1">Suinocultura A</td>
+<td align="center">9G</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">21</td>
+<td align="center">23</td>
+<td align="right">
+3M3 (UAB2)
+ - 3M4 (UAB2)
+ - 3M5 (UAB2)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">SV22G</td>
+<td align="left" rowspan="3">Sistemática Vegetal</td>
+<td align="center">2GA</td>
+<td align="center">0</td>
+<td align="center">14</td>
+<td align="center">11</td>
+<td align="center">3</td>
+<td align="right">
+4T2 (O001)
+ - 4T3 (O001)
+ - 5T4 (O003)
+ - 5T5 (O003)
+</td>
+</tr>
+<td align="center">2GB</td>
+<td align="center">0</td>
+<td align="center">16</td>
+<td align="center">16</td>
+<td align="center">0</td>
+<td align="right">
+4T2 (O001)
+ - 4T3 (O001)
+ - 5T2 (O003)
+ - 5T3 (O003)
+</td>
+</tr>
+<td align="center">2GC</td>
+<td align="center">0</td>
+<td align="center">14</td>
+<td align="center">12</td>
+<td align="center">2</td>
+<td align="right">
+4T2 (O001)
+ - 4T3 (O001)
+ - 4T4 (O003)
+ - 4T5 (O003)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">SV29G</td>
+<td align="left" rowspan="1">Silvicultura</td>
+<td align="center">9G</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">42</td>
+<td align="center">3</td>
+<td align="right">
+5T2 (O005)
+ - 5T3 (O005)
+ - 5T4 (O005)
+ - 5T5 (O005)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">TC27G</td>
+<td align="left" rowspan="1">Trabalho De Conclusão  De Curso 1</td>
+<td align="center">7G</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">32</td>
+<td align="center">12</td>
+<td align="right">
+6M2 (O205)
+ - 6M3 (O205)
+ - 6M4 (O205)
+ - 6M5 (O205)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">TS28G</td>
+<td align="left" rowspan="2">Tecnologia De Sementes</td>
+<td align="center">8GA</td>
+<td align="center">0</td>
+<td align="center">14</td>
+<td align="center">13</td>
+<td align="center">1</td>
+<td align="right">
+4M1 (UAB3)
+ - 4M2 (UAB3)
+ - 4T4 (UAB3)
+ - 4T5 (UAB3)
+</td>
+</tr>
+<td align="center">8GB</td>
+<td align="center">0</td>
+<td align="center">12</td>
+<td align="center">8</td>
+<td align="center">4</td>
+<td align="right">
+4M1 (UAB3)
+ - 4M2 (UAB3)
+ - 4T2 (UAB3)
+ - 4T3 (UAB3)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">ZT26G</td>
+<td align="left" rowspan="1">Zootecnia</td>
+<td align="center">6G</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="right">
+4T2 (O-202)
+ - 4T3 (O-202)
+ - 4T4 (O-202)
+ - 4T5 (O-202)
+</td>
+</tr>
+<tr>
+<th colspan="8" align="center" style="font-weight:bold; text-transform:uppercase; padding:10px 0px;">
+Bacharelado - DEPARTAMENTO ACADÊMICO DE CIÊNCIAS HUMANAS
+</th>
+<tr>
+<tr>
+<td align="center" style="font-weight:bold;">Código</td>
+<td align="center" style="font-weight:bold;">Disciplina</td>
+<td align="center" style="font-weight:bold;">Turma</td>
+<td align="center" style="font-weight:bold;">Vg. Calouros</td>
+<td align="center" style="font-weight:bold;">Vg. Veteranos</td>
+<td align="center" style="font-weight:bold;">Vg. Ocup.</td>
+<td align="center" style="font-weight:bold;">Vg. Rest.</td>
+<td align="center" style="font-weight:bold;">Horário(Sala)</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EP29NB</td>
+<td align="left" rowspan="1">Ética, Profissão E Cidadania</td>
+<td align="center">9CP</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">21</td>
+<td align="center">1</td>
+<td align="right">
+5T2 (M003)
+ - 5T3 (M003)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">FC23G</td>
+<td align="left" rowspan="1">Filosofia Da Ciência E Da Tecnologia</td>
+<td align="center">3G</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">41</td>
+<td align="center">3</td>
+<td align="right">
+4T4 (O005)
+ - 4T5 (O005)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">FS31QB</td>
+<td align="left" rowspan="1">Filosofia</td>
+<td align="center">1QB</td>
+<td align="center">44</td>
+<td align="center">5</td>
+<td align="center">31</td>
+<td align="center">18</td>
+<td align="right">
+4M3 (N010)
+ - 4M4 (N010)
+ - 4M5 (N010)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">HL22HM</td>
+<td align="left" rowspan="1">Relações Humanas E Liderança</td>
+<td align="center">HUMA10</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="right">
+5T2 (L103)
+ - 5T3 (L103)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">HT22HM</td>
+<td align="left" rowspan="2">Historia Da Técnica E Da Tecnologia</td>
+<td align="center">HUMA4</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">26</td>
+<td align="center">18</td>
+<td align="right">
+4M4 (L103)
+ - 4M5 (L103)
+</td>
+</tr>
+<td align="center">HUMA11</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">39</td>
+<td align="center">5</td>
+<td align="right">
+6T2 (L104)
+ - 6T3 (L104)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">MA37QB</td>
+<td align="left" rowspan="1">Meio Ambiente E Sociedade</td>
+<td align="center">7QB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">8</td>
+<td align="center">14</td>
+<td align="right">
+3M4 (N111)
+ - 3M5 (N111)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">MP21G</td>
+<td align="left" rowspan="1">Metodologia De Pesquisa</td>
+<td align="center">1G</td>
+<td align="center">44</td>
+<td align="center">1</td>
+<td align="center">39</td>
+<td align="center">6</td>
+<td align="right">
+3T2 (O005)
+ - 3T3 (O005)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">MP22NB</td>
+<td align="left" rowspan="3">Metodologia De Pesquisa</td>
+<td align="center">2MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">27</td>
+<td align="center">17</td>
+<td align="right">
+3T2 (L103)
+ - 3T3 (L103)
+</td>
+</tr>
+<td align="center">2CP</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">34</td>
+<td align="center">10</td>
+<td align="right">
+3N4 (M007)
+ - 3N5 (M007)
+</td>
+</tr>
+<td align="center">2EL</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">43</td>
+<td align="center">1</td>
+<td align="right">
+2T4 (L104)
+ - 2T5 (L104)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">MP23NB</td>
+<td align="left" rowspan="1">Metodologia De Pesquisa</td>
+<td align="center">3CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">17</td>
+<td align="center">27</td>
+<td align="right">
+2T2 (M105)
+ - 2T3 (M105)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="4">MS22HM</td>
+<td align="left" rowspan="4">Meio Ambiente E Sociedade</td>
+<td align="center">HUMA3</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">15</td>
+<td align="center">7</td>
+<td align="right">
+3M4 (N111)
+ - 3M5 (N111)
+</td>
+</tr>
+<td align="center">HUMA5</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">29</td>
+<td align="center">15</td>
+<td align="right">
+5M2 (N106)
+ - 5M3 (N106)
+</td>
+</tr>
+<td align="center">HUMA1</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">26</td>
+<td align="center">18</td>
+<td align="right">
+2M2 (M104)
+ - 2M3 (M104)
+</td>
+</tr>
+<td align="center">HUMA6</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="right">
+5M4 (N105)
+ - 5M5 (N105)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">MT33QB</td>
+<td align="left" rowspan="1">Metodologia Da Pesquisa</td>
+<td align="center">3QB</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">19</td>
+<td align="center">25</td>
+<td align="right">
+3T2 (N107)
+ - 3T3 (N107)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">PS22HM</td>
+<td align="left" rowspan="3">Psicologia Aplicada Ao Trabalho</td>
+<td align="center">HUMA12</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">41</td>
+<td align="center">3</td>
+<td align="right">
+3N2 (M011)
+ - 3N3 (M011)
+</td>
+</tr>
+<td align="center">HUMA9</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="right">
+2T4 (M105)
+ - 2T5 (M105)
+</td>
+</tr>
+<td align="center">HUMA2</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="right">
+3M4 (L107)
+ - 3M5 (L107)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">QV22HM</td>
+<td align="left" rowspan="2">Qualidade De Vida</td>
+<td align="center">HUMA7</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="right">
+6M2 (L105)
+ - 6M3 (L105)
+</td>
+</tr>
+<td align="center">HUMA8</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">40</td>
+<td align="center">4</td>
+<td align="right">
+2T2 (N109)
+ - 2T3 (N109)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">SO35QB</td>
+<td align="left" rowspan="1">Sociologia</td>
+<td align="center">5QB</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">10</td>
+<td align="center">34</td>
+<td align="right">
+5T2 (N109)
+ - 5T3 (N109)
+ - 5T4 (N109)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">SR24G</td>
+<td align="left" rowspan="1">Sociologia Rural</td>
+<td align="center">4G</td>
+<td align="center">0</td>
+<td align="center">46</td>
+<td align="center">43</td>
+<td align="center">3</td>
+<td align="right">
+2T2 (L103)
+ - 2T3 (L103)
+ - 2T4 (L103)
+</td>
+</tr>
+<tr>
+<th colspan="8" align="center" style="font-weight:bold; text-transform:uppercase; padding:10px 0px;">
+Bacharelado - DEPARTAMENTO ACADÊMICO DE AGRIMENSURA
+</th>
+<tr>
+<tr>
+<td align="center" style="font-weight:bold;">Código</td>
+<td align="center" style="font-weight:bold;">Disciplina</td>
+<td align="center" style="font-weight:bold;">Turma</td>
+<td align="center" style="font-weight:bold;">Vg. Calouros</td>
+<td align="center" style="font-weight:bold;">Vg. Veteranos</td>
+<td align="center" style="font-weight:bold;">Vg. Ocup.</td>
+<td align="center" style="font-weight:bold;">Vg. Rest.</td>
+<td align="center" style="font-weight:bold;">Horário(Sala)</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">SG26G</td>
+<td align="left" rowspan="2">Sensoriamento Remoto E Geoprocessamento</td>
+<td align="center">6GB</td>
+<td align="center">0</td>
+<td align="center">18</td>
+<td align="center">17</td>
+<td align="center">1</td>
+<td align="right">
+6M4 (O-202)
+ - 6M5 (O-202)
+ - 6T4 (L003)
+ - 6T5 (L003)
+</td>
+</tr>
+<td align="center">6GA</td>
+<td align="center">0</td>
+<td align="center">18</td>
+<td align="center">18</td>
+<td align="center">0</td>
+<td align="right">
+6M4 (O-202)
+ - 6M5 (O-202)
+ - 6T2 (L003)
+ - 6T3 (L003)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">SR24CV</td>
+<td align="left" rowspan="3">Sensoriamento Remoto</td>
+<td align="center">4CVB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">19</td>
+<td align="center">3</td>
+<td align="right">
+2T4 (L003)
+ - 2T5 (L003)
+ - 4T4 (M107)
+ - 4T5 (M107)
+</td>
+</tr>
+<td align="center">4CVSP</td>
+<td align="center">0</td>
+<td align="center">3</td>
+<td align="center">3</td>
+<td align="center">0</td>
+<td align="right">
+</td>
+</tr>
+<td align="center">4CVA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">11</td>
+<td align="center">11</td>
+<td align="right">
+2T2 (L003)
+ - 2T3 (L003)
+ - 4T4 (M107)
+ - 4T5 (M107)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">TG23G</td>
+<td align="left" rowspan="2">Topografia A</td>
+<td align="center">3GB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">21</td>
+<td align="center">1</td>
+<td align="right">
+5T2 (O-202)
+ - 5T3 (O-202)
+ - 5T4 (O-202)
+ - 5T5 (O-202)
+</td>
+</tr>
+<td align="center">3GA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+3T2 (N108)
+ - 3T3 (N108)
+ - 3T4 (N108)
+ - 3T5 (N108)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">TP22CV</td>
+<td align="left" rowspan="2">Topografia</td>
+<td align="center">2CVA</td>
+<td align="center">0</td>
+<td align="center">23</td>
+<td align="center">17</td>
+<td align="center">6</td>
+<td align="right">
+4T2 (N110)
+ - 4T3 (N110)
+ - 4T4 (N110)
+ - 4T5 (N110)
+</td>
+</tr>
+<td align="center">2CVB</td>
+<td align="center">0</td>
+<td align="center">23</td>
+<td align="center">23</td>
+<td align="center">0</td>
+<td align="right">
+6T1 (M105)
+ - 6T2 (M105)
+ - 6T3 (M105)
+ - 6T4 (M105)
+</td>
+</tr>
+<tr>
+<th colspan="8" align="center" style="font-weight:bold; text-transform:uppercase; padding:10px 0px;">
+Bacharelado - DEPARTAMENTO ACADÊMICO DE ELETRICA
+</th>
+<tr>
+<tr>
+<td align="center" style="font-weight:bold;">Código</td>
+<td align="center" style="font-weight:bold;">Disciplina</td>
+<td align="center" style="font-weight:bold;">Turma</td>
+<td align="center" style="font-weight:bold;">Vg. Calouros</td>
+<td align="center" style="font-weight:bold;">Vg. Veteranos</td>
+<td align="center" style="font-weight:bold;">Vg. Ocup.</td>
+<td align="center" style="font-weight:bold;">Vg. Rest.</td>
+<td align="center" style="font-weight:bold;">Horário(Sala)</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">AC24MC</td>
+<td align="left" rowspan="1">Análise De Circuitos Elétricos 1</td>
+<td align="center">4MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">43</td>
+<td align="center">1</td>
+<td align="right">
+2M2 (Q004)
+ - 2M3 (Q004)
+ - 6M2 (Q004)
+ - 6M3 (Q004)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="4">AC24NB</td>
+<td align="left" rowspan="4">Análise De Circuitos Elétricos 1</td>
+<td align="center">4CPA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2T4 (M004)
+ - 2T5 (M004)
+ - 6T2 (M004)
+ - 6T3 (M004)
+</td>
+</tr>
+<td align="center">4ELA</td>
+<td align="center">0</td>
+<td align="center">23</td>
+<td align="center">23</td>
+<td align="center">0</td>
+<td align="right">
+2M2 (L105)
+ - 2M3 (L105)
+ - 4M2 (L107)
+ - 4M3 (L107)
+</td>
+</tr>
+<td align="center">4ELB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2M2 (L105)
+ - 2M3 (L105)
+ - 5M2 (L106)
+ - 5M3 (L106)
+</td>
+</tr>
+<td align="center">4CPB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2T4 (M004)
+ - 2T5 (M004)
+ - 5N1 (M004)
+ - 5N2 (M004)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">AC25EL</td>
+<td align="left" rowspan="1">Análise De Circuitos Elétricos 2</td>
+<td align="center">5EL</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">31</td>
+<td align="center">13</td>
+<td align="right">
+3T2 (L107)
+ - 3T3 (L107)
+ - 6T2 (L107)
+ - 6T3 (L107)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">AC25MC</td>
+<td align="left" rowspan="1">Análise De Circuitos Elétricos 2</td>
+<td align="center">5MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">39</td>
+<td align="center">5</td>
+<td align="right">
+4M2 (Q005)
+ - 4M3 (Q005)
+ - 5M2 (Q005)
+ - 5M3 (Q005)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">AC29CP</td>
+<td align="left" rowspan="1">Automação E Controle Discreto</td>
+<td align="center">9CP</td>
+<td align="center">0</td>
+<td align="center">7</td>
+<td align="center">2</td>
+<td align="center">5</td>
+<td align="right">
+3T4 (I008)
+ - 3T5 (I008)
+ - 5T2 (I008)
+ - 5T3 (I008)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">AC29EL</td>
+<td align="left" rowspan="1">Automação E Controle Discreto</td>
+<td align="center">10EL</td>
+<td align="center">0</td>
+<td align="center">12</td>
+<td align="center">12</td>
+<td align="center">0</td>
+<td align="right">
+3T4 (I008)
+ - 3T5 (I008)
+ - 5T2 (I008)
+ - 5T3 (I008)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">AE28EL</td>
+<td align="left" rowspan="2">Acionamentos Elétricos Industriais</td>
+<td align="center">8ELA</td>
+<td align="center">0</td>
+<td align="center">17</td>
+<td align="center">10</td>
+<td align="center">7</td>
+<td align="right">
+2M2 (I001)
+ - 2M3 (I001)
+ - 3M2 (I001)
+ - 3M3 (I001)
+</td>
+</tr>
+<td align="center">8ELB</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">10</td>
+<td align="center">5</td>
+<td align="right">
+2M2 (I001)
+ - 2M3 (I001)
+ - 5M2 (I001)
+ - 5M3 (I001)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">AO26CP</td>
+<td align="left" rowspan="1">Arquitetura E Organização De Computadores</td>
+<td align="center">6CP</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">13</td>
+<td align="center">9</td>
+<td align="right">
+2T4 (V104)
+ - 2T5 (V104)
+ - 4N1 (V104)
+ - 4N2 (V104)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">AR29EL</td>
+<td align="left" rowspan="1">Análise De Redes De Distribuição</td>
+<td align="center">9EL</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+3M2 (L105)
+ - 3M3 (L105)
+ - 5M2 (L105)
+ - 5M3 (L105)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">AS26EL</td>
+<td align="left" rowspan="2">Análise De Sistemas De Potência 1</td>
+<td align="center">6EL</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">14</td>
+<td align="center">30</td>
+<td align="right">
+2M4 (N106)
+ - 2M5 (N106)
+ - 4M4 (L104)
+ - 4M5 (L104)
+</td>
+</tr>
+<td align="center">6ELE</td>
+<td align="center">0</td>
+<td align="center">30</td>
+<td align="center">30</td>
+<td align="center">0</td>
+<td align="right">
+4M4 (L106)
+ - 4M5 (L106)
+ - 6M2 (L106)
+ - 6M3 (L106)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">AS27EL</td>
+<td align="left" rowspan="1">Análise De Sistemas De Potência 2</td>
+<td align="center">7EL</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">15</td>
+<td align="center">29</td>
+<td align="right">
+3M2 (M102)
+ - 3M3 (M102)
+ - 6M2 (M102)
+ - 6M3 (M102)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">CD24CP</td>
+<td align="left" rowspan="1">Circuitos Digitais</td>
+<td align="center">4CP</td>
+<td align="center">0</td>
+<td align="center">23</td>
+<td align="center">23</td>
+<td align="center">0</td>
+<td align="right">
+4N1 (M004)
+ - 4N2 (M004)
+ - 5T1 (M004)
+ - 5T2 (M004)
+ - 5T3 (M004)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">CD24EL</td>
+<td align="left" rowspan="2">Circuitos Digitais</td>
+<td align="center">4ELB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">4</td>
+<td align="center">18</td>
+<td align="right">
+2T4 (L106)
+ - 2T5 (L106)
+ - 4T1 (I003)
+ - 4T2 (I003)
+ - 4T3 (I003)
+</td>
+</tr>
+<td align="center">4ELA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">18</td>
+<td align="center">4</td>
+<td align="right">
+2T4 (L106)
+ - 2T5 (L106)
+ - 3T1 (I003)
+ - 3T2 (I003)
+ - 3T3 (I003)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">CD27CP</td>
+<td align="left" rowspan="1">Controle Digital</td>
+<td align="center">7CP</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">9</td>
+<td align="center">13</td>
+<td align="right">
+3T2 (V104)
+ - 3T3 (V104)
+ - 5T2 (V104)
+ - 5T3 (V104)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">CD27EL</td>
+<td align="left" rowspan="2">Controle Digital</td>
+<td align="center">7ELA</td>
+<td align="center">0</td>
+<td align="center">17</td>
+<td align="center">6</td>
+<td align="center">11</td>
+<td align="right">
+3T2 (V109)
+ - 3T3 (V109)
+ - 5M2 (V107)
+ - 5M3 (V107)
+</td>
+</tr>
+<td align="center">7ELB</td>
+<td align="center">0</td>
+<td align="center">17</td>
+<td align="center">11</td>
+<td align="center">6</td>
+<td align="right">
+3T2 (V109)
+ - 3T3 (V109)
+ - 5M4 (V107)
+ - 5M5 (V107)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">CE28EL</td>
+<td align="left" rowspan="1">Conservação De Energia Elétrica</td>
+<td align="center">8EL</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">25</td>
+<td align="center">0</td>
+<td align="right">
+3T1 (I001)
+ - 3T2 (I001)
+ - 3T3 (I001)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">DC29EL</td>
+<td align="left" rowspan="1">Dinâmica E Controle De Sistemas Elétricos De Potência</td>
+<td align="center">9EL</td>
+<td align="center">0</td>
+<td align="center">31</td>
+<td align="center">31</td>
+<td align="center">0</td>
+<td align="right">
+3M4 (N106)
+ - 3M5 (N106)
+ - 5M4 (N106)
+ - 5M5 (N106)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EE27EL</td>
+<td align="left" rowspan="1">Instrumentação Eletro-Eletrônica</td>
+<td align="center">10EL</td>
+<td align="center">0</td>
+<td align="center">10</td>
+<td align="center">5</td>
+<td align="center">5</td>
+<td align="right">
+5T4 (N110)
+ - 5T5 (N110)
+ - 6T4 (N110)
+ - 6T5 (N110)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EG24EL</td>
+<td align="left" rowspan="1">Eletromagnetismo Para Engenharia</td>
+<td align="center">4EL</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">29</td>
+<td align="center">15</td>
+<td align="right">
+3T4 (L106)
+ - 3T5 (L106)
+ - 6T4 (L106)
+ - 6T5 (L106)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EL25CP</td>
+<td align="left" rowspan="1">Eletrônica A</td>
+<td align="center">5CP</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">9</td>
+<td align="center">13</td>
+<td align="right">
+3T3 (M011)
+ - 3T4 (M011)
+ - 3T5 (M011)
+ - 5T4 (M011)
+ - 5T5 (M011)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">EL25EL</td>
+<td align="left" rowspan="2">Eletrônica A</td>
+<td align="center">5ELB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">12</td>
+<td align="center">10</td>
+<td align="right">
+3M4 (I010)
+ - 3M5 (I010)
+ - 5M3 (M011)
+ - 5M4 (M011)
+ - 5M5 (M011)
+</td>
+</tr>
+<td align="center">5ELA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">14</td>
+<td align="center">8</td>
+<td align="right">
+3M2 (I010)
+ - 3M3 (I010)
+ - 5M3 (M011)
+ - 5M4 (M011)
+ - 5M5 (M011)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EL26CP</td>
+<td align="left" rowspan="1">Eletrônica B</td>
+<td align="center">6CP</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+3N1 (M007)
+ - 3N2 (M007)
+ - 4N3 (M007)
+ - 4N4 (M007)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">EL26EL</td>
+<td align="left" rowspan="2">Eletrônica B</td>
+<td align="center">6ELA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+3T4 (I005)
+ - 3T5 (I005)
+ - 6M4 (I010)
+ - 6M5 (I010)
+</td>
+</tr>
+<td align="center">6ELB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">9</td>
+<td align="center">13</td>
+<td align="right">
+3T4 (I010)
+ - 3T5 (I010)
+ - 5T4 (I008)
+ - 5T5 (I008)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">EL27EL</td>
+<td align="left" rowspan="2">Eletrônica C</td>
+<td align="center">7ELB</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">15</td>
+<td align="center">0</td>
+<td align="right">
+2T4 (N106)
+ - 2T5 (N106)
+ - 6M4 (I005)
+ - 6M5 (I005)
+</td>
+</tr>
+<td align="center">7ELA</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">9</td>
+<td align="center">6</td>
+<td align="right">
+2T4 (N106)
+ - 2T5 (N106)
+ - 6T4 (I005)
+ - 6T5 (I005)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EL29CP</td>
+<td align="left" rowspan="1">Eletrônica C</td>
+<td align="center">9CP</td>
+<td align="center">0</td>
+<td align="center">3</td>
+<td align="center">0</td>
+<td align="center">3</td>
+<td align="right">
+2T4 (N106)
+ - 2T5 (N106)
+ - 6T4 (I005)
+ - 6T5 (I005)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EP29EL</td>
+<td align="left" rowspan="1">Ética, Profissão E Cidadania</td>
+<td align="center">9EL</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">28</td>
+<td align="center">16</td>
+<td align="right">
+5T4 (N106)
+ - 5T5 (N106)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EP29NB</td>
+<td align="left" rowspan="1">Ética, Profissão E Cidadania</td>
+<td align="center">9CP</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">21</td>
+<td align="center">1</td>
+<td align="right">
+5T2 (M003)
+ - 5T3 (M003)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">ET26NB</td>
+<td align="left" rowspan="1">Eletrotécnica A</td>
+<td align="center">6MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">33</td>
+<td align="center">11</td>
+<td align="right">
+4M4 (I001)
+ - 4M5 (I001)
+ - 5M4 (I001)
+ - 5M5 (I001)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">ET29EL</td>
+<td align="left" rowspan="1">Eletrônica De Potência</td>
+<td align="center">10EL</td>
+<td align="center">0</td>
+<td align="center">10</td>
+<td align="center">7</td>
+<td align="center">3</td>
+<td align="right">
+4T4 (I010)
+ - 4T5 (I010)
+ - 6T2 (I005)
+ - 6T3 (I005)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">FE23EL</td>
+<td align="left" rowspan="1">Fundamentos De Engenharia De Segurança Do Trabalho</td>
+<td align="center">3EL</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">36</td>
+<td align="center">8</td>
+<td align="right">
+5T1 (L104)
+ - 5T2 (L104)
+ - 5T3 (L104)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">GE25EL</td>
+<td align="left" rowspan="2">Geração De Energia Elétrica</td>
+<td align="center">5EL</td>
+<td align="center">0</td>
+<td align="center">35</td>
+<td align="center">31</td>
+<td align="center">4</td>
+<td align="right">
+2T4 (L107)
+ - 2T5 (L107)
+ - 4T2 (L106)
+ - 4T3 (L106)
+</td>
+</tr>
+<td align="center">5ELE</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2N1 (M102)
+ - 2N2 (M102)
+ - 4N1 (M102)
+ - 4N2 (M102)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">HS38QB</td>
+<td align="left" rowspan="1">Higiene E Segurança No Trabalho</td>
+<td align="center">8QB</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">5</td>
+<td align="center">39</td>
+<td align="right">
+3T4 (M007)
+ - 3T5 (M007)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">IE21EL</td>
+<td align="left" rowspan="1">Introdução À Engenharia</td>
+<td align="center">1EL</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="center">35</td>
+<td align="center">9</td>
+<td align="right">
+6T4 (M102)
+ - 6T5 (M102)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">IE25CV</td>
+<td align="left" rowspan="2">Instalações Elétricas Prediais</td>
+<td align="center">5CV</td>
+<td align="center">0</td>
+<td align="center">46</td>
+<td align="center">46</td>
+<td align="center">0</td>
+<td align="right">
+2M4 (M104)
+ - 2M5 (M104)
+ - 3M4 (M104)
+ - 3M5 (M104)
+</td>
+</tr>
+<td align="center">5CVE</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="right">
+3T2 (M106)
+ - 3T3 (M106)
+ - 5T2 (M107)
+ - 5T3 (M107)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">IE25EL</td>
+<td align="left" rowspan="1">Instalações Elétricas 1</td>
+<td align="center">5EL</td>
+<td align="center">0</td>
+<td align="center">35</td>
+<td align="center">24</td>
+<td align="center">11</td>
+<td align="right">
+5T4 (L107)
+ - 5T5 (L107)
+ - 6M2 (L107)
+ - 6M3 (L107)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">IE26EL</td>
+<td align="left" rowspan="1">Instalações Elétricas 2</td>
+<td align="center">6EL</td>
+<td align="center">0</td>
+<td align="center">28</td>
+<td align="center">28</td>
+<td align="center">0</td>
+<td align="right">
+3M2 (N106)
+ - 3M3 (N106)
+ - 5M4 (L104)
+ - 5M5 (L104)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">IE27CP</td>
+<td align="left" rowspan="1">Instrumentação Eletro-Eletrônica</td>
+<td align="center">7CP</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">14</td>
+<td align="center">8</td>
+<td align="right">
+5T4 (M005)
+ - 5T5 (M005)
+ - 6T4 (M005)
+ - 6T5 (M005)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">IE27EL</td>
+<td align="left" rowspan="1">Instalações Elétricas 3</td>
+<td align="center">7EL</td>
+<td align="center">0</td>
+<td align="center">35</td>
+<td align="center">26</td>
+<td align="center">9</td>
+<td align="right">
+4T1 (L104)
+ - 4T2 (L104)
+ - 4T3 (L104)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">IM24EL</td>
+<td align="left" rowspan="2">Instrumentos E Medidas Elétricas</td>
+<td align="center">4ELB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">20</td>
+<td align="center">2</td>
+<td align="right">
+6T1 (L106)
+ - 6T2 (L106)
+ - 6T3 (L106)
+</td>
+</tr>
+<td align="center">4ELA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">19</td>
+<td align="center">3</td>
+<td align="right">
+5T3 (M102)
+ - 5T4 (M102)
+ - 5T5 (M102)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">LR27CP</td>
+<td align="left" rowspan="1">Lógica Reconfigurável</td>
+<td align="center">7CP</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">12</td>
+<td align="center">10</td>
+<td align="right">
+2N1 (O205)
+ - 2N2 (O205)
+ - 4N1 (O205)
+ - 4N2 (O205)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">LR28EL</td>
+<td align="left" rowspan="1">Lógica Reconfigurável</td>
+<td align="center">10EL</td>
+<td align="center">0</td>
+<td align="center">10</td>
+<td align="center">3</td>
+<td align="center">7</td>
+<td align="right">
+2N1 (O205)
+ - 2N2 (O205)
+ - 4N1 (O205)
+ - 4N2 (O205)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="4">MA25EL</td>
+<td align="left" rowspan="4">Máquinas Elétricas 1</td>
+<td align="center">5ELA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">12</td>
+<td align="center">10</td>
+<td align="right">
+2T2 (L106)
+ - 2T3 (L106)
+ - 4T4 (I001)
+ - 4T5 (I001)
+</td>
+</tr>
+<td align="center">5ELEB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2M4 (I001)
+ - 2M5 (I001)
+ - 6M4 (I001)
+ - 6M5 (I001)
+</td>
+</tr>
+<td align="center">5ELB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">10</td>
+<td align="center">12</td>
+<td align="right">
+2T2 (L106)
+ - 2T3 (L106)
+ - 5T2 (I001)
+ - 5T3 (I001)
+</td>
+</tr>
+<td align="center">5ELEA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">16</td>
+<td align="center">6</td>
+<td align="right">
+2M4 (I001)
+ - 2M5 (I001)
+ - 4T2 (I001)
+ - 4T3 (I001)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">MA26EL</td>
+<td align="left" rowspan="2">Máquinas Elétricas 2</td>
+<td align="center">6ELA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">21</td>
+<td align="center">1</td>
+<td align="right">
+5T2 (L105)
+ - 5T3 (L105)
+ - 6T4 (I001)
+ - 6T5 (I001)
+</td>
+</tr>
+<td align="center">6ELB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">21</td>
+<td align="center">1</td>
+<td align="right">
+2T4 (I001)
+ - 2T5 (I001)
+ - 5T2 (L105)
+ - 5T3 (L105)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">MA27EL</td>
+<td align="left" rowspan="3">Máquinas Elétricas 3</td>
+<td align="center">7ELB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">19</td>
+<td align="center">3</td>
+<td align="right">
+2T2 (I001)
+ - 2T3 (I001)
+ - 6T2 (I001)
+ - 6T3 (I001)
+</td>
+</tr>
+<td align="center">7ELA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">13</td>
+<td align="center">9</td>
+<td align="right">
+2T2 (I001)
+ - 2T3 (I001)
+ - 5T4 (I001)
+ - 5T5 (I001)
+</td>
+</tr>
+<td align="center">7ELSP</td>
+<td align="center">0</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">0</td>
+<td align="right">
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">OI25CP</td>
+<td align="left" rowspan="1">Oficina De Integração</td>
+<td align="center">7CP</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">11</td>
+<td align="center">11</td>
+<td align="right">
+2T3 (V009)
+ - 2T4 (V009)
+ - 2T5 (V009)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">OP26EL</td>
+<td align="left" rowspan="1">Ondas E Propagação</td>
+<td align="center">6EL</td>
+<td align="center">0</td>
+<td align="center">30</td>
+<td align="center">24</td>
+<td align="center">6</td>
+<td align="right">
+2M2 (L106)
+ - 2M3 (L106)
+ - 4M2 (L104)
+ - 4M3 (L104)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">PS26CP</td>
+<td align="left" rowspan="1">Princípio De Sistemas De Comunicação</td>
+<td align="center">5CP</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">21</td>
+<td align="center">23</td>
+<td align="right">
+2N1 (M011)
+ - 2N2 (M011)
+ - 4N1 (M011)
+ - 4N2 (M011)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">PS27EL</td>
+<td align="left" rowspan="1">Planejamento De Sistemas Energéticos</td>
+<td align="center">10EL</td>
+<td align="center">0</td>
+<td align="center">10</td>
+<td align="center">5</td>
+<td align="center">5</td>
+<td align="right">
+2M4 (I005)
+ - 2M5 (I005)
+ - 4M4 (I005)
+ - 4M5 (I005)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">PS28EL</td>
+<td align="left" rowspan="1">Proteção De Sistemas Elétricos De Potência</td>
+<td align="center">8EL</td>
+<td align="center">0</td>
+<td align="center">35</td>
+<td align="center">35</td>
+<td align="center">0</td>
+<td align="right">
+2M4 (L105)
+ - 2M5 (L105)
+ - 4M2 (L105)
+ - 4M3 (L105)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">SC25CP</td>
+<td align="left" rowspan="1">Sistemas De Controle 1</td>
+<td align="center">5CP</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+5T1 (M011)
+ - 5T2 (M011)
+ - 5T3 (M011)
+ - 6T2 (M011)
+ - 6T3 (M011)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">SC25EL</td>
+<td align="left" rowspan="2">Sistemas De Controle 1</td>
+<td align="center">5ELA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2M2 (I008)
+ - 2M3 (I008)
+ - 4M2 (M003)
+ - 4M3 (M003)
+ - 4M4 (M003)
+</td>
+</tr>
+<td align="center">5ELB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">12</td>
+<td align="center">10</td>
+<td align="right">
+2M4 (I008)
+ - 2M5 (I008)
+ - 4M2 (M003)
+ - 4M3 (M003)
+ - 4M4 (M003)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">SC26CP</td>
+<td align="left" rowspan="1">Sistemas De Controle 2</td>
+<td align="center">6CP</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+5N1 (M011)
+ - 5N2 (M011)
+ - 6N1 (M011)
+ - 6N2 (M011)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">SC26EL</td>
+<td align="left" rowspan="2">Sistemas De Controle 2</td>
+<td align="center">6ELB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">8</td>
+<td align="center">14</td>
+<td align="right">
+3T2 (I008)
+ - 3T3 (I008)
+ - 5M2 (L104)
+ - 5M3 (L104)
+</td>
+</tr>
+<td align="center">6ELA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">19</td>
+<td align="center">3</td>
+<td align="right">
+3M4 (I008)
+ - 3M5 (I008)
+ - 5M2 (L104)
+ - 5M3 (L104)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">SD25CP</td>
+<td align="left" rowspan="1">Sistemas Digitais</td>
+<td align="center">5CP</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">21</td>
+<td align="center">1</td>
+<td align="right">
+4T2 (M011)
+ - 4T3 (M011)
+ - 6T4 (M011)
+ - 6T5 (M011)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">SD25EL</td>
+<td align="left" rowspan="1">Sistemas Digitais</td>
+<td align="center">5EL</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">25</td>
+<td align="center">0</td>
+<td align="right">
+3T4 (I003)
+ - 3T5 (I003)
+ - 5M1 (I003)
+ - 5M2 (I003)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">SD29CP</td>
+<td align="left" rowspan="1">Sistemas Distribuídos</td>
+<td align="center">8CP</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">10</td>
+<td align="center">15</td>
+<td align="right">
+2T4 (V006)
+ - 2T5 (V006)
+ - 5T4 (V006)
+ - 5T5 (V006)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">SE27EL</td>
+<td align="left" rowspan="1">Subestações</td>
+<td align="center">10EL</td>
+<td align="center">0</td>
+<td align="center">12</td>
+<td align="center">12</td>
+<td align="center">0</td>
+<td align="right">
+2M2 (L107)
+ - 2M3 (L107)
+ - 4T4 (I008)
+ - 4T5 (I008)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">SE28CP</td>
+<td align="left" rowspan="1">Sistemas Embarcados</td>
+<td align="center">8CP</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">6</td>
+<td align="center">16</td>
+<td align="right">
+3T2 (V009)
+ - 3T3 (V009)
+ - 4T4 (V009)
+ - 4T5 (V009)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">SI27CP</td>
+<td align="left" rowspan="1">Sistemas Inteligentes</td>
+<td align="center">8CP</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">7</td>
+<td align="center">18</td>
+<td align="right">
+3T4 (V007)
+ - 3T5 (V007)
+ - 5T2 (V007)
+ - 5T3 (V007)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">SL24CP</td>
+<td align="left" rowspan="1">Sistemas Lineares</td>
+<td align="center">4CP</td>
+<td align="center">0</td>
+<td align="center">30</td>
+<td align="center">28</td>
+<td align="center">2</td>
+<td align="right">
+2T2 (V008)
+ - 2T3 (V008)
+ - 4T2 (V008)
+ - 4T3 (V008)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">SL24EL</td>
+<td align="left" rowspan="1">Sistemas Lineares</td>
+<td align="center">4EL</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">24</td>
+<td align="center">1</td>
+<td align="right">
+2T2 (L105)
+ - 2T3 (L105)
+ - 4T4 (L106)
+ - 4T5 (L106)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">SM26CP</td>
+<td align="left" rowspan="1">Sistemas Microcontrolados</td>
+<td align="center">6CP</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">21</td>
+<td align="center">1</td>
+<td align="right">
+2N1 (M007)
+ - 2N2 (M007)
+ - 6T4 (M007)
+ - 6T5 (M007)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">SM26EL</td>
+<td align="left" rowspan="3">Sistemas Microcontrolados</td>
+<td align="center">6ELA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">17</td>
+<td align="center">5</td>
+<td align="right">
+2T2 (I003)
+ - 2T3 (I003)
+ - 6T2 (L105)
+ - 6T3 (L105)
+</td>
+</tr>
+<td align="center">6ELSP</td>
+<td align="center">0</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">0</td>
+<td align="right">
+</td>
+</tr>
+<td align="center">6ELB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">14</td>
+<td align="center">8</td>
+<td align="right">
+4T4 (I003)
+ - 4T5 (I003)
+ - 6T2 (L105)
+ - 6T3 (L105)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">TC28EL</td>
+<td align="left" rowspan="1">Trabalho De Conclusão De Curso 1</td>
+<td align="center">8EL</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">21</td>
+<td align="center">23</td>
+<td align="right">
+4M4 (I003)
+ - 4M5 (I003)
+ - 6T4 (N106)
+ - 6T5 (N106)
+</td>
+</tr>
+<tr>
+<th colspan="8" align="center" style="font-weight:bold; text-transform:uppercase; padding:10px 0px;">
+Bacharelado - DEPARTAMENTO ACADÊMICO DE CONSTRUÇÃO CIVIL
+</th>
+<tr>
+<tr>
+<td align="center" style="font-weight:bold;">Código</td>
+<td align="center" style="font-weight:bold;">Disciplina</td>
+<td align="center" style="font-weight:bold;">Turma</td>
+<td align="center" style="font-weight:bold;">Vg. Calouros</td>
+<td align="center" style="font-weight:bold;">Vg. Veteranos</td>
+<td align="center" style="font-weight:bold;">Vg. Ocup.</td>
+<td align="center" style="font-weight:bold;">Vg. Rest.</td>
+<td align="center" style="font-weight:bold;">Horário(Sala)</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">AI38QB</td>
+<td align="left" rowspan="1">Águas Industriais E Para Consumo</td>
+<td align="center">3QB</td>
+<td align="center">0</td>
+<td align="center">24</td>
+<td align="center">15</td>
+<td align="center">9</td>
+<td align="right">
+6M2 (N111)
+ - 6M3 (N111)
+ - 6M4 (N111)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">AP28CV</td>
+<td align="left" rowspan="1">Avaliações E Perícias</td>
+<td align="center">8CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">31</td>
+<td align="center">13</td>
+<td align="right">
+3T2 (M103)
+ - 3T3 (M103)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">CA21NB</td>
+<td align="left" rowspan="1">Ciências Do Ambiente</td>
+<td align="center">1EL</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="center">38</td>
+<td align="center">6</td>
+<td align="right">
+3M1 (L107)
+ - 3M2 (L107)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">CA22NB</td>
+<td align="left" rowspan="2">Ciências Do Ambiente</td>
+<td align="center">2MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">32</td>
+<td align="center">12</td>
+<td align="right">
+3M4 (L104)
+ - 3M5 (L104)
+</td>
+</tr>
+<td align="center">2CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">43</td>
+<td align="center">1</td>
+<td align="right">
+5M4 (M007)
+ - 5M5 (M007)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">CA23NB</td>
+<td align="left" rowspan="1">Ciências Do Ambiente</td>
+<td align="center">3CP</td>
+<td align="center">0</td>
+<td align="center">50</td>
+<td align="center">24</td>
+<td align="center">26</td>
+<td align="right">
+3N3 (N105)
+ - 3N4 (N105)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">CA28CV</td>
+<td align="left" rowspan="2">Concreto Armado 1</td>
+<td align="center">8CVSP</td>
+<td align="center">0</td>
+<td align="center">5</td>
+<td align="center">0</td>
+<td align="center">5</td>
+<td align="right">
+</td>
+</tr>
+<td align="center">8CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="right">
+3M4 (M103)
+ - 3M5 (M103)
+ - 4M4 (M103)
+ - 4M5 (M103)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">CA29CV</td>
+<td align="left" rowspan="2">Concreto Armado 2</td>
+<td align="center">9CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">27</td>
+<td align="center">17</td>
+<td align="right">
+4M2 (N105)
+ - 4M3 (N105)
+ - 5M2 (M105)
+ - 5M3 (M105)
+</td>
+</tr>
+<td align="center">9CVSP</td>
+<td align="center">0</td>
+<td align="center">5</td>
+<td align="center">3</td>
+<td align="center">2</td>
+<td align="right">
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">CI29CV</td>
+<td align="left" rowspan="1">Projeto De Prevenção E Combate A Incendio</td>
+<td align="center">9CV</td>
+<td align="center">0</td>
+<td align="center">23</td>
+<td align="center">22</td>
+<td align="center">1</td>
+<td align="right">
+4T6 (N108)
+ - 4N1 (N108)
+ - 4N2 (N108)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">CM27CV</td>
+<td align="left" rowspan="2">Construções De Madeira</td>
+<td align="center">7CVSP</td>
+<td align="center">0</td>
+<td align="center">5</td>
+<td align="center">1</td>
+<td align="center">4</td>
+<td align="right">
+</td>
+</tr>
+<td align="center">7CV</td>
+<td align="center">0</td>
+<td align="center">46</td>
+<td align="center">46</td>
+<td align="center">0</td>
+<td align="right">
+2M3 (N105)
+ - 2M4 (N105)
+ - 2M5 (N105)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">CM28CV</td>
+<td align="left" rowspan="3">Construções Metálicas</td>
+<td align="center">8CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">37</td>
+<td align="center">7</td>
+<td align="right">
+2M3 (M103)
+ - 2M4 (M103)
+ - 2M5 (M103)
+</td>
+</tr>
+<td align="center">8CVSP</td>
+<td align="center">0</td>
+<td align="center">6</td>
+<td align="center">6</td>
+<td align="center">0</td>
+<td align="right">
+</td>
+</tr>
+<td align="center">8CVE</td>
+<td align="center">0</td>
+<td align="center">3</td>
+<td align="center">3</td>
+<td align="center">0</td>
+<td align="right">
+2M3 (M103)
+ - 2M4 (M103)
+ - 2M5 (M103)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">CR26G</td>
+<td align="left" rowspan="1">Construções Rurais</td>
+<td align="center">6G</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">28</td>
+<td align="center">16</td>
+<td align="right">
+2T2 (O-202)
+ - 2T3 (O-202)
+ - 2T4 (O-202)
+ - 2T5 (O-202)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">CT28CV</td>
+<td align="left" rowspan="1">Canalização De Tráfego E Entroncamentos</td>
+<td align="center">8CV</td>
+<td align="center">0</td>
+<td align="center">30</td>
+<td align="center">27</td>
+<td align="center">3</td>
+<td align="right">
+5T4 (M103)
+ - 5T5 (M103)
+ - 5T6 (M103)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">DA23CV</td>
+<td align="left" rowspan="2">Desenho Arquitetônico</td>
+<td align="center">3CVA</td>
+<td align="center">0</td>
+<td align="center">23</td>
+<td align="center">23</td>
+<td align="center">0</td>
+<td align="right">
+5M2 (V007)
+ - 5M3 (V007)
+ - 5M4 (V007)
+ - 5M5 (V007)
+</td>
+</tr>
+<td align="center">3CVB</td>
+<td align="center">0</td>
+<td align="center">23</td>
+<td align="center">18</td>
+<td align="center">5</td>
+<td align="right">
+6T2 (V007)
+ - 6T3 (V007)
+ - 6T4 (V007)
+ - 6T5 (V007)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">DT21G</td>
+<td align="left" rowspan="2">Desenho Técnico</td>
+<td align="center">1GA</td>
+<td align="center">22</td>
+<td align="center">1</td>
+<td align="center">17</td>
+<td align="center">6</td>
+<td align="right">
+2T3 (V007)
+ - 2T4 (V007)
+ - 2T5 (V007)
+</td>
+</tr>
+<td align="center">1GB</td>
+<td align="center">22</td>
+<td align="center">1</td>
+<td align="center">19</td>
+<td align="center">4</td>
+<td align="right">
+2M3 (V007)
+ - 2M4 (V007)
+ - 2M5 (V007)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="4">DT21NB</td>
+<td align="left" rowspan="4">Desenho Técnico</td>
+<td align="center">1MCA</td>
+<td align="center">23</td>
+<td align="center">2</td>
+<td align="center">21</td>
+<td align="center">4</td>
+<td align="right">
+4T4 (M109)
+ - 4T5 (M109)
+ - 4T6 (M109)
+</td>
+</tr>
+<td align="center">1MCB</td>
+<td align="center">22</td>
+<td align="center">2</td>
+<td align="center">16</td>
+<td align="center">8</td>
+<td align="right">
+3T4 (M109)
+ - 3T5 (M109)
+ - 3T6 (M109)
+</td>
+</tr>
+<td align="center">1ELB</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="center">17</td>
+<td align="center">5</td>
+<td align="right">
+3T2 (M108)
+ - 3T3 (M108)
+ - 3T4 (M108)
+</td>
+</tr>
+<td align="center">1ELA</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="center">20</td>
+<td align="center">2</td>
+<td align="right">
+3M3 (M108)
+ - 3M4 (M108)
+ - 3M5 (M108)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">DT22NB</td>
+<td align="left" rowspan="1">Desenho Técnico</td>
+<td align="center">2CP</td>
+<td align="center">0</td>
+<td align="center">30</td>
+<td align="center">30</td>
+<td align="center">0</td>
+<td align="right">
+5N3 (M108)
+ - 5N4 (M108)
+ - 5N5 (M108)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">DT34QB</td>
+<td align="left" rowspan="1">Desenho Técnico Industrial</td>
+<td align="center">4QB</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">22</td>
+<td align="center">3</td>
+<td align="right">
+6T2 (M109)
+ - 6T3 (M109)
+ - 6T4 (M109)
+ - 6T5 (M109)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EE30CV</td>
+<td align="left" rowspan="1">Estruturas De Edifícios</td>
+<td align="center">9CV</td>
+<td align="center">0</td>
+<td align="center">30</td>
+<td align="center">11</td>
+<td align="center">19</td>
+<td align="right">
+5T1 (L106)
+ - 5T2 (L106)
+ - 5T3 (L106)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EF29CV</td>
+<td align="left" rowspan="1">Estruturas De Fundações</td>
+<td align="center">9CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">36</td>
+<td align="center">8</td>
+<td align="right">
+4M4 (N105)
+ - 4M5 (N105)
+ - 5M4 (M105)
+ - 5M5 (M105)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">EG21NB</td>
+<td align="left" rowspan="2">Expressão Gráfica</td>
+<td align="center">1CVA</td>
+<td align="center">22</td>
+<td align="center">3</td>
+<td align="center">18</td>
+<td align="center">7</td>
+<td align="right">
+3M2 (V007)
+ - 3M3 (V007)
+ - 3M4 (V007)
+ - 3M5 (V007)
+</td>
+</tr>
+<td align="center">1CVB</td>
+<td align="center">22</td>
+<td align="center">1</td>
+<td align="center">17</td>
+<td align="center">6</td>
+<td align="right">
+4T2 (V007)
+ - 4T3 (V007)
+ - 4T4 (V007)
+ - 4T5 (V007)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">EO27CV</td>
+<td align="left" rowspan="2">Especificações E Orçamentos</td>
+<td align="center">7CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">43</td>
+<td align="center">1</td>
+<td align="right">
+2T2 (N105)
+ - 2T3 (N105)
+ - 3M2 (N105)
+ - 3M3 (N105)
+</td>
+</tr>
+<td align="center">7CVSP</td>
+<td align="center">0</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">0</td>
+<td align="right">
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">ES26CV</td>
+<td align="left" rowspan="1">Estradas</td>
+<td align="center">6CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="right">
+2T2 (M106)
+ - 2T3 (M106)
+ - 4T2 (M106)
+ - 4T3 (M106)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">FE24CV</td>
+<td align="left" rowspan="1">Fundamentos De Engenharia De Segurança Do Trabalho</td>
+<td align="center">4CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">29</td>
+<td align="center">15</td>
+<td align="right">
+6M3 (M107)
+ - 6M4 (M107)
+ - 6M5 (M107)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">FE25MC</td>
+<td align="left" rowspan="1">Fundamentos De Engenharia De Segurança Do Trabalho</td>
+<td align="center">5MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">23</td>
+<td align="center">21</td>
+<td align="right">
+4T2 (Q005)
+ - 4T3 (Q005)
+ - 4T4 (Q005)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">FJ29CV</td>
+<td align="left" rowspan="1">Fundamentos Jurídicos Na Engenharia Civil</td>
+<td align="center">9CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="right">
+2T4 (M107)
+ - 2T5 (M107)
+ - 2T6 (M107)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">FU28CV</td>
+<td align="left" rowspan="1">Fundações</td>
+<td align="center">8CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">38</td>
+<td align="center">6</td>
+<td align="right">
+4M2 (M103)
+ - 4M3 (M103)
+ - 5M4 (M103)
+ - 5M5 (M103)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">GA26CV</td>
+<td align="left" rowspan="2">Geologia Aplicada A Engenharia</td>
+<td align="center">6CVSP</td>
+<td align="center">0</td>
+<td align="center">2</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="right">
+</td>
+</tr>
+<td align="center">6CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="right">
+6M2 (M106)
+ - 6M3 (M106)
+ - 6M4 (M106)
+ - 6M5 (M106)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">GA28CV</td>
+<td align="left" rowspan="1">Gestão Ambiental</td>
+<td align="center">8CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">30</td>
+<td align="center">14</td>
+<td align="right">
+2T2 (M103)
+ - 2T3 (M103)
+ - 2T4 (M103)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">GA29CV</td>
+<td align="left" rowspan="1">Geoprocessamento Aplicado À Recursos Hídricos</td>
+<td align="center">9CV</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">14</td>
+<td align="center">1</td>
+<td align="right">
+4T6 (N011)
+ - 4N1 (N011)
+ - 4N2 (N011)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">GO29CV</td>
+<td align="left" rowspan="1">Gerenciamento De Obras</td>
+<td align="center">9CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">31</td>
+<td align="center">13</td>
+<td align="right">
+3M2 (M104)
+ - 3M3 (M104)
+ - 4T4 (M103)
+ - 4T5 (M103)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">GP29CV</td>
+<td align="left" rowspan="1">Gerência De Pavimentos</td>
+<td align="center">8CV</td>
+<td align="center">0</td>
+<td align="center">30</td>
+<td align="center">16</td>
+<td align="center">14</td>
+<td align="right">
+6T3 (M103)
+ - 6T4 (M103)
+ - 6T5 (M103)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">HA26CV</td>
+<td align="left" rowspan="3">Hidrologia Aplicada</td>
+<td align="center">6CV</td>
+<td align="center">0</td>
+<td align="center">49</td>
+<td align="center">49</td>
+<td align="center">0</td>
+<td align="right">
+3M2 (M106)
+ - 3M3 (M106)
+ - 5M4 (M106)
+ - 5M5 (M106)
+</td>
+</tr>
+<td align="center">6CVE</td>
+<td align="center">0</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">0</td>
+<td align="right">
+3M2 (M106)
+ - 3M3 (M106)
+ - 5M4 (M106)
+ - 5M5 (M106)
+</td>
+</tr>
+<td align="center">6CVSP</td>
+<td align="center">0</td>
+<td align="center">5</td>
+<td align="center">5</td>
+<td align="center">0</td>
+<td align="right">
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">HI26CV</td>
+<td align="left" rowspan="3">Hidráulica</td>
+<td align="center">6CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="right">
+2M3 (M106)
+ - 2M4 (M106)
+ - 2M5 (M106)
+ - 4T4 (M106)
+ - 4T5 (M106)
+</td>
+</tr>
+<td align="center">6CVE</td>
+<td align="center">0</td>
+<td align="center">9</td>
+<td align="center">9</td>
+<td align="center">0</td>
+<td align="right">
+2M3 (M106)
+ - 2M4 (M106)
+ - 2M5 (M106)
+ - 4T4 (M106)
+ - 4T5 (M106)
+</td>
+</tr>
+<td align="center">6CVSP</td>
+<td align="center">0</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">0</td>
+<td align="right">
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">IE21NB</td>
+<td align="left" rowspan="2">Introdução À Engenharia</td>
+<td align="center">1CV</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="center">31</td>
+<td align="center">13</td>
+<td align="right">
+6M2 (M103)
+ - 6M3 (M103)
+</td>
+</tr>
+<td align="center">1MC</td>
+<td align="center">45</td>
+<td align="center">4</td>
+<td align="center">35</td>
+<td align="center">14</td>
+<td align="right">
+5M4 (Q001)
+ - 5M5 (Q001)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">IH28CV</td>
+<td align="left" rowspan="1">Instalações Hidrossanitárias Prediais</td>
+<td align="center">8CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">32</td>
+<td align="center">12</td>
+<td align="right">
+2T5 (M103)
+ - 2T6 (M103)
+ - 4T1 (M103)
+ - 4T2 (M103)
+ - 4T3 (M103)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">MC23CV</td>
+<td align="left" rowspan="2">Materiais De Construção 1</td>
+<td align="center">3CVB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">10</td>
+<td align="center">12</td>
+<td align="right">
+4T4 (M105)
+ - 4T5 (M105)
+ - 5T2 (M105)
+ - 5T3 (M105)
+</td>
+</tr>
+<td align="center">3CVA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+3T4 (M105)
+ - 3T5 (M105)
+ - 5T4 (M105)
+ - 5T5 (M105)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">MC24CV</td>
+<td align="left" rowspan="3">Materiais De Construção 2</td>
+<td align="center">4CVB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+3M4 (M107)
+ - 3M5 (M107)
+ - 5T4 (M107)
+ - 5T5 (M107)
+</td>
+</tr>
+<td align="center">4CVSP</td>
+<td align="center">0</td>
+<td align="center">4</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="right">
+</td>
+</tr>
+<td align="center">4CVA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">11</td>
+<td align="center">11</td>
+<td align="right">
+3M4 (M107)
+ - 3M5 (M107)
+ - 3T4 (M107)
+ - 3T5 (M107)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">MC25CV</td>
+<td align="left" rowspan="3">Materiais De Construção 3</td>
+<td align="center">5CVA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+3T5 (M104)
+ - 3T6 (M104)
+ - 4T2 (M104)
+ - 4T3 (M104)
+</td>
+</tr>
+<td align="center">5CVE</td>
+<td align="center">0</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">0</td>
+<td align="right">
+3T5 (M104)
+ - 3T6 (M104)
+ - 4T2 (M104)
+ - 4T3 (M104)
+</td>
+</tr>
+<td align="center">5CVB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">13</td>
+<td align="center">9</td>
+<td align="right">
+3T5 (M104)
+ - 3T6 (M104)
+ - 4T4 (M104)
+ - 4T5 (M104)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">ME29CV</td>
+<td align="left" rowspan="1">Maquinas E Equipamentos</td>
+<td align="center">8CV</td>
+<td align="center">0</td>
+<td align="center">30</td>
+<td align="center">30</td>
+<td align="center">0</td>
+<td align="right">
+6M4 (M103)
+ - 6M5 (M103)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">MS27CV</td>
+<td align="left" rowspan="2">Mecânica Dos Solos</td>
+<td align="center">7CVB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">5</td>
+<td align="center">17</td>
+<td align="right">
+5M1 (N105)
+ - 5M2 (N105)
+ - 5M3 (N105)
+ - 6T4 (J008)
+ - 6T5 (J008)
+</td>
+</tr>
+<td align="center">7CVA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+5M1 (N105)
+ - 5M2 (N105)
+ - 5M3 (N105)
+ - 6T2 (J008)
+ - 6T3 (J008)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">PA27CV</td>
+<td align="left" rowspan="3">Projeto Arquitetônico</td>
+<td align="center">7CVE</td>
+<td align="center">0</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">0</td>
+<td align="right">
+6M2 (V007)
+ - 6M3 (V007)
+ - 6M4 (V007)
+ - 6M5 (V007)
+</td>
+</tr>
+<td align="center">7CVB</td>
+<td align="center">0</td>
+<td align="center">24</td>
+<td align="center">24</td>
+<td align="center">0</td>
+<td align="right">
+6M2 (V007)
+ - 6M3 (V007)
+ - 6M4 (V007)
+ - 6M5 (V007)
+</td>
+</tr>
+<td align="center">7CVA</td>
+<td align="center">0</td>
+<td align="center">23</td>
+<td align="center">17</td>
+<td align="center">6</td>
+<td align="right">
+4M2 (V007)
+ - 4M3 (V007)
+ - 4M4 (V007)
+ - 4M5 (V007)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">PC24CV</td>
+<td align="left" rowspan="3">Processos Construtivos 1</td>
+<td align="center">4CVA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">21</td>
+<td align="center">1</td>
+<td align="right">
+4M2 (M107)
+ - 4M3 (M107)
+ - 4M4 (M107)
+ - 4M5 (M107)
+ - 5M2 (M107)
+ - 5M3 (M107)
+</td>
+</tr>
+<td align="center">4CVB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">12</td>
+<td align="center">10</td>
+<td align="right">
+4M2 (M107)
+ - 4M3 (M107)
+ - 4M4 (M107)
+ - 4M5 (M107)
+ - 5T2 (M103)
+ - 5T3 (M103)
+</td>
+</tr>
+<td align="center">4CVSP</td>
+<td align="center">0</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">0</td>
+<td align="right">
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">PC25CV</td>
+<td align="left" rowspan="1">Processos Construtivos 2</td>
+<td align="center">5CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">33</td>
+<td align="center">11</td>
+<td align="right">
+2T2 (M104)
+ - 2T3 (M104)
+ - 2T4 (M104)
+ - 2T5 (M104)
+ - 4M4 (M104)
+ - 4M5 (M104)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">PR23EL</td>
+<td align="left" rowspan="1">Princípio De Resistência Dos Materiais</td>
+<td align="center">3EL</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">42</td>
+<td align="center">2</td>
+<td align="right">
+2M3 (L104)
+ - 2M4 (L104)
+ - 2M5 (L104)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">PR25CP</td>
+<td align="left" rowspan="1">Princípio De Resistência Dos Materiais</td>
+<td align="center">5CP</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">23</td>
+<td align="center">21</td>
+<td align="right">
+2T1 (M011)
+ - 2T2 (M011)
+ - 2T3 (M011)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">PV27CV</td>
+<td align="left" rowspan="2">Pavimentação</td>
+<td align="center">7CVSP</td>
+<td align="center">0</td>
+<td align="center">2</td>
+<td align="center">0</td>
+<td align="center">2</td>
+<td align="right">
+</td>
+</tr>
+<td align="center">7CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">40</td>
+<td align="center">4</td>
+<td align="right">
+2T4 (N105)
+ - 2T5 (N105)
+ - 4T4 (N105)
+ - 4T5 (N105)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">QC28CV</td>
+<td align="left" rowspan="1">Qualidade Na Construção Civil</td>
+<td align="center">8CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">8</td>
+<td align="center">36</td>
+<td align="right">
+3T4 (M103)
+ - 3T5 (M103)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">RM25CV</td>
+<td align="left" rowspan="3">Resistência Dos Materiais 1</td>
+<td align="center">5CVE</td>
+<td align="center">0</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">0</td>
+<td align="right">
+4M2 (M104)
+ - 4M3 (M104)
+ - 5M1 (M104)
+ - 5M2 (M104)
+ - 5M3 (M104)
+</td>
+</tr>
+<td align="center">5CVSP</td>
+<td align="center">0</td>
+<td align="center">10</td>
+<td align="center">5</td>
+<td align="center">5</td>
+<td align="right">
+</td>
+</tr>
+<td align="center">5CV</td>
+<td align="center">0</td>
+<td align="center">47</td>
+<td align="center">46</td>
+<td align="center">1</td>
+<td align="right">
+4M2 (M104)
+ - 4M3 (M104)
+ - 5M1 (M104)
+ - 5M2 (M104)
+ - 5M3 (M104)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">RM26CV</td>
+<td align="left" rowspan="2">Resistência Dos Materiais 2</td>
+<td align="center">6CVSP</td>
+<td align="center">0</td>
+<td align="center">5</td>
+<td align="center">5</td>
+<td align="center">0</td>
+<td align="right">
+</td>
+</tr>
+<td align="center">6CV</td>
+<td align="center">0</td>
+<td align="center">49</td>
+<td align="center">49</td>
+<td align="center">0</td>
+<td align="right">
+4M2 (M106)
+ - 4M3 (M106)
+ - 5M2 (M106)
+ - 5M3 (M106)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">SN27CV</td>
+<td align="left" rowspan="3">Saneamento Básico</td>
+<td align="center">7CVSP</td>
+<td align="center">0</td>
+<td align="center">6</td>
+<td align="center">6</td>
+<td align="center">0</td>
+<td align="right">
+</td>
+</tr>
+<td align="center">7CVE</td>
+<td align="center">0</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">0</td>
+<td align="right">
+2M1 (N105)
+ - 2M2 (N105)
+ - 5T4 (N105)
+ - 5T5 (N105)
+ - 5T6 (N105)
+</td>
+</tr>
+<td align="center">7CV</td>
+<td align="center">0</td>
+<td align="center">46</td>
+<td align="center">46</td>
+<td align="center">0</td>
+<td align="right">
+2M1 (N105)
+ - 2M2 (N105)
+ - 5T4 (N105)
+ - 5T5 (N105)
+ - 5T6 (N105)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">SS28CV</td>
+<td align="left" rowspan="1">Sistemas Sustentáveis De Drenagem Urbana</td>
+<td align="center">9CV</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">13</td>
+<td align="center">9</td>
+<td align="right">
+4T2 (M105)
+ - 4T3 (M105)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">TC29CV</td>
+<td align="left" rowspan="1">Trabalho De Conclusão De Curso 1</td>
+<td align="center">9CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">24</td>
+<td align="center">20</td>
+<td align="right">
+2T2 (M107)
+ - 2T3 (M107)
+ - 6M2 (M104)
+ - 6M3 (M104)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">TE26CV</td>
+<td align="left" rowspan="2">Teoria Das Estruturas 1</td>
+<td align="center">6CVSP</td>
+<td align="center">0</td>
+<td align="center">10</td>
+<td align="center">7</td>
+<td align="center">3</td>
+<td align="right">
+</td>
+</tr>
+<td align="center">6CV</td>
+<td align="center">0</td>
+<td align="center">48</td>
+<td align="center">48</td>
+<td align="center">0</td>
+<td align="right">
+3M4 (M106)
+ - 3M5 (M106)
+ - 3M6 (M106)
+ - 4M4 (M106)
+ - 4M5 (M106)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">TE27CV</td>
+<td align="left" rowspan="3">Teoria Das Estruturas 2</td>
+<td align="center">7CVE</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">20</td>
+<td align="center">24</td>
+<td align="right">
+5M2 (N108)
+ - 5M3 (N108)
+ - 6M4 (N108)
+ - 6M5 (N108)
+</td>
+</tr>
+<td align="center">7CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">25</td>
+<td align="center">19</td>
+<td align="right">
+3M4 (N105)
+ - 3M5 (N105)
+ - 5T2 (N105)
+ - 5T3 (N105)
+</td>
+</tr>
+<td align="center">7CVSP</td>
+<td align="center">0</td>
+<td align="center">10</td>
+<td align="center">10</td>
+<td align="center">0</td>
+<td align="right">
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">TR25CV</td>
+<td align="left" rowspan="1">Transportes</td>
+<td align="center">5CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">35</td>
+<td align="center">9</td>
+<td align="right">
+5T1 (M106)
+ - 5T2 (M106)
+ - 5T3 (M106)
+</td>
+</tr>
+<tr>
+<th colspan="8" align="center" style="font-weight:bold; text-transform:uppercase; padding:10px 0px;">
+Bacharelado - DEPARTAMENTO ACADÃ ÂªMICO DE FÃ Â­SICA
+</th>
+<tr>
+<tr>
+<td align="center" style="font-weight:bold;">Código</td>
+<td align="center" style="font-weight:bold;">Disciplina</td>
+<td align="center" style="font-weight:bold;">Turma</td>
+<td align="center" style="font-weight:bold;">Vg. Calouros</td>
+<td align="center" style="font-weight:bold;">Vg. Veteranos</td>
+<td align="center" style="font-weight:bold;">Vg. Ocup.</td>
+<td align="center" style="font-weight:bold;">Vg. Rest.</td>
+<td align="center" style="font-weight:bold;">Horário(Sala)</td>
+</tr>
+<tr>
+<td align="center" rowspan="11">FI21NB</td>
+<td align="left" rowspan="11">Física 1</td>
+<td align="center">1EXTB</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2T2 (L006)
+ - 2T3 (L006)
+ - 3T2 (N105)
+ - 3T3 (N105)
+ - 4T2 (N105)
+ - 4T3 (N105)
+</td>
+</tr>
+<td align="center">1CVB</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2M4 (L107)
+ - 2M5 (L107)
+ - 2T4 (L006)
+ - 2T5 (L006)
+ - 4M4 (L107)
+ - 4M5 (L107)
+</td>
+</tr>
+<td align="center">1ELB</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="center">17</td>
+<td align="center">5</td>
+<td align="right">
+2T4 (M102)
+ - 2T5 (M102)
+ - 4T2 (L006)
+ - 4T3 (L006)
+ - 4T4 (M102)
+ - 4T5 (M102)
+</td>
+</tr>
+<td align="center">1ELA</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="center">21</td>
+<td align="center">1</td>
+<td align="right">
+2T4 (M102)
+ - 2T5 (M102)
+ - 4T2 (L006)
+ - 4T3 (L006)
+ - 4T4 (M102)
+ - 4T5 (M102)
+</td>
+</tr>
+<td align="center">1EXTA</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2T2 (L006)
+ - 2T3 (L006)
+ - 3T2 (N105)
+ - 3T3 (N105)
+ - 4T2 (N105)
+ - 4T3 (N105)
+</td>
+</tr>
+<td align="center">1CPA</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="center">17</td>
+<td align="center">9</td>
+<td align="right">
+2T4 (Q008)
+ - 2T5 (Q008)
+ - 4T4 (Q008)
+ - 4T5 (Q008)
+ - 5N1 (L006)
+ - 5N2 (L006)
+</td>
+</tr>
+<td align="center">1CVA</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="center">21</td>
+<td align="center">1</td>
+<td align="right">
+2M4 (L107)
+ - 2M5 (L107)
+ - 2T4 (L006)
+ - 2T5 (L006)
+ - 4M4 (L107)
+ - 4M5 (L107)
+</td>
+</tr>
+<td align="center">2EXTB</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+3T4 (N011)
+ - 3T5 (N011)
+ - 4T4 (L006)
+ - 4T5 (L006)
+ - 5T4 (N011)
+ - 5T5 (N011)
+</td>
+</tr>
+<td align="center">2EXTA</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+3T4 (N011)
+ - 3T5 (N011)
+ - 4T4 (L006)
+ - 4T5 (L006)
+ - 5T4 (N011)
+ - 5T5 (N011)
+</td>
+</tr>
+<td align="center">1MCA</td>
+<td align="center">23</td>
+<td align="center">0</td>
+<td align="center">21</td>
+<td align="center">2</td>
+<td align="right">
+2M4 (Q001)
+ - 2M5 (Q001)
+ - 3T2 (L006)
+ - 3T3 (L006)
+ - 4M4 (Q001)
+ - 4M5 (Q001)
+</td>
+</tr>
+<td align="center">1MCB</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="center">19</td>
+<td align="center">3</td>
+<td align="right">
+2M4 (Q001)
+ - 2M5 (Q001)
+ - 3T2 (L006)
+ - 3T3 (L006)
+ - 4M4 (Q001)
+ - 4M5 (Q001)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="8">FI22NB</td>
+<td align="left" rowspan="8">Física 2</td>
+<td align="center">2ELA</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2T2 (M102)
+ - 2T3 (M102)
+ - 3T2 (L005)
+ - 3T3 (L005)
+ - 4T2 (M102)
+ - 4T3 (M102)
+</td>
+</tr>
+<td align="center">2MCB</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2M4 (Q002)
+ - 2M5 (Q002)
+ - 3M2 (L005)
+ - 3M3 (L005)
+ - 4M4 (Q002)
+ - 4M5 (Q002)
+</td>
+</tr>
+<td align="center">2CVB</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2M4 (M107)
+ - 2M5 (M107)
+ - 3M4 (L005)
+ - 3M5 (L005)
+ - 4M4 (M007)
+ - 4M5 (M007)
+</td>
+</tr>
+<td align="center">2CPB</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2T4 (M007)
+ - 2T5 (M007)
+ - 3N1 (L005)
+ - 3N2 (L005)
+ - 4T4 (M007)
+ - 4T5 (M007)
+</td>
+</tr>
+<td align="center">2CVA</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2M4 (M107)
+ - 2M5 (M107)
+ - 3M4 (L005)
+ - 3M5 (L005)
+ - 4M4 (M007)
+ - 4M5 (M007)
+</td>
+</tr>
+<td align="center">2MCA</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2M4 (Q002)
+ - 2M5 (Q002)
+ - 3M2 (L005)
+ - 3M3 (L005)
+ - 4M4 (Q002)
+ - 4M5 (Q002)
+</td>
+</tr>
+<td align="center">2ELB</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2T2 (M102)
+ - 2T3 (M102)
+ - 3T2 (L005)
+ - 3T3 (L005)
+ - 4T2 (M102)
+ - 4T3 (M102)
+</td>
+</tr>
+<td align="center">2CPA</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">21</td>
+<td align="center">1</td>
+<td align="right">
+2T4 (M007)
+ - 2T5 (M007)
+ - 3N1 (L005)
+ - 3N2 (L005)
+ - 4T4 (M007)
+ - 4T5 (M007)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="9">FI23NB</td>
+<td align="left" rowspan="9">Física 3</td>
+<td align="center">3ELA</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">24</td>
+<td align="center">20</td>
+<td align="right">
+2T4 (L105)
+ - 2T5 (L105)
+ - 3M4 (L004)
+ - 3M5 (L004)
+ - 4T4 (L105)
+ - 4T5 (L105)
+</td>
+</tr>
+<td align="center">2EXTB</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">21</td>
+<td align="center">1</td>
+<td align="right">
+2T4 (N108)
+ - 2T5 (N108)
+ - 3T4 (L004)
+ - 3T5 (L004)
+ - 4T4 (N108)
+ - 4T5 (N108)
+</td>
+</tr>
+<td align="center">1EXTB</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2N1 (Q005)
+ - 2N2 (Q005)
+ - 3N1 (L004)
+ - 3N2 (L004)
+ - 4N1 (Q005)
+ - 4N2 (Q005)
+</td>
+</tr>
+<td align="center">2EXTA</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2T4 (N108)
+ - 2T5 (N108)
+ - 3T4 (L004)
+ - 3T5 (L004)
+ - 4T4 (N108)
+ - 4T5 (N108)
+</td>
+</tr>
+<td align="center">1EXTA</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">21</td>
+<td align="center">1</td>
+<td align="right">
+2N1 (Q005)
+ - 2N2 (Q005)
+ - 3N1 (L004)
+ - 3N2 (L004)
+ - 4N1 (Q005)
+ - 4N2 (Q005)
+</td>
+</tr>
+<td align="center">3MCA</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2M4 (Q003)
+ - 2M5 (Q003)
+ - 4M4 (Q003)
+ - 4M5 (Q003)
+ - 6M4 (L004)
+ - 6M5 (L004)
+</td>
+</tr>
+<td align="center">3MCB</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2M4 (Q003)
+ - 2M5 (Q003)
+ - 4M4 (Q003)
+ - 4M5 (Q003)
+ - 6M4 (L004)
+ - 6M5 (L004)
+</td>
+</tr>
+<td align="center">3CVA</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">26</td>
+<td align="center">2</td>
+<td align="right">
+2M4 (M105)
+ - 2M5 (M105)
+ - 3M2 (L004)
+ - 3M3 (L004)
+ - 4M4 (M105)
+ - 4M5 (M105)
+</td>
+</tr>
+<td align="center">3CPA</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">20</td>
+<td align="center">24</td>
+<td align="right">
+2T2 (M005)
+ - 2T3 (M005)
+ - 4T2 (M005)
+ - 4T3 (M005)
+ - 5T4 (L004)
+ - 5T5 (L004)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">FI31QB</td>
+<td align="left" rowspan="2">Física 1</td>
+<td align="center">1QBB</td>
+<td align="center">22</td>
+<td align="center">4</td>
+<td align="center">23</td>
+<td align="center">3</td>
+<td align="right">
+2T2 (N010)
+ - 2T3 (N010)
+ - 3T4 (L006)
+ - 3T5 (L006)
+ - 4T2 (N010)
+ - 4T3 (N010)
+</td>
+</tr>
+<td align="center">1QBA</td>
+<td align="center">22</td>
+<td align="center">3</td>
+<td align="center">24</td>
+<td align="center">1</td>
+<td align="right">
+2T2 (N010)
+ - 2T3 (N010)
+ - 3T4 (L006)
+ - 3T5 (L006)
+ - 4T2 (N010)
+ - 4T3 (N010)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">FI32QB</td>
+<td align="left" rowspan="2">Física 2</td>
+<td align="center">2QBB</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">1</td>
+<td align="right">
+2T2 (N011)
+ - 2T3 (N011)
+ - 3T4 (L005)
+ - 3T5 (L005)
+ - 4T2 (N011)
+ - 4T3 (N011)
+</td>
+</tr>
+<td align="center">2QBA</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">16</td>
+<td align="center">12</td>
+<td align="right">
+2T2 (N011)
+ - 2T3 (N011)
+ - 3T4 (L005)
+ - 3T5 (L005)
+ - 4T2 (N011)
+ - 4T3 (N011)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">FI33QB</td>
+<td align="left" rowspan="2">Física 3</td>
+<td align="center">3QBB</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2T2 (N108)
+ - 2T3 (N108)
+ - 4T2 (N108)
+ - 4T3 (N108)
+ - 5M4 (L004)
+ - 5M5 (L004)
+</td>
+</tr>
+<td align="center">3QBA</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2T2 (N108)
+ - 2T3 (N108)
+ - 4T2 (N108)
+ - 4T3 (N108)
+ - 5M4 (L004)
+ - 5M5 (L004)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">FI34QB</td>
+<td align="left" rowspan="1">Física 4</td>
+<td align="center">4QB</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">19</td>
+<td align="center">25</td>
+<td align="right">
+2T2 (N107)
+ - 2T3 (N107)
+ - 4T2 (N107)
+ - 4T3 (N107)
+</td>
+</tr>
+<tr>
+<th colspan="8" align="center" style="font-weight:bold; text-transform:uppercase; padding:10px 0px;">
+Bacharelado - DEPARTAMENTO ACADÊMICO DE MATEMATICA
+</th>
+<tr>
+<tr>
+<td align="center" style="font-weight:bold;">Código</td>
+<td align="center" style="font-weight:bold;">Disciplina</td>
+<td align="center" style="font-weight:bold;">Turma</td>
+<td align="center" style="font-weight:bold;">Vg. Calouros</td>
+<td align="center" style="font-weight:bold;">Vg. Veteranos</td>
+<td align="center" style="font-weight:bold;">Vg. Ocup.</td>
+<td align="center" style="font-weight:bold;">Vg. Rest.</td>
+<td align="center" style="font-weight:bold;">Horário(Sala)</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">AL22G</td>
+<td align="left" rowspan="2">Álgebra Linear</td>
+<td align="center">2GSP</td>
+<td align="center">0</td>
+<td align="center">6</td>
+<td align="center">4</td>
+<td align="center">2</td>
+<td align="right">
+</td>
+</tr>
+<td align="center">2G</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">41</td>
+<td align="center">3</td>
+<td align="right">
+3M4 (O001)
+ - 3M5 (O001)
+ - 6M4 (O001)
+ - 6M5 (O001)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">AL32QB</td>
+<td align="left" rowspan="1">Álgebra Linear</td>
+<td align="center">2QB</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">30</td>
+<td align="center">14</td>
+<td align="right">
+3M2 (N011)
+ - 3M3 (N011)
+ - 6M2 (N011)
+ - 6M3 (N011)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">CA31QB</td>
+<td align="left" rowspan="2">Cálculo 1</td>
+<td align="center">1QBE</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+4T4 (M004)
+ - 4T5 (M004)
+ - 5T4 (M004)
+ - 5T5 (M004)
+</td>
+</tr>
+<td align="center">1QB</td>
+<td align="center">44</td>
+<td align="center">7</td>
+<td align="center">34</td>
+<td align="center">17</td>
+<td align="right">
+3M2 (N010)
+ - 3M3 (N010)
+ - 6M2 (N010)
+ - 6M3 (N010)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">CA32QB</td>
+<td align="left" rowspan="1">Cálculo 2</td>
+<td align="center">2QB</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="right">
+3M4 (N011)
+ - 3M5 (N011)
+ - 6M4 (N011)
+ - 6M5 (N011)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">CD21G</td>
+<td align="left" rowspan="2">Calculo A</td>
+<td align="center">1GE</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+4T4 (O001)
+ - 4T5 (O001)
+ - 5T4 (O001)
+ - 5T5 (O001)
+</td>
+</tr>
+<td align="center">1G</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="center">40</td>
+<td align="center">4</td>
+<td align="right">
+3M4 (O005)
+ - 3M5 (O005)
+ - 6M4 (O005)
+ - 6M5 (O005)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="5">CD21NB</td>
+<td align="left" rowspan="5">Cálculo Diferencial E Integral 1</td>
+<td align="center">1CP</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">29</td>
+<td align="right">
+2N1 (Q008)
+ - 2N2 (Q008)
+ - 5T2 (Q008)
+ - 5T3 (Q008)
+ - 6T2 (Q008)
+ - 6T3 (Q008)
+</td>
+</tr>
+<td align="center">1EADCD</td>
+<td align="center">0</td>
+<td align="center">100</td>
+<td align="center">96</td>
+<td align="center">14</td>
+<td align="right">
+4M2 (S)
+ - 4M3 (S)
+ - 4M4 (S)
+ - 4M5 (S)
+ - 5T2 (S)
+ - 5T3 (S)
+</td>
+</tr>
+<td align="center">1EL</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="center">39</td>
+<td align="center">5</td>
+<td align="right">
+2M4 (M102)
+ - 2M5 (M102)
+ - 4M4 (M102)
+ - 4M5 (M102)
+ - 5M4 (M102)
+ - 5M5 (M102)
+</td>
+</tr>
+<td align="center">1MC</td>
+<td align="center">45</td>
+<td align="center">0</td>
+<td align="center">37</td>
+<td align="center">8</td>
+<td align="right">
+2T4 (Q001)
+ - 2T5 (Q001)
+ - 5T4 (Q001)
+ - 5T5 (Q001)
+ - 6T4 (Q001)
+ - 6T5 (Q001)
+</td>
+</tr>
+<td align="center">1CV</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="center">40</td>
+<td align="center">4</td>
+<td align="right">
+2T2 (L107)
+ - 2T3 (L107)
+ - 5T2 (M104)
+ - 5T3 (M104)
+ - 6T2 (M104)
+ - 6T3 (M104)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="5">CD22NB</td>
+<td align="left" rowspan="5">Cálculo Diferencial E Integral 2</td>
+<td align="center">EXTE</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">41</td>
+<td align="center">3</td>
+<td align="right">
+3T4 (L105)
+ - 3T5 (L105)
+ - 5T4 (L105)
+ - 5T5 (L105)
+</td>
+</tr>
+<td align="center">2EL</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="right">
+3M4 (L106)
+ - 3M5 (L106)
+ - 5M4 (L106)
+ - 5M5 (L106)
+</td>
+</tr>
+<td align="center">2CP</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">43</td>
+<td align="center">1</td>
+<td align="right">
+2T2 (M007)
+ - 2T3 (M007)
+ - 4T2 (M007)
+ - 4T3 (M007)
+</td>
+</tr>
+<td align="center">2CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="right">
+3M2 (M103)
+ - 3M3 (M103)
+ - 5M2 (M103)
+ - 5M3 (M103)
+</td>
+</tr>
+<td align="center">2MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">43</td>
+<td align="center">1</td>
+<td align="right">
+2T4 (Q002)
+ - 2T5 (Q002)
+ - 4T4 (Q002)
+ - 4T5 (Q002)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="5">CD23NB</td>
+<td align="left" rowspan="5">Cálculo Diferencial E Integral 3</td>
+<td align="center">3CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">39</td>
+<td align="center">5</td>
+<td align="right">
+3M4 (M105)
+ - 3M5 (M105)
+ - 6M4 (M105)
+ - 6M5 (M105)
+</td>
+</tr>
+<td align="center">EXTE</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">33</td>
+<td align="center">11</td>
+<td align="right">
+3T2 (N011)
+ - 3T3 (N011)
+ - 5T2 (N011)
+ - 5T3 (N011)
+</td>
+</tr>
+<td align="center">3EL</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">42</td>
+<td align="center">2</td>
+<td align="right">
+3M2 (L104)
+ - 3M3 (L104)
+ - 6M2 (L104)
+ - 6M3 (L104)
+</td>
+</tr>
+<td align="center">3MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">43</td>
+<td align="center">1</td>
+<td align="right">
+3T4 (Q003)
+ - 3T5 (Q003)
+ - 5T4 (Q003)
+ - 5T5 (Q003)
+</td>
+</tr>
+<td align="center">3CP</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="right">
+3N1 (M005)
+ - 3N2 (M005)
+ - 5N1 (M005)
+ - 5N2 (M005)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="4">CN24NB</td>
+<td align="left" rowspan="4">Cálculo Numérico</td>
+<td align="center">4CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">43</td>
+<td align="center">1</td>
+<td align="right">
+4T2 (M107)
+ - 4T3 (M107)
+ - 6T2 (M107)
+ - 6T3 (M107)
+</td>
+</tr>
+<td align="center">4EL</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="right">
+4M4 (L105)
+ - 4M5 (L105)
+ - 6M4 (L105)
+ - 6M5 (L105)
+</td>
+</tr>
+<td align="center">4MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">24</td>
+<td align="center">20</td>
+<td align="right">
+4T4 (Q004)
+ - 4T5 (Q004)
+ - 6T4 (Q004)
+ - 6T5 (Q004)
+</td>
+</tr>
+<td align="center">4CP</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">27</td>
+<td align="center">17</td>
+<td align="right">
+3N1 (M004)
+ - 3N2 (M004)
+ - 6N1 (M004)
+ - 6N2 (M004)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="4">ED23NB</td>
+<td align="left" rowspan="4">Equações Diferenciais Ordinárias</td>
+<td align="center">3CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">43</td>
+<td align="center">1</td>
+<td align="right">
+4M2 (M105)
+ - 4M3 (M105)
+ - 6M2 (M105)
+ - 6M3 (M105)
+</td>
+</tr>
+<td align="center">3EL</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">42</td>
+<td align="center">2</td>
+<td align="right">
+4M4 (N106)
+ - 4M5 (N106)
+ - 6M4 (N106)
+ - 6M5 (N106)
+</td>
+</tr>
+<td align="center">3MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="right">
+2T4 (Q003)
+ - 2T5 (Q003)
+ - 4T4 (Q003)
+ - 4T5 (Q003)
+</td>
+</tr>
+<td align="center">3CP</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">43</td>
+<td align="center">1</td>
+<td align="right">
+2N1 (M005)
+ - 2N2 (M005)
+ - 4N1 (M005)
+ - 4N2 (M005)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">ED33QB</td>
+<td align="left" rowspan="1">Equações Diferenciais</td>
+<td align="center">3QB</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">12</td>
+<td align="center">32</td>
+<td align="right">
+3T4 (N107)
+ - 3T5 (N107)
+ - 5T4 (N107)
+ - 5T5 (N107)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EE23G</td>
+<td align="left" rowspan="1">Engenharia Econômica 1</td>
+<td align="center">5G</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">40</td>
+<td align="center">4</td>
+<td align="right">
+2T4 (O204)
+ - 2T5 (O204)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">ES31QB</td>
+<td align="left" rowspan="1">Estatística</td>
+<td align="center">1QB</td>
+<td align="center">44</td>
+<td align="center">5</td>
+<td align="center">34</td>
+<td align="center">15</td>
+<td align="right">
+6T1 (N010)
+ - 6T2 (N010)
+ - 6T3 (N010)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="5">GA21NB</td>
+<td align="left" rowspan="5">Geometria Analítica E Álgebra Linear</td>
+<td align="center">1EADGA</td>
+<td align="center">0</td>
+<td align="center">100</td>
+<td align="center">98</td>
+<td align="center">2</td>
+<td align="right">
+4T4 (S)
+ - 4T5 (S)
+ - 5T4 (S)
+ - 5T5 (S)
+ - 6T4 (S)
+ - 6T5 (S)
+</td>
+</tr>
+<td align="center">1EL</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="center">39</td>
+<td align="center">5</td>
+<td align="right">
+2M2 (M102)
+ - 2M3 (M102)
+ - 4M2 (M102)
+ - 4M3 (M102)
+ - 5M2 (M102)
+ - 5M3 (M102)
+</td>
+</tr>
+<td align="center">1CV</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="center">41</td>
+<td align="center">3</td>
+<td align="right">
+3T4 (M106)
+ - 3T5 (M106)
+ - 5T4 (M104)
+ - 5T5 (M104)
+ - 6T4 (M104)
+ - 6T5 (M104)
+</td>
+</tr>
+<td align="center">1MC</td>
+<td align="center">45</td>
+<td align="center">0</td>
+<td align="center">42</td>
+<td align="center">3</td>
+<td align="right">
+2T2 (Q001)
+ - 2T3 (Q001)
+ - 5T2 (Q001)
+ - 5T3 (Q001)
+ - 6T2 (Q001)
+ - 6T3 (Q001)
+</td>
+</tr>
+<td align="center">1CP</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">29</td>
+<td align="right">
+3N1 (Q008)
+ - 3N2 (Q008)
+ - 3N3 (Q008)
+ - 4N1 (Q008)
+ - 4N2 (Q008)
+ - 4N3 (Q008)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">MM24NB</td>
+<td align="left" rowspan="1">Métodos De Matemática Aplicada</td>
+<td align="center">4MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">29</td>
+<td align="center">15</td>
+<td align="right">
+3T4 (Q004)
+ - 3T5 (Q004)
+ - 5T4 (Q004)
+ - 5T5 (Q004)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">PE22NB</td>
+<td align="left" rowspan="3">Probabilidade E Estatística</td>
+<td align="center">2CP</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">42</td>
+<td align="center">2</td>
+<td align="right">
+4N1 (M007)
+ - 4N2 (M007)
+ - 5N1 (M007)
+ - 5N2 (M007)
+</td>
+</tr>
+<td align="center">2CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="right">
+2M2 (N106)
+ - 2M3 (N106)
+ - 4M2 (N106)
+ - 4M3 (N106)
+</td>
+</tr>
+<td align="center">2EL</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="right">
+3T4 (M102)
+ - 3T5 (M102)
+ - 6T2 (M102)
+ - 6T3 (M102)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">PE23NB</td>
+<td align="left" rowspan="1">Probabilidade E Estatística</td>
+<td align="center">3MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="right">
+4T2 (Q003)
+ - 4T3 (Q003)
+ - 6T2 (Q003)
+ - 6T3 (Q003)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">VC23NB</td>
+<td align="left" rowspan="3">Variáveis Complexas A</td>
+<td align="center">3CP</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">43</td>
+<td align="center">1</td>
+<td align="right">
+3T2 (M005)
+ - 3T3 (M005)
+ - 4T4 (M005)
+ - 4T5 (M005)
+</td>
+</tr>
+<td align="center">EXTE</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">18</td>
+<td align="center">26</td>
+<td align="right">
+2T4 (O203)
+ - 2T5 (O203)
+ - 4M4 (O203)
+ - 4M5 (O203)
+</td>
+</tr>
+<td align="center">3EL</td>
+<td align="center">0</td>
+<td align="center">46</td>
+<td align="center">31</td>
+<td align="center">15</td>
+<td align="right">
+3T4 (L107)
+ - 3T5 (L107)
+ - 4T2 (L105)
+ - 4T3 (L105)
+</td>
+</tr>
+<tr>
+<th colspan="8" align="center" style="font-weight:bold; text-transform:uppercase; padding:10px 0px;">
+Bacharelado - DEPARTAMENTO ACADÊMICO DE MECANICA
+</th>
+<tr>
+<tr>
+<td align="center" style="font-weight:bold;">Código</td>
+<td align="center" style="font-weight:bold;">Disciplina</td>
+<td align="center" style="font-weight:bold;">Turma</td>
+<td align="center" style="font-weight:bold;">Vg. Calouros</td>
+<td align="center" style="font-weight:bold;">Vg. Veteranos</td>
+<td align="center" style="font-weight:bold;">Vg. Ocup.</td>
+<td align="center" style="font-weight:bold;">Vg. Rest.</td>
+<td align="center" style="font-weight:bold;">Horário(Sala)</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">AC29MC</td>
+<td align="left" rowspan="1">Ar Condicionado</td>
+<td align="center">9MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">28</td>
+<td align="center">16</td>
+<td align="right">
+5T2 (Q004)
+ - 5T3 (Q004)
+ - 6T2 (Q004)
+ - 6T3 (Q004)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">AM27MC</td>
+<td align="left" rowspan="1">Análise De Mecanismos</td>
+<td align="center">7MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">32</td>
+<td align="center">12</td>
+<td align="right">
+5T2 (Q007)
+ - 5T3 (Q007)
+ - 5T4 (Q007)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">CM23NB</td>
+<td align="left" rowspan="1">Ciências Dos Materiais</td>
+<td align="center">3MC</td>
+<td align="center">0</td>
+<td align="center">49</td>
+<td align="center">49</td>
+<td align="center">0</td>
+<td align="right">
+3M4 (Q003)
+ - 3M5 (Q003)
+ - 4M2 (Q003)
+ - 4M3 (Q003)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">CM26MC</td>
+<td align="left" rowspan="1">Conformação Mecânica</td>
+<td align="center">6MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">30</td>
+<td align="center">14</td>
+<td align="right">
+2M3 (Q006)
+ - 2M4 (Q006)
+ - 2M5 (Q006)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">DM22MC</td>
+<td align="left" rowspan="2">Desenho De Máquinas</td>
+<td align="center">2MCA</td>
+<td align="center">0</td>
+<td align="center">24</td>
+<td align="center">22</td>
+<td align="center">2</td>
+<td align="right">
+4M1 (V008)
+ - 4M2 (V008)
+ - 4M3 (V008)
+</td>
+</tr>
+<td align="center">2MCB</td>
+<td align="center">0</td>
+<td align="center">24</td>
+<td align="center">13</td>
+<td align="center">11</td>
+<td align="right">
+5M1 (V008)
+ - 5M2 (V008)
+ - 5M3 (V008)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="4">DT21NB</td>
+<td align="left" rowspan="4">Desenho Técnico</td>
+<td align="center">1MCA</td>
+<td align="center">23</td>
+<td align="center">2</td>
+<td align="center">21</td>
+<td align="center">4</td>
+<td align="right">
+4T4 (M109)
+ - 4T5 (M109)
+ - 4T6 (M109)
+</td>
+</tr>
+<td align="center">1MCB</td>
+<td align="center">22</td>
+<td align="center">2</td>
+<td align="center">16</td>
+<td align="center">8</td>
+<td align="right">
+3T4 (M109)
+ - 3T5 (M109)
+ - 3T6 (M109)
+</td>
+</tr>
+<td align="center">1ELB</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="center">17</td>
+<td align="center">5</td>
+<td align="right">
+3T2 (M108)
+ - 3T3 (M108)
+ - 3T4 (M108)
+</td>
+</tr>
+<td align="center">1ELA</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="center">20</td>
+<td align="center">2</td>
+<td align="right">
+3M3 (M108)
+ - 3M4 (M108)
+ - 3M5 (M108)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">EM25MC</td>
+<td align="left" rowspan="2">Ensaios Dos Materiais</td>
+<td align="center">5MCA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+3T2 (Q005)
+ - 3T3 (Q005)
+ - 3T4 (Q005)
+</td>
+</tr>
+<td align="center">5MCB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">15</td>
+<td align="center">7</td>
+<td align="right">
+3T2 (Q005)
+ - 3T5 (Q005)
+ - 3T6 (Q005)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">EM27MC</td>
+<td align="left" rowspan="1">Elementos De Máquinas</td>
+<td align="center">8MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="right">
+2T2 (N106)
+ - 2T3 (N106)
+ - 3T4 (N106)
+ - 3T5 (N106)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">ES27MC</td>
+<td align="left" rowspan="1">Estruturas Metálicas</td>
+<td align="center">9MC</td>
+<td align="center">0</td>
+<td align="center">30</td>
+<td align="center">29</td>
+<td align="center">1</td>
+<td align="right">
+5M2 (H003)
+ - 5M3 (H003)
+ - 5M4 (H003)
+ - 5M5 (H003)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">ET29NB</td>
+<td align="left" rowspan="1">Ética, Profissão E Cidadania</td>
+<td align="center">9MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">18</td>
+<td align="center">26</td>
+<td align="right">
+2T4 (N010)
+ - 2T5 (N010)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">FT23NB</td>
+<td align="left" rowspan="3">Fenômenos Dos Transportes</td>
+<td align="center">3CP</td>
+<td align="center">0</td>
+<td align="center">50</td>
+<td align="center">16</td>
+<td align="center">34</td>
+<td align="right">
+3T4 (M005)
+ - 3T5 (M005)
+ - 5T2 (M005)
+ - 5T3 (M005)
+</td>
+</tr>
+<td align="center">3ELA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+4M2 (L106)
+ - 4M3 (L106)
+ - 5M2 (L107)
+ - 5M3 (L107)
+</td>
+</tr>
+<td align="center">3ELB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">20</td>
+<td align="center">2</td>
+<td align="right">
+4M2 (L106)
+ - 4M3 (L106)
+ - 5M4 (L107)
+ - 5M5 (L107)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">HP26MC</td>
+<td align="left" rowspan="1">Hidráulica E Pneumática</td>
+<td align="center">6MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">37</td>
+<td align="center">7</td>
+<td align="right">
+2T4 (Q006)
+ - 2T5 (Q006)
+ - 4T4 (Q006)
+ - 4T5 (Q006)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">IE21NB</td>
+<td align="left" rowspan="2">Introdução À Engenharia</td>
+<td align="center">1CV</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="center">31</td>
+<td align="center">13</td>
+<td align="right">
+6M2 (M103)
+ - 6M3 (M103)
+</td>
+</tr>
+<td align="center">1MC</td>
+<td align="center">45</td>
+<td align="center">4</td>
+<td align="center">35</td>
+<td align="center">14</td>
+<td align="right">
+5M4 (Q001)
+ - 5M5 (Q001)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">IM27MC</td>
+<td align="left" rowspan="1">Introdução Ao Método Dos Elementos Finitos</td>
+<td align="center">9MC</td>
+<td align="center">0</td>
+<td align="center">30</td>
+<td align="center">25</td>
+<td align="center">5</td>
+<td align="right">
+3T6 (Q006)
+ - 3N1 (Q006)
+ - 4T6 (Q006)
+ - 4N1 (Q006)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">MC24MC</td>
+<td align="left" rowspan="1">Materiais Cerâmicos E Poliméricos</td>
+<td align="center">4MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">37</td>
+<td align="center">7</td>
+<td align="right">
+4M3 (Q004)
+ - 4M4 (Q004)
+ - 4M5 (Q004)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">MD27MC</td>
+<td align="left" rowspan="1">Modelagem De Sólidos</td>
+<td align="center">7MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">34</td>
+<td align="center">10</td>
+<td align="right">
+2N2 (V007)
+ - 2N3 (V007)
+ - 3N2 (V007)
+ - 3N3 (V007)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">MF24NB</td>
+<td align="left" rowspan="2">Mecânica Dos Fluídos 1</td>
+<td align="center">4MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">42</td>
+<td align="center">2</td>
+<td align="right">
+3M3 (Q004)
+ - 3M4 (Q004)
+ - 3M5 (Q004)
+</td>
+</tr>
+<td align="center">5CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">34</td>
+<td align="center">10</td>
+<td align="right">
+3T2 (M104)
+ - 3T3 (M104)
+ - 3T4 (M104)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">MF25NB</td>
+<td align="left" rowspan="2">Mecânica Dos Fluídos 2</td>
+<td align="center">5MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">39</td>
+<td align="center">5</td>
+<td align="right">
+6M2 (Q005)
+ - 6M3 (Q005)
+ - 6M4 (Q005)
+ - 6M5 (Q005)
+</td>
+</tr>
+<td align="center">6CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">45</td>
+<td align="center">0</td>
+<td align="right">
+6T3 (Q005)
+ - 6T4 (Q005)
+ - 6T5 (Q005)
+ - 6T6 (Q005)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">MF26MC</td>
+<td align="left" rowspan="1">Máquinas De Fluxo</td>
+<td align="center">6MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">35</td>
+<td align="center">9</td>
+<td align="right">
+4M2 (Q006)
+ - 4M3 (Q006)
+ - 5M2 (Q006)
+ - 5M3 (Q006)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">MG22NB</td>
+<td align="left" rowspan="2">Mecânica Geral 1</td>
+<td align="center">2MC</td>
+<td align="center">0</td>
+<td align="center">49</td>
+<td align="center">37</td>
+<td align="center">12</td>
+<td align="right">
+5M4 (Q002)
+ - 5M5 (Q002)
+ - 6M4 (N110)
+ - 6M5 (N110)
+</td>
+</tr>
+<td align="center">2EL</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">39</td>
+<td align="center">5</td>
+<td align="right">
+5T2 (N106)
+ - 5T3 (N106)
+ - 6T4 (L105)
+ - 6T5 (L105)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">MG23NB</td>
+<td align="left" rowspan="1">Mecânica Geral 2</td>
+<td align="center">3MC</td>
+<td align="center">0</td>
+<td align="center">49</td>
+<td align="center">47</td>
+<td align="center">2</td>
+<td align="right">
+5M2 (Q003)
+ - 5M3 (Q003)
+ - 6M2 (Q003)
+ - 6M3 (Q003)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">MG24NB</td>
+<td align="left" rowspan="3">Mecânica Geral 1</td>
+<td align="center">4CVSP</td>
+<td align="center">0</td>
+<td align="center">5</td>
+<td align="center">2</td>
+<td align="center">3</td>
+<td align="right">
+</td>
+</tr>
+<td align="center">4CP</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="right">
+2N1 (M004)
+ - 2N2 (M004)
+ - 3T4 (M004)
+ - 3T5 (M004)
+</td>
+</tr>
+<td align="center">4CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">41</td>
+<td align="center">3</td>
+<td align="right">
+3M2 (M107)
+ - 3M3 (M107)
+ - 5M4 (M107)
+ - 5M5 (M107)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">MG25NB</td>
+<td align="left" rowspan="1">Mecânica Geral 2</td>
+<td align="center">5CV</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">42</td>
+<td align="center">2</td>
+<td align="right">
+5M4 (M104)
+ - 5M5 (M104)
+ - 6M4 (M104)
+ - 6M5 (M104)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">MM23MC</td>
+<td align="left" rowspan="2">Metrologia Mecânica</td>
+<td align="center">3MCA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+3T1 (H006-A)
+ - 3T2 (H006-A)
+ - 3T3 (H006-A)
+</td>
+</tr>
+<td align="center">3MCB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+5T1 (H006-A)
+ - 5T2 (H006-A)
+ - 5T3 (H006-A)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">MM29MC</td>
+<td align="left" rowspan="1">Manutenção Mecânica</td>
+<td align="center">9MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">34</td>
+<td align="center">10</td>
+<td align="right">
+3T4 (Q001)
+ - 3T5 (Q001)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">MP28MC</td>
+<td align="left" rowspan="1">Metodologia De Projeto</td>
+<td align="center">8MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">18</td>
+<td align="center">26</td>
+<td align="right">
+3M3 (Q001)
+ - 3M4 (Q001)
+ - 3M5 (Q001)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">MS24NB</td>
+<td align="left" rowspan="1">Mecânica Dos Sólidos A</td>
+<td align="center">4MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="right">
+2T2 (Q004)
+ - 2T3 (Q004)
+ - 3T2 (Q004)
+ - 3T3 (Q004)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">MS25NB</td>
+<td align="left" rowspan="1">Mecânica Dos Sólidos B</td>
+<td align="center">5MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">29</td>
+<td align="center">15</td>
+<td align="right">
+2T4 (Q005)
+ - 2T5 (Q005)
+ - 4M4 (Q005)
+ - 4M5 (Q005)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">MS26NB</td>
+<td align="left" rowspan="1">Mecânica Dos Sólidos C</td>
+<td align="center">6MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">27</td>
+<td align="center">17</td>
+<td align="right">
+2T1 (Q006)
+ - 2T2 (Q006)
+ - 2T3 (Q006)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">MT27MC</td>
+<td align="left" rowspan="1">Máquinas Térmicas 1</td>
+<td align="center">7MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">29</td>
+<td align="center">15</td>
+<td align="right">
+3M3 (Q007)
+ - 3M4 (Q007)
+ - 3M5 (Q007)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">MT28MC</td>
+<td align="left" rowspan="1">Máquinas Térmicas 2</td>
+<td align="center">8MC</td>
+<td align="center">0</td>
+<td align="center">30</td>
+<td align="center">25</td>
+<td align="center">5</td>
+<td align="right">
+2M2 (Q002)
+ - 2M3 (Q002)
+ - 4M2 (Q002)
+ - 4M3 (Q002)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">MT29MC</td>
+<td align="left" rowspan="1">Máquinas Térmicas 3</td>
+<td align="center">9MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">34</td>
+<td align="center">10</td>
+<td align="right">
+5T4 (N010)
+ - 5T5 (N010)
+ - 6T4 (N010)
+ - 6T5 (N010)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">PC29MC</td>
+<td align="left" rowspan="2">Projeto De Componentes Mecânicos</td>
+<td align="center">9MCA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">14</td>
+<td align="center">8</td>
+<td align="right">
+2M2 (H003)
+ - 2M3 (H003)
+ - 2M4 (H003)
+ - 2M5 (H003)
+</td>
+</tr>
+<td align="center">9MCB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">5</td>
+<td align="center">17</td>
+<td align="right">
+2M2 (H003)
+ - 2M3 (H003)
+ - 3M2 (H003)
+ - 3M3 (H003)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">PM25MC</td>
+<td align="left" rowspan="1">Processos Metalúrgicos De Fabricação</td>
+<td align="center">5MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">40</td>
+<td align="center">4</td>
+<td align="right">
+2M3 (Q005)
+ - 2M4 (Q005)
+ - 2M5 (Q005)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">SO27MC</td>
+<td align="left" rowspan="1">Soldagem</td>
+<td align="center">7MC</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+3T3 (Q007)
+ - 3T4 (Q007)
+ - 3T5 (Q007)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">TC25MC</td>
+<td align="left" rowspan="1">Transferência De Calor 1</td>
+<td align="center">5MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">28</td>
+<td align="center">16</td>
+<td align="right">
+5T3 (Q005)
+ - 5T4 (Q005)
+ - 5T5 (Q005)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">TC26MC</td>
+<td align="left" rowspan="1">Transferência De Calor 2</td>
+<td align="center">6MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">27</td>
+<td align="center">17</td>
+<td align="right">
+3T2 (Q006)
+ - 3T3 (Q006)
+ - 3T4 (Q006)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">TC29MC</td>
+<td align="left" rowspan="1">Trabalho De Conclusão De Curso 1</td>
+<td align="center">9MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">36</td>
+<td align="center">8</td>
+<td align="right">
+6M2 (Q007)
+ - 6M3 (Q007)
+ - 6M4 (Q007)
+ - 6M5 (Q007)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">TD24MC</td>
+<td align="left" rowspan="1">Termodinâmica 1</td>
+<td align="center">4MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="right">
+5M3 (Q004)
+ - 5M4 (Q004)
+ - 5M5 (Q004)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">TD25MC</td>
+<td align="left" rowspan="1">Termodinâmica 2</td>
+<td align="center">5MC</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">37</td>
+<td align="center">7</td>
+<td align="right">
+3M3 (Q005)
+ - 3M4 (Q005)
+ - 3M5 (Q005)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">TT26MC</td>
+<td align="left" rowspan="2">Tratamentos Térmicos</td>
+<td align="center">6MCB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">14</td>
+<td align="center">1</td>
+<td align="right">
+3M2 (Q006)
+ - 3M3 (Q006)
+ - 3M5 (Q006)
+</td>
+</tr>
+<td align="center">6MCA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">16</td>
+<td align="center">6</td>
+<td align="right">
+3M2 (Q006)
+ - 3M3 (Q006)
+ - 3M4 (Q006)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">US27MC</td>
+<td align="left" rowspan="2">Usinagem</td>
+<td align="center">7MCA</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2M2 (Q007)
+ - 2M3 (Q007)
+ - 2T2 (H006-A)
+ - 2T3 (H006-A)
+</td>
+</tr>
+<td align="center">7MCB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">11</td>
+<td align="center">11</td>
+<td align="right">
+2M2 (Q007)
+ - 2M3 (Q007)
+ - 4M2 (H006-A)
+ - 4M3 (H006-A)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">US28MC</td>
+<td align="left" rowspan="1">Usinagem  C N C</td>
+<td align="center">8MC</td>
+<td align="center">0</td>
+<td align="center">30</td>
+<td align="center">17</td>
+<td align="center">13</td>
+<td align="right">
+2M4 (V008)
+ - 2M5 (V008)
+ - 4M4 (H003)
+ - 4M5 (H003)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">VB28MC</td>
+<td align="left" rowspan="2">Vibrações</td>
+<td align="center">7MCA</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">20</td>
+<td align="center">5</td>
+<td align="right">
+2M4 (Q007)
+ - 2M5 (Q007)
+ - 4M4 (Q007)
+ - 4M5 (Q007)
+</td>
+</tr>
+<td align="center">7MCB</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">19</td>
+<td align="center">0</td>
+<td align="right">
+2M4 (Q008)
+ - 2M5 (Q008)
+ - 4M4 (Q008)
+ - 4M5 (Q008)
+</td>
+</tr>
+<tr>
+<th colspan="8" align="center" style="font-weight:bold; text-transform:uppercase; padding:10px 0px;">
+Bacharelado - DEPARTAMENTO ACADEMICO DE FISICA
+</th>
+<tr>
+<tr>
+<td align="center" style="font-weight:bold;">Código</td>
+<td align="center" style="font-weight:bold;">Disciplina</td>
+<td align="center" style="font-weight:bold;">Turma</td>
+<td align="center" style="font-weight:bold;">Vg. Calouros</td>
+<td align="center" style="font-weight:bold;">Vg. Veteranos</td>
+<td align="center" style="font-weight:bold;">Vg. Ocup.</td>
+<td align="center" style="font-weight:bold;">Vg. Rest.</td>
+<td align="center" style="font-weight:bold;">Horário(Sala)</td>
+</tr>
+<tr>
+<td align="center" rowspan="11">FI21NB</td>
+<td align="left" rowspan="11">Física 1</td>
+<td align="center">1EXTB</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2T2 (L006)
+ - 2T3 (L006)
+ - 3T2 (N105)
+ - 3T3 (N105)
+ - 4T2 (N105)
+ - 4T3 (N105)
+</td>
+</tr>
+<td align="center">1CVB</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2M4 (L107)
+ - 2M5 (L107)
+ - 2T4 (L006)
+ - 2T5 (L006)
+ - 4M4 (L107)
+ - 4M5 (L107)
+</td>
+</tr>
+<td align="center">1ELB</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="center">17</td>
+<td align="center">5</td>
+<td align="right">
+2T4 (M102)
+ - 2T5 (M102)
+ - 4T2 (L006)
+ - 4T3 (L006)
+ - 4T4 (M102)
+ - 4T5 (M102)
+</td>
+</tr>
+<td align="center">1ELA</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="center">21</td>
+<td align="center">1</td>
+<td align="right">
+2T4 (M102)
+ - 2T5 (M102)
+ - 4T2 (L006)
+ - 4T3 (L006)
+ - 4T4 (M102)
+ - 4T5 (M102)
+</td>
+</tr>
+<td align="center">1EXTA</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2T2 (L006)
+ - 2T3 (L006)
+ - 3T2 (N105)
+ - 3T3 (N105)
+ - 4T2 (N105)
+ - 4T3 (N105)
+</td>
+</tr>
+<td align="center">1CPA</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="center">17</td>
+<td align="center">9</td>
+<td align="right">
+2T4 (Q008)
+ - 2T5 (Q008)
+ - 4T4 (Q008)
+ - 4T5 (Q008)
+ - 5N1 (L006)
+ - 5N2 (L006)
+</td>
+</tr>
+<td align="center">1CVA</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="center">21</td>
+<td align="center">1</td>
+<td align="right">
+2M4 (L107)
+ - 2M5 (L107)
+ - 2T4 (L006)
+ - 2T5 (L006)
+ - 4M4 (L107)
+ - 4M5 (L107)
+</td>
+</tr>
+<td align="center">2EXTB</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+3T4 (N011)
+ - 3T5 (N011)
+ - 4T4 (L006)
+ - 4T5 (L006)
+ - 5T4 (N011)
+ - 5T5 (N011)
+</td>
+</tr>
+<td align="center">2EXTA</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+3T4 (N011)
+ - 3T5 (N011)
+ - 4T4 (L006)
+ - 4T5 (L006)
+ - 5T4 (N011)
+ - 5T5 (N011)
+</td>
+</tr>
+<td align="center">1MCA</td>
+<td align="center">23</td>
+<td align="center">0</td>
+<td align="center">21</td>
+<td align="center">2</td>
+<td align="right">
+2M4 (Q001)
+ - 2M5 (Q001)
+ - 3T2 (L006)
+ - 3T3 (L006)
+ - 4M4 (Q001)
+ - 4M5 (Q001)
+</td>
+</tr>
+<td align="center">1MCB</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="center">19</td>
+<td align="center">3</td>
+<td align="right">
+2M4 (Q001)
+ - 2M5 (Q001)
+ - 3T2 (L006)
+ - 3T3 (L006)
+ - 4M4 (Q001)
+ - 4M5 (Q001)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="8">FI22NB</td>
+<td align="left" rowspan="8">Física 2</td>
+<td align="center">2ELA</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2T2 (M102)
+ - 2T3 (M102)
+ - 3T2 (L005)
+ - 3T3 (L005)
+ - 4T2 (M102)
+ - 4T3 (M102)
+</td>
+</tr>
+<td align="center">2MCB</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2M4 (Q002)
+ - 2M5 (Q002)
+ - 3M2 (L005)
+ - 3M3 (L005)
+ - 4M4 (Q002)
+ - 4M5 (Q002)
+</td>
+</tr>
+<td align="center">2CVB</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2M4 (M107)
+ - 2M5 (M107)
+ - 3M4 (L005)
+ - 3M5 (L005)
+ - 4M4 (M007)
+ - 4M5 (M007)
+</td>
+</tr>
+<td align="center">2CPB</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2T4 (M007)
+ - 2T5 (M007)
+ - 3N1 (L005)
+ - 3N2 (L005)
+ - 4T4 (M007)
+ - 4T5 (M007)
+</td>
+</tr>
+<td align="center">2CVA</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2M4 (M107)
+ - 2M5 (M107)
+ - 3M4 (L005)
+ - 3M5 (L005)
+ - 4M4 (M007)
+ - 4M5 (M007)
+</td>
+</tr>
+<td align="center">2MCA</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2M4 (Q002)
+ - 2M5 (Q002)
+ - 3M2 (L005)
+ - 3M3 (L005)
+ - 4M4 (Q002)
+ - 4M5 (Q002)
+</td>
+</tr>
+<td align="center">2ELB</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2T2 (M102)
+ - 2T3 (M102)
+ - 3T2 (L005)
+ - 3T3 (L005)
+ - 4T2 (M102)
+ - 4T3 (M102)
+</td>
+</tr>
+<td align="center">2CPA</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">21</td>
+<td align="center">1</td>
+<td align="right">
+2T4 (M007)
+ - 2T5 (M007)
+ - 3N1 (L005)
+ - 3N2 (L005)
+ - 4T4 (M007)
+ - 4T5 (M007)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="9">FI23NB</td>
+<td align="left" rowspan="9">Física 3</td>
+<td align="center">3ELA</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">24</td>
+<td align="center">20</td>
+<td align="right">
+2T4 (L105)
+ - 2T5 (L105)
+ - 3M4 (L004)
+ - 3M5 (L004)
+ - 4T4 (L105)
+ - 4T5 (L105)
+</td>
+</tr>
+<td align="center">2EXTB</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">21</td>
+<td align="center">1</td>
+<td align="right">
+2T4 (N108)
+ - 2T5 (N108)
+ - 3T4 (L004)
+ - 3T5 (L004)
+ - 4T4 (N108)
+ - 4T5 (N108)
+</td>
+</tr>
+<td align="center">1EXTB</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2N1 (Q005)
+ - 2N2 (Q005)
+ - 3N1 (L004)
+ - 3N2 (L004)
+ - 4N1 (Q005)
+ - 4N2 (Q005)
+</td>
+</tr>
+<td align="center">2EXTA</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2T4 (N108)
+ - 2T5 (N108)
+ - 3T4 (L004)
+ - 3T5 (L004)
+ - 4T4 (N108)
+ - 4T5 (N108)
+</td>
+</tr>
+<td align="center">1EXTA</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">21</td>
+<td align="center">1</td>
+<td align="right">
+2N1 (Q005)
+ - 2N2 (Q005)
+ - 3N1 (L004)
+ - 3N2 (L004)
+ - 4N1 (Q005)
+ - 4N2 (Q005)
+</td>
+</tr>
+<td align="center">3MCA</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2M4 (Q003)
+ - 2M5 (Q003)
+ - 4M4 (Q003)
+ - 4M5 (Q003)
+ - 6M4 (L004)
+ - 6M5 (L004)
+</td>
+</tr>
+<td align="center">3MCB</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2M4 (Q003)
+ - 2M5 (Q003)
+ - 4M4 (Q003)
+ - 4M5 (Q003)
+ - 6M4 (L004)
+ - 6M5 (L004)
+</td>
+</tr>
+<td align="center">3CVA</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">26</td>
+<td align="center">2</td>
+<td align="right">
+2M4 (M105)
+ - 2M5 (M105)
+ - 3M2 (L004)
+ - 3M3 (L004)
+ - 4M4 (M105)
+ - 4M5 (M105)
+</td>
+</tr>
+<td align="center">3CPA</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">20</td>
+<td align="center">24</td>
+<td align="right">
+2T2 (M005)
+ - 2T3 (M005)
+ - 4T2 (M005)
+ - 4T3 (M005)
+ - 5T4 (L004)
+ - 5T5 (L004)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">FI24NB</td>
+<td align="left" rowspan="1">Física 4</td>
+<td align="center">4EL</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">21</td>
+<td align="center">23</td>
+<td align="right">
+3M4 (L105)
+ - 3M5 (L105)
+ - 5M4 (L105)
+ - 5M5 (L105)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">FI31QB</td>
+<td align="left" rowspan="2">Física 1</td>
+<td align="center">1QBB</td>
+<td align="center">22</td>
+<td align="center">4</td>
+<td align="center">23</td>
+<td align="center">3</td>
+<td align="right">
+2T2 (N010)
+ - 2T3 (N010)
+ - 3T4 (L006)
+ - 3T5 (L006)
+ - 4T2 (N010)
+ - 4T3 (N010)
+</td>
+</tr>
+<td align="center">1QBA</td>
+<td align="center">22</td>
+<td align="center">3</td>
+<td align="center">24</td>
+<td align="center">1</td>
+<td align="right">
+2T2 (N010)
+ - 2T3 (N010)
+ - 3T4 (L006)
+ - 3T5 (L006)
+ - 4T2 (N010)
+ - 4T3 (N010)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">FI32QB</td>
+<td align="left" rowspan="2">Física 2</td>
+<td align="center">2QBB</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">1</td>
+<td align="right">
+2T2 (N011)
+ - 2T3 (N011)
+ - 3T4 (L005)
+ - 3T5 (L005)
+ - 4T2 (N011)
+ - 4T3 (N011)
+</td>
+</tr>
+<td align="center">2QBA</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">16</td>
+<td align="center">12</td>
+<td align="right">
+2T2 (N011)
+ - 2T3 (N011)
+ - 3T4 (L005)
+ - 3T5 (L005)
+ - 4T2 (N011)
+ - 4T3 (N011)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">FI33QB</td>
+<td align="left" rowspan="2">Física 3</td>
+<td align="center">3QBB</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2T2 (N108)
+ - 2T3 (N108)
+ - 4T2 (N108)
+ - 4T3 (N108)
+ - 5M4 (L004)
+ - 5M5 (L004)
+</td>
+</tr>
+<td align="center">3QBA</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+2T2 (N108)
+ - 2T3 (N108)
+ - 4T2 (N108)
+ - 4T3 (N108)
+ - 5M4 (L004)
+ - 5M5 (L004)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">FI34QB</td>
+<td align="left" rowspan="1">Física 4</td>
+<td align="center">4QB</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">19</td>
+<td align="center">25</td>
+<td align="right">
+2T2 (N107)
+ - 2T3 (N107)
+ - 4T2 (N107)
+ - 4T3 (N107)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">FS22G</td>
+<td align="left" rowspan="2">Física 1</td>
+<td align="center">2G</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">31</td>
+<td align="center">13</td>
+<td align="right">
+2T2 (O001)
+ - 2T3 (O001)
+ - 2T4 (O001)
+ - 4M2 (O001)
+ - 4M3 (O001)
+</td>
+</tr>
+<td align="center">2GE</td>
+<td align="center">0</td>
+<td align="center">50</td>
+<td align="center">48</td>
+<td align="center">2</td>
+<td align="right">
+2T6 (M104)
+ - 2N1 (M104)
+ - 2N2 (M104)
+ - 4T6 (M105)
+ - 4N1 (M105)
+</td>
+</tr>
+<tr>
+<th colspan="8" align="center" style="font-weight:bold; text-transform:uppercase; padding:10px 0px;">
+Bacharelado - DEPARTAMENTO ACADÊMICO DE INFORMATICA
+</th>
+<tr>
+<tr>
+<td align="center" style="font-weight:bold;">Código</td>
+<td align="center" style="font-weight:bold;">Disciplina</td>
+<td align="center" style="font-weight:bold;">Turma</td>
+<td align="center" style="font-weight:bold;">Vg. Calouros</td>
+<td align="center" style="font-weight:bold;">Vg. Veteranos</td>
+<td align="center" style="font-weight:bold;">Vg. Ocup.</td>
+<td align="center" style="font-weight:bold;">Vg. Rest.</td>
+<td align="center" style="font-weight:bold;">Horário(Sala)</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">AE22CP</td>
+<td align="left" rowspan="1">Algorítmos E Estruturas De Dados 1</td>
+<td align="center">2CP</td>
+<td align="center">0</td>
+<td align="center">50</td>
+<td align="center">46</td>
+<td align="center">4</td>
+<td align="right">
+5T1 (M007)
+ - 5T2 (M007)
+ - 5T3 (M007)
+ - 6T1 (M007)
+ - 6T2 (M007)
+ - 6T3 (M007)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">AE23CP</td>
+<td align="left" rowspan="2">Algorítmos E Estruturas De Dados 2</td>
+<td align="center">3CPSP</td>
+<td align="center">0</td>
+<td align="center">5</td>
+<td align="center">5</td>
+<td align="center">0</td>
+<td align="right">
+</td>
+</tr>
+<td align="center">3CP</td>
+<td align="center">0</td>
+<td align="center">30</td>
+<td align="center">23</td>
+<td align="center">7</td>
+<td align="right">
+2T4 (V107)
+ - 2T5 (V107)
+ - 6T4 (V107)
+ - 6T5 (V107)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">AO26CP</td>
+<td align="left" rowspan="1">Arquitetura E Organização De Computadores</td>
+<td align="center">6CP</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">13</td>
+<td align="center">9</td>
+<td align="right">
+2T4 (V104)
+ - 2T5 (V104)
+ - 4N1 (V104)
+ - 4N2 (V104)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">AP25CP</td>
+<td align="left" rowspan="1">Análise E Projeto De Sistemas</td>
+<td align="center">5CP</td>
+<td align="center">0</td>
+<td align="center">30</td>
+<td align="center">30</td>
+<td align="center">0</td>
+<td align="right">
+2N4 (V007)
+ - 2N5 (V007)
+ - 5N1 (V007)
+ - 5N2 (V007)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">BD26CP</td>
+<td align="left" rowspan="1">Banco De Dados 1</td>
+<td align="center">6CP</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">20</td>
+<td align="center">5</td>
+<td align="right">
+3T4 (V104)
+ - 3T5 (V104)
+ - 5T4 (V104)
+ - 5T5 (V104)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">BD27CP</td>
+<td align="left" rowspan="1">Banco De Dados 2</td>
+<td align="center">7CP</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">23</td>
+<td align="center">2</td>
+<td align="right">
+3N1 (V104)
+ - 3N2 (V104)
+ - 5N1 (V104)
+ - 5N2 (V104)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">CG28CP</td>
+<td align="left" rowspan="1">Computação Gráfica</td>
+<td align="center">8CP</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">6</td>
+<td align="center">16</td>
+<td align="right">
+2N1 (V009)
+ - 2N2 (V009)
+ - 4N1 (V009)
+ - 4N2 (V009)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">CO28CP</td>
+<td align="left" rowspan="1">Compiladores</td>
+<td align="center">6CP</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">21</td>
+<td align="center">4</td>
+<td align="right">
+2T2 (M004)
+ - 2T3 (M004)
+ - 4T2 (M004)
+ - 4T3 (M004)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="8">CP21NB</td>
+<td align="left" rowspan="8">Computação 1</td>
+<td align="center">1CVEB</td>
+<td align="center">0</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">0</td>
+<td align="right">
+5T4 (V109)
+ - 5T5 (V109)
+ - 6T2 (V109)
+ - 6T3 (V109)
+</td>
+</tr>
+<td align="center">1MCEA</td>
+<td align="center">0</td>
+<td align="center">3</td>
+<td align="center">3</td>
+<td align="center">0</td>
+<td align="right">
+5T2 (V109)
+ - 5T3 (V109)
+ - 6M4 (V109)
+ - 6M5 (V109)
+</td>
+</tr>
+<td align="center">1MC</td>
+<td align="center">23</td>
+<td align="center">0</td>
+<td align="center">18</td>
+<td align="center">9</td>
+<td align="right">
+3M4 (V109)
+ - 3M5 (V109)
+ - 5M2 (V109)
+ - 5M3 (V109)
+</td>
+</tr>
+<td align="center">1MCEB</td>
+<td align="center">0</td>
+<td align="center">3</td>
+<td align="center">3</td>
+<td align="center">0</td>
+<td align="right">
+5T4 (V109)
+ - 5T5 (V109)
+ - 6T2 (V109)
+ - 6T3 (V109)
+</td>
+</tr>
+<td align="center">1CV</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="center">20</td>
+<td align="center">7</td>
+<td align="right">
+4M2 (V109)
+ - 4M3 (V109)
+ - 5M4 (V109)
+ - 5M5 (V109)
+</td>
+</tr>
+<td align="center">1MCB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">21</td>
+<td align="center">1</td>
+<td align="right">
+3M4 (V108)
+ - 3M5 (V108)
+ - 5M2 (V108)
+ - 5M3 (V108)
+</td>
+</tr>
+<td align="center">1CVB</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">19</td>
+<td align="center">4</td>
+<td align="right">
+4M2 (V108)
+ - 4M3 (V108)
+ - 5M4 (V108)
+ - 5M5 (V108)
+</td>
+</tr>
+<td align="center">1CVEA</td>
+<td align="center">0</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">0</td>
+<td align="right">
+5T2 (V109)
+ - 5T3 (V109)
+ - 6M4 (V109)
+ - 6M5 (V109)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">DA28CP</td>
+<td align="left" rowspan="1">Desenvolvimento De Aplicativos Para Dispositivos Móveis</td>
+<td align="center">8CP</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">5</td>
+<td align="center">20</td>
+<td align="right">
+2T2 (V106)
+ - 2T3 (V106)
+ - 4T2 (V106)
+ - 4T3 (V106)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">ES26CP</td>
+<td align="left" rowspan="1">Engenharia De Software</td>
+<td align="center">6CP</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">12</td>
+<td align="center">13</td>
+<td align="right">
+4T4 (V106)
+ - 4T5 (V106)
+ - 6T2 (V106)
+ - 6T3 (V106)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">FP21NB</td>
+<td align="left" rowspan="3">Fundamentos De Programação</td>
+<td align="center">1CPB</td>
+<td align="center">22</td>
+<td align="center">5</td>
+<td align="center">19</td>
+<td align="center">8</td>
+<td align="right">
+2T1 (V107)
+ - 2T2 (V107)
+ - 2T3 (V107)
+ - 4T1 (V107)
+ - 4T2 (V107)
+ - 4T3 (V107)
+</td>
+</tr>
+<td align="center">1CPSP</td>
+<td align="center">0</td>
+<td align="center">3</td>
+<td align="center">3</td>
+<td align="center">0</td>
+<td align="right">
+</td>
+</tr>
+<td align="center">1CPA</td>
+<td align="center">22</td>
+<td align="center">5</td>
+<td align="center">25</td>
+<td align="center">2</td>
+<td align="right">
+2T1 (V109)
+ - 2T2 (V109)
+ - 2T3 (V109)
+ - 4T1 (V109)
+ - 4T2 (V109)
+ - 4T3 (V109)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">FT25CP</td>
+<td align="left" rowspan="1">Fundamentos De Teoria Da Computação</td>
+<td align="center">5CP</td>
+<td align="center">0</td>
+<td align="center">30</td>
+<td align="center">10</td>
+<td align="center">20</td>
+<td align="right">
+2T4 (M011)
+ - 2T5 (M011)
+ - 4T4 (M011)
+ - 4T5 (M011)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">IE21CP</td>
+<td align="left" rowspan="1">Introdução À Engenharia</td>
+<td align="center">1CP</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="center">28</td>
+<td align="center">16</td>
+<td align="right">
+3T4 (Q008)
+ - 3T5 (Q008)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">LC21CP</td>
+<td align="left" rowspan="1">Lógica Para Computação</td>
+<td align="center">1CP</td>
+<td align="center">44</td>
+<td align="center">0</td>
+<td align="center">31</td>
+<td align="center">13</td>
+<td align="right">
+3T2 (Q008)
+ - 3T3 (Q008)
+ - 5T4 (Q008)
+ - 5T5 (Q008)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">LR27CP</td>
+<td align="left" rowspan="1">Lógica Reconfigurável</td>
+<td align="center">7CP</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">12</td>
+<td align="center">10</td>
+<td align="right">
+2N1 (O205)
+ - 2N2 (O205)
+ - 4N1 (O205)
+ - 4N2 (O205)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">MD24CP</td>
+<td align="left" rowspan="2">Matemática Discreta Para Eng De Computação</td>
+<td align="center">4CP</td>
+<td align="center">0</td>
+<td align="center">40</td>
+<td align="center">30</td>
+<td align="center">10</td>
+<td align="right">
+4T4 (V109)
+ - 4T5 (V109)
+ - 6T4 (V109)
+ - 6T5 (V109)
+</td>
+</tr>
+<td align="center">4CPSP</td>
+<td align="center">0</td>
+<td align="center">3</td>
+<td align="center">2</td>
+<td align="center">1</td>
+<td align="right">
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">OI25CP</td>
+<td align="left" rowspan="1">Oficina De Integração</td>
+<td align="center">7CP</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">11</td>
+<td align="center">11</td>
+<td align="right">
+2T3 (V009)
+ - 2T4 (V009)
+ - 2T5 (V009)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">PA28CP</td>
+<td align="left" rowspan="1">Projeto De Algoritmos</td>
+<td align="center">8CP</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">11</td>
+<td align="center">14</td>
+<td align="right">
+2M3 (V107)
+ - 2M4 (V107)
+ - 4M3 (V107)
+ - 4M4 (V107)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">PG21NB</td>
+<td align="left" rowspan="2">Programação A</td>
+<td align="center">1ELA</td>
+<td align="center">22</td>
+<td align="center">3</td>
+<td align="center">25</td>
+<td align="center">0</td>
+<td align="right">
+5T2 (V109)
+ - 5T3 (V109)
+ - 6M4 (V109)
+ - 6M5 (V109)
+</td>
+</tr>
+<td align="center">1ELB</td>
+<td align="center">22</td>
+<td align="center">3</td>
+<td align="center">20</td>
+<td align="center">5</td>
+<td align="right">
+5T4 (V109)
+ - 5T5 (V109)
+ - 6T2 (V109)
+ - 6T3 (V109)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">PG22NB</td>
+<td align="left" rowspan="2">Programação B</td>
+<td align="center">2ELB</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">10</td>
+<td align="center">15</td>
+<td align="right">
+2M4 (V103)
+ - 2M5 (V103)
+ - 4M4 (V103)
+ - 4M5 (V103)
+</td>
+</tr>
+<td align="center">2ELA</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">19</td>
+<td align="center">6</td>
+<td align="right">
+2M2 (V103)
+ - 2M3 (V103)
+ - 4M2 (V103)
+ - 4M3 (V103)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">PO24CP</td>
+<td align="left" rowspan="1">Programação Orientada A Objetos</td>
+<td align="center">4CP</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">25</td>
+<td align="center">0</td>
+<td align="right">
+3T2 (V107)
+ - 3T3 (V107)
+ - 5T4 (V107)
+ - 5T5 (V107)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">PS26CP</td>
+<td align="left" rowspan="1">Princípio De Sistemas De Comunicação</td>
+<td align="center">5CP</td>
+<td align="center">0</td>
+<td align="center">44</td>
+<td align="center">21</td>
+<td align="center">23</td>
+<td align="right">
+2N1 (M011)
+ - 2N2 (M011)
+ - 4N1 (M011)
+ - 4N2 (M011)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">RC27CP</td>
+<td align="left" rowspan="1">Redes De Computadores 1</td>
+<td align="center">6CP</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">22</td>
+<td align="center">0</td>
+<td align="right">
+3T2 (V006)
+ - 3T3 (V006)
+ - 5T2 (V006)
+ - 5T3 (V006)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">RC28CP</td>
+<td align="left" rowspan="1">Redes De Computadores 2</td>
+<td align="center">7CP</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">15</td>
+<td align="center">10</td>
+<td align="right">
+4T2 (V006)
+ - 4T3 (V006)
+ - 6T2 (V006)
+ - 6T3 (V006)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">SC28CP</td>
+<td align="left" rowspan="1">Segurança Computacional</td>
+<td align="center">9CP</td>
+<td align="center">0</td>
+<td align="center">15</td>
+<td align="center">11</td>
+<td align="center">4</td>
+<td align="right">
+4N1 (V007)
+ - 4N2 (V007)
+ - 6N1 (V007)
+ - 6N2 (V007)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">SD29CP</td>
+<td align="left" rowspan="1">Sistemas Distribuídos</td>
+<td align="center">8CP</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">10</td>
+<td align="center">15</td>
+<td align="right">
+2T4 (V006)
+ - 2T5 (V006)
+ - 5T4 (V006)
+ - 5T5 (V006)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">SI27CP</td>
+<td align="left" rowspan="1">Sistemas Inteligentes</td>
+<td align="center">8CP</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">7</td>
+<td align="center">18</td>
+<td align="right">
+3T4 (V007)
+ - 3T5 (V007)
+ - 5T2 (V007)
+ - 5T3 (V007)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">SO25CP</td>
+<td align="left" rowspan="1">Sistemas Operacionais</td>
+<td align="center">7CP</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">16</td>
+<td align="center">9</td>
+<td align="right">
+3T4 (V107)
+ - 3T5 (V107)
+ - 4T4 (V107)
+ - 4T5 (V107)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1">TC28CP</td>
+<td align="left" rowspan="1">Trabalho De Conclusão De Curso 1</td>
+<td align="center">8CP</td>
+<td align="center">0</td>
+<td align="center">22</td>
+<td align="center">11</td>
+<td align="center">11</td>
+<td align="right">
+3T1 (V105)
+ - 5T1 (V105)
+</td>
+</tr>
+<tr>
+<td colspan="8" style="font-weight:bold; font-size:8pt;">
+As vagas restantes só aparecerão nesse relatório após o encerramento do processo de matrícula. Durante o processo todas aparecerão zeradas.
+</td>
+</tr>
+</table>
