@@ -52,3 +52,13 @@ alocar todas as aulas em uma sala que não seja a certa.
 
 Para resolver o problema, deve-se criar um outro arquivo com a parte que
 deve acontecer em outra sala.
+
+## PERIODO
+
+O script tenta inferir o periodo a partir da turma. Se a disciplina é da
+turma 1CPA ele vai considerar 1CPA como periodo. Também pode acontecer do
+script pegar primeiro uma turma especial, como 1EXB, e esse vai ser
+considerado o período. Para resolver o problema, o especialista deverá
+renomear o arquivo (para a turma predominante) e deixar a turma especial
+como um alias.
+
